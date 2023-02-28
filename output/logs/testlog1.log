@@ -553,3 +553,8 @@
 2023-02-28 14:09:55,769 [main] INFO logger_File - User enter email and Password
 2023-02-28 14:09:55,991 [main] INFO logger_File - User log In into Accoutn
 2023-02-28 14:09:56,492 [main] INFO logger_File - User confimed on account page
+2023-02-28 14:57:45,304 [main] INFO logger_File - user is on retail website
+2023-02-28 14:57:45,493 [main] INFO logger_File - User Signed In
+2023-02-28 14:57:45,867 [main] INFO logger_File - User enter email and Password
+2023-02-28 14:57:46,005 [main] INFO logger_File - User log In into Accoutn
+2023-02-28 14:57:46,407 [main] INFO logger_File - User confimed on account page
