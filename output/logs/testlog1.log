@@ -533,3 +533,23 @@
 2023-02-28 13:26:20,251 [main] INFO logger_File - User enter name and phone number
 2023-02-28 13:26:20,487 [main] INFO logger_File - User click on update button
 2023-02-28 13:26:21,536 [main] INFO logger_File - good to go
+2023-02-28 14:05:15,435 [main] INFO logger_File - user is on retail website
+2023-02-28 14:05:16,250 [main] INFO logger_File - User Signed In
+2023-02-28 14:05:16,706 [main] INFO logger_File - User click on create new Account button
+2023-02-28 14:05:18,821 [main] INFO logger_File - User enter name, email, password, confirmpassword
+2023-02-28 14:05:19,035 [main] INFO logger_File - User Click on sign Up Button
+2023-02-28 14:06:10,837 [main] INFO logger_File - user is on retail website
+2023-02-28 14:06:11,359 [main] INFO logger_File - User Signed In
+2023-02-28 14:06:12,224 [main] INFO logger_File - User enter email and Password
+2023-02-28 14:06:12,486 [main] INFO logger_File - User log In into Accoutn
+2023-02-28 14:06:13,052 [main] INFO logger_File - User confimed on account page
+2023-02-28 14:07:00,149 [main] INFO logger_File - user is on retail website
+2023-02-28 14:07:01,000 [main] INFO logger_File - User Signed In
+2023-02-28 14:07:02,000 [main] INFO logger_File - User enter email and Password
+2023-02-28 14:07:02,260 [main] INFO logger_File - User log In into Accoutn
+2023-02-28 14:07:02,688 [main] INFO logger_File - User confimed on account page
+2023-02-28 14:09:54,965 [main] INFO logger_File - user is on retail website
+2023-02-28 14:09:55,225 [main] INFO logger_File - User Signed In
+2023-02-28 14:09:55,769 [main] INFO logger_File - User enter email and Password
+2023-02-28 14:09:55,991 [main] INFO logger_File - User log In into Accoutn
+2023-02-28 14:09:56,492 [main] INFO logger_File - User confimed on account page

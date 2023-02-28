@@ -1,0 +1,10 @@
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/config/EdgeBrowser.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/config/ChromeBrowser.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/utilities/FileUtility.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/config/FirefoxBrowser.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/utilities/CommonUtility.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/utilities/ReadYamlFiles.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/config/ChromeHeadless.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/config/SafariBrowser.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/config/Browser.java
+/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/main/java/tek/sdet/framework/base/BaseSetup.java
