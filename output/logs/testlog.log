@@ -1,0 +1,535 @@
+2023-02-14 13:03:13,787 - logger_File -INFO - user is on retail website
+2023-02-14 13:03:14,699 - logger_File -INFO - User searched for Pokemonitem
+2023-02-14 13:03:14,853 - logger_File -INFO - Product is displayed
+2023-02-14 13:04:22,125 - logger_File -INFO - user is on retail website
+2023-02-14 13:04:23,158 - logger_File -INFO - User searched for Pokemonitem
+2023-02-14 13:04:23,340 - logger_File -INFO - Product is displayed
+2023-02-14 13:10:03,080 - logger_File -INFO - user is on retail website
+2023-02-14 13:10:03,831 - logger_File -INFO - User searched for Pokemonitem
+2023-02-14 13:10:04,063 - logger_File -INFO - Product is displayed
+2023-02-14 13:54:42,233 - logger_File -INFO - user is on retail website
+2023-02-14 13:54:42,964 - logger_File -INFO - User searched for Pokemonitem
+2023-02-14 13:54:43,154 - logger_File -INFO - Product is displayed
+2023-02-15 13:22:37,827 - logger_File -INFO - user is on retail website
+2023-02-15 13:25:31,294 - logger_File -INFO - user is on retail website
+2023-02-15 13:28:58,293 - logger_File -INFO - user is on retail website
+2023-02-15 13:32:00,658 - logger_File -INFO - user is on retail website
+2023-02-15 13:35:36,323 - logger_File -INFO - user is on retail website
+2023-02-15 13:40:05,070 - logger_File -INFO - user is on retail website
+2023-02-15 13:40:05,592 - logger_File -INFO - user clicked on Sign in Option
+2023-02-15 13:43:14,358 - logger_File -INFO - user is on retail website
+2023-02-15 13:43:14,660 - logger_File -INFO - user clicked on Sign in Option
+2023-02-15 13:43:15,512 - logger_File -INFO - user entered email and password
+2023-02-15 13:43:15,683 - logger_File -INFO - User clicked on login button
+2023-02-15 13:43:16,214 - logger_File -INFO - user is logged in into Account
+2023-02-15 13:54:32,559 - logger_File -INFO - user is on retail website
+2023-02-15 13:54:32,925 - logger_File -INFO - user clicked on Sign in Option
+2023-02-15 13:54:33,758 - logger_File -INFO - user entered email and password
+2023-02-15 13:54:33,933 - logger_File -INFO - User clicked on login button
+2023-02-15 13:54:34,851 - logger_File -INFO - user is logged in into Account
+2023-02-15 13:54:35,077 - logger_File -INFO - User Succefully logOut
+2023-02-22 08:47:49,799 - logger_File -INFO - user is on retail website
+2023-02-22 08:47:50,089 - logger_File -INFO - User clicked on signIn button
+2023-02-22 08:47:50,617 - logger_File -INFO - User put Email and Password
+2023-02-22 08:47:50,784 - logger_File -INFO - User click on login button
+2023-02-22 08:50:08,805 - logger_File -INFO - user is on retail website
+2023-02-22 08:50:09,084 - logger_File -INFO - User clicked on signIn button
+2023-02-22 08:50:09,635 - logger_File -INFO - User put Email and Password
+2023-02-22 08:50:09,791 - logger_File -INFO - User click on login button
+2023-02-22 09:28:54,707 - logger_File -INFO - user is on retail website
+2023-02-22 09:28:54,967 - logger_File -INFO - User clicked on signIn button
+2023-02-22 09:28:55,495 - logger_File -INFO - User put Email and Password
+2023-02-22 09:28:55,653 - logger_File -INFO - User click on login button
+2023-02-22 09:31:17,157 - logger_File -INFO - user is on retail website
+2023-02-22 09:31:17,405 - logger_File -INFO - User clicked on signIn button
+2023-02-22 09:31:17,942 - logger_File -INFO - User put Email and Password
+2023-02-22 09:31:18,101 - logger_File -INFO - User click on login button
+2023-02-22 09:34:37,537 - logger_File -INFO - user is on retail website
+2023-02-22 09:34:37,800 - logger_File -INFO - User clicked on signIn button
+2023-02-22 09:34:38,320 - logger_File -INFO - User put Email and Password
+2023-02-22 09:34:38,469 - logger_File -INFO - User click on login button
+2023-02-22 09:34:38,956 - logger_File -INFO - user is logged in into Account
+2023-02-22 09:36:32,747 - logger_File -INFO - user is on retail website
+2023-02-22 09:36:33,004 - logger_File -INFO - User clicked on signIn button
+2023-02-22 09:36:33,532 - logger_File -INFO - User put Email and Password
+2023-02-22 09:36:33,701 - logger_File -INFO - User click on login button
+2023-02-22 09:44:20,399 - logger_File -INFO - user is on retail website
+2023-02-22 09:44:20,639 - logger_File -INFO - User clicked on signIn button
+2023-02-22 09:44:21,052 - logger_File -INFO - User put Email and Password
+2023-02-22 09:44:21,207 - logger_File -INFO - User click on login button
+2023-02-22 09:44:22,024 - logger_File -INFO - user is logged in into Account
+2023-02-22 09:51:05,136 - logger_File -INFO - user is on retail website
+2023-02-22 09:51:05,406 - logger_File -INFO - User clicked on signIn button
+2023-02-22 09:51:05,841 - logger_File -INFO - User put Email and Password
+2023-02-22 09:51:05,984 - logger_File -INFO - User click on login button
+2023-02-22 09:51:06,548 - logger_File -INFO - user is logged in into Account
+2023-02-23 22:35:24,040 - logger_File -INFO - user is on retail website
+2023-02-23 22:35:24,311 - logger_File -INFO - User Signed In
+2023-02-23 22:35:24,872 - logger_File -INFO - User Succsecfully put their email and password
+2023-02-23 22:35:25,043 - logger_File -INFO - User log In into Accoutn
+2023-02-23 22:35:25,515 - logger_File -INFO - User confimed on account page
+2023-02-27 09:18:41,067 - logger_File -INFO - user is on retail website
+2023-02-27 09:18:41,276 - logger_File -INFO - User Signed In
+2023-02-27 09:20:35,650 - logger_File -INFO - user is on retail website
+2023-02-27 09:20:35,886 - logger_File -INFO - User Signed In
+2023-02-27 09:20:36,368 - logger_File -INFO - User enter email and Password
+2023-02-27 09:20:36,488 - logger_File -INFO - User log In into Accoutn
+2023-02-27 09:20:37,016 - logger_File -INFO - User confimed on account page
+2023-02-27 09:57:01,964 - logger_File -INFO - user is on retail website
+2023-02-27 09:57:02,227 - logger_File -INFO - User Signed In
+2023-02-27 09:57:02,439 - logger_File -INFO - User click on create new Account button
+2023-02-27 09:57:03,164 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-02-27 09:57:03,293 - logger_File -INFO - User Click on sign Up Button
+2023-02-27 09:57:34,192 - logger_File -INFO - user is on retail website
+2023-02-27 09:57:34,418 - logger_File -INFO - User Signed In
+2023-02-27 09:57:34,588 - logger_File -INFO - User click on create new Account button
+2023-02-27 09:57:35,336 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-02-27 09:57:35,467 - logger_File -INFO - User Click on sign Up Button
+2023-02-27 09:58:07,395 - logger_File -INFO - user is on retail website
+2023-02-27 09:58:07,644 - logger_File -INFO - User Signed In
+2023-02-27 09:58:07,838 - logger_File -INFO - User click on create new Account button
+2023-02-27 09:58:08,563 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-02-27 09:58:08,691 - logger_File -INFO - User Click on sign Up Button
+2023-02-27 09:58:35,211 - logger_File -INFO - user is on retail website
+2023-02-27 09:58:35,495 - logger_File -INFO - User Signed In
+2023-02-27 09:58:35,646 - logger_File -INFO - User click on create new Account button
+2023-02-27 09:58:36,415 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-02-27 09:58:36,547 - logger_File -INFO - User Click on sign Up Button
+2023-02-27 10:43:54,994 - logger_File -INFO - user is on retail website
+2023-02-27 10:43:55,262 - logger_File -INFO - User Signed In
+2023-02-27 10:43:55,794 - logger_File -INFO - User enter email and Password
+2023-02-27 10:43:55,939 - logger_File -INFO - User log In into Accoutn
+2023-02-27 10:43:56,460 - logger_File -INFO - User confimed on account page
+2023-02-27 10:43:56,752 - logger_File -INFO - User click on account options
+2023-02-27 10:43:57,183 - logger_File -INFO - User enter name and phone number
+2023-02-27 10:43:57,316 - logger_File -INFO - User updated name and phone number
+2023-02-27 18:22:10,330 - logger_File -INFO - user is on retail website
+2023-02-27 18:22:10,589 - logger_File -INFO - User Signed In
+2023-02-27 18:22:11,153 - logger_File -INFO - User enter email and Password
+2023-02-27 18:22:11,333 - logger_File -INFO - User log In into Accoutn
+2023-02-27 18:22:11,761 - logger_File -INFO - User confimed on account page
+2023-02-27 18:22:12,124 - logger_File -INFO - User click on account options
+2023-02-27 18:22:12,713 - logger_File -INFO - User enter name and phone number
+2023-02-27 18:22:12,870 - logger_File -INFO - User updated name and phone number
+2023-02-27 18:33:38,491 - logger_File -INFO - user is on retail website
+2023-02-27 18:33:38,702 - logger_File -INFO - User Signed In
+2023-02-27 18:33:39,191 - logger_File -INFO - User enter email and Password
+2023-02-27 18:33:39,332 - logger_File -INFO - User log In into Accoutn
+2023-02-27 18:33:39,793 - logger_File -INFO - User confimed on account page
+2023-02-27 18:33:40,120 - logger_File -INFO - User click on account options
+2023-02-27 18:33:40,670 - logger_File -INFO - User enter name and phone number
+2023-02-27 18:33:40,830 - logger_File -INFO - User updated name and phone number
+2023-02-27 18:40:10,932 - logger_File -INFO - user is on retail website
+2023-02-27 18:40:11,217 - logger_File -INFO - User Signed In
+2023-02-27 18:40:11,681 - logger_File -INFO - User enter email and Password
+2023-02-27 18:40:11,845 - logger_File -INFO - User log In into Accoutn
+2023-02-27 18:40:12,699 - logger_File -INFO - User confimed on account page
+2023-02-27 18:40:12,984 - logger_File -INFO - User click on account options
+2023-02-27 18:40:13,464 - logger_File -INFO - User enter name and phone number
+2023-02-27 18:46:23,644 - logger_File -INFO - user is on retail website
+2023-02-27 18:46:23,878 - logger_File -INFO - User Signed In
+2023-02-27 18:46:24,403 - logger_File -INFO - User enter email and Password
+2023-02-27 18:46:24,531 - logger_File -INFO - User log In into Accoutn
+2023-02-27 18:46:25,082 - logger_File -INFO - User confimed on account page
+2023-02-27 18:46:25,428 - logger_File -INFO - User click on account options
+2023-02-27 18:46:25,885 - logger_File -INFO - User enter name and phone number
+2023-02-27 18:49:09,818 - logger_File -INFO - user is on retail website
+2023-02-27 18:49:10,000 - logger_File -INFO - User Signed In
+2023-02-27 18:49:10,485 - logger_File -INFO - User enter email and Password
+2023-02-27 18:49:10,644 - logger_File -INFO - User log In into Accoutn
+2023-02-27 18:49:11,123 - logger_File -INFO - User confimed on account page
+2023-02-27 18:49:11,392 - logger_File -INFO - User click on account options
+2023-02-27 18:49:11,924 - logger_File -INFO - User enter name and phone number
+2023-02-27 18:51:21,924 - logger_File -INFO - user is on retail website
+2023-02-27 18:51:22,150 - logger_File -INFO - User Signed In
+2023-02-27 18:51:22,571 - logger_File -INFO - User enter email and Password
+2023-02-27 18:51:22,708 - logger_File -INFO - User log In into Accoutn
+2023-02-27 18:51:23,330 - logger_File -INFO - User confimed on account page
+2023-02-27 18:51:23,674 - logger_File -INFO - User click on account options
+2023-02-27 18:51:24,223 - logger_File -INFO - User enter name and phone number
+2023-02-27 18:53:39,600 - logger_File -INFO - user is on retail website
+2023-02-27 18:53:39,799 - logger_File -INFO - User Signed In
+2023-02-27 18:53:40,307 - logger_File -INFO - User enter email and Password
+2023-02-27 18:53:40,475 - logger_File -INFO - User log In into Accoutn
+2023-02-27 18:53:40,996 - logger_File -INFO - User confimed on account page
+2023-02-27 18:53:41,284 - logger_File -INFO - User click on account options
+2023-02-27 18:53:41,768 - logger_File -INFO - User enter name and phone number
+2023-02-27 18:56:21,825 - logger_File -INFO - user is on retail website
+2023-02-27 18:56:22,057 - logger_File -INFO - User Signed In
+2023-02-27 18:56:22,595 - logger_File -INFO - User enter email and Password
+2023-02-27 18:56:22,736 - logger_File -INFO - User log In into Accoutn
+2023-02-27 18:56:23,387 - logger_File -INFO - User confimed on account page
+2023-02-27 18:56:23,630 - logger_File -INFO - User click on account options
+2023-02-27 18:56:24,114 - logger_File -INFO - User enter name and phone number
+2023-02-27 19:14:20,661 - logger_File -INFO - user is on retail website
+2023-02-27 19:14:20,908 - logger_File -INFO - User Signed In
+2023-02-27 19:14:21,400 - logger_File -INFO - User enter email and Password
+2023-02-27 19:14:21,581 - logger_File -INFO - User log In into Accoutn
+2023-02-27 19:14:22,115 - logger_File -INFO - User confimed on account page
+2023-02-27 19:14:22,362 - logger_File -INFO - User click on account options
+2023-02-27 19:14:22,856 - logger_File -INFO - User enter name and phone number
+2023-02-27 19:14:22,972 - logger_File -INFO - User click on update button
+2023-02-27 19:17:37,452 - logger_File -INFO - user is on retail website
+2023-02-27 19:17:37,732 - logger_File -INFO - User Signed In
+2023-02-27 19:17:38,261 - logger_File -INFO - User enter email and Password
+2023-02-27 19:17:38,418 - logger_File -INFO - User log In into Accoutn
+2023-02-27 19:17:38,940 - logger_File -INFO - User confimed on account page
+2023-02-27 19:17:39,222 - logger_File -INFO - User click on account options
+2023-02-27 19:17:39,700 - logger_File -INFO - User enter name and phone number
+2023-02-27 19:17:39,839 - logger_File -INFO - User click on update button
+2023-02-27 19:25:56,455 - logger_File -INFO - user is on retail website
+2023-02-27 19:25:56,729 - logger_File -INFO - User Signed In
+2023-02-27 19:25:57,260 - logger_File -INFO - User enter email and Password
+2023-02-27 19:25:57,422 - logger_File -INFO - User log In into Accoutn
+2023-02-27 19:25:57,962 - logger_File -INFO - User confimed on account page
+2023-02-27 19:25:58,220 - logger_File -INFO - User click on account options
+2023-02-27 19:25:58,728 - logger_File -INFO - User enter name and phone number
+2023-02-27 19:27:52,765 - logger_File -INFO - user is on retail website
+2023-02-27 19:27:52,972 - logger_File -INFO - User Signed In
+2023-02-27 19:27:53,380 - logger_File -INFO - User enter email and Password
+2023-02-27 19:27:53,512 - logger_File -INFO - User log In into Accoutn
+2023-02-27 19:27:54,370 - logger_File -INFO - User confimed on account page
+2023-02-27 19:27:54,668 - logger_File -INFO - User click on account options
+2023-02-27 19:27:55,240 - logger_File -INFO - User enter name and phone number
+2023-02-27 19:59:00,187 - logger_File -INFO - user is on retail website
+2023-02-27 19:59:00,430 - logger_File -INFO - User Signed In
+2023-02-27 19:59:00,932 - logger_File -INFO - User enter email and Password
+2023-02-27 19:59:01,082 - logger_File -INFO - User log In into Accoutn
+2023-02-27 19:59:01,580 - logger_File -INFO - User confimed on account page
+2023-02-27 19:59:01,834 - logger_File -INFO - User click on account options
+2023-02-27 19:59:02,299 - logger_File -INFO - User enter name and phone number
+2023-02-27 20:02:01,499 - logger_File -INFO - user is on retail website
+2023-02-27 20:02:01,730 - logger_File -INFO - User Signed In
+2023-02-27 20:02:02,251 - logger_File -INFO - User enter email and Password
+2023-02-27 20:02:02,383 - logger_File -INFO - User log In into Accoutn
+2023-02-27 20:02:02,849 - logger_File -INFO - User confimed on account page
+2023-02-27 20:02:03,099 - logger_File -INFO - User click on account options
+2023-02-27 20:02:03,632 - logger_File -INFO - User enter name and phone number
+2023-02-27 20:04:13,004 - logger_File -INFO - user is on retail website
+2023-02-27 20:04:13,339 - logger_File -INFO - User Signed In
+2023-02-27 20:04:13,911 - logger_File -INFO - User enter email and Password
+2023-02-27 20:04:14,055 - logger_File -INFO - User log In into Accoutn
+2023-02-27 20:04:14,509 - logger_File -INFO - User confimed on account page
+2023-02-27 20:04:14,776 - logger_File -INFO - User click on account options
+2023-02-27 20:04:15,268 - logger_File -INFO - User enter name and phone number
+2023-02-27 20:04:15,392 - logger_File -INFO - User click on update button
+2023-02-27 20:06:19,688 - logger_File -INFO - user is on retail website
+2023-02-27 20:06:19,923 - logger_File -INFO - User Signed In
+2023-02-27 20:06:20,443 - logger_File -INFO - User enter email and Password
+2023-02-27 20:06:20,582 - logger_File -INFO - User log In into Accoutn
+2023-02-27 20:06:21,111 - logger_File -INFO - User confimed on account page
+2023-02-27 20:06:21,378 - logger_File -INFO - User click on account options
+2023-02-27 20:06:21,895 - logger_File -INFO - User enter name and phone number
+2023-02-27 20:06:22,010 - logger_File -INFO - User click on update button
+2023-02-27 20:14:55,343 - logger_File -INFO - user is on retail website
+2023-02-27 20:14:55,630 - logger_File -INFO - User Signed In
+2023-02-27 20:14:56,119 - logger_File -INFO - User enter email and Password
+2023-02-27 20:14:56,273 - logger_File -INFO - User log In into Accoutn
+2023-02-27 20:14:56,776 - logger_File -INFO - User confimed on account page
+2023-02-27 20:14:57,049 - logger_File -INFO - User click on account options
+2023-02-27 20:14:57,576 - logger_File -INFO - User enter name and phone number
+2023-02-27 20:14:57,725 - logger_File -INFO - User click on update button
+2023-02-27 20:16:49,935 - logger_File -INFO - user is on retail website
+2023-02-27 20:16:50,116 - logger_File -INFO - User Signed In
+2023-02-27 20:16:50,505 - logger_File -INFO - User enter email and Password
+2023-02-27 20:16:50,635 - logger_File -INFO - User log In into Accoutn
+2023-02-27 20:16:51,040 - logger_File -INFO - User confimed on account page
+2023-02-27 20:16:51,392 - logger_File -INFO - User click on account options
+2023-02-27 20:16:52,039 - logger_File -INFO - User enter name and phone number
+2023-02-27 20:16:52,186 - logger_File -INFO - User click on update button
+2023-02-27 20:29:59,263 - logger_File -INFO - user is on retail website
+2023-02-27 20:30:00,072 - logger_File -INFO - User Signed In
+2023-02-27 20:30:00,883 - logger_File -INFO - User enter email and Password
+2023-02-27 20:30:01,122 - logger_File -INFO - User log In into Accoutn
+2023-02-27 20:30:01,865 - logger_File -INFO - User confimed on account page
+2023-02-27 20:30:02,232 - logger_File -INFO - User click on account options
+2023-02-27 20:30:03,056 - logger_File -INFO - User enter name and phone number
+2023-02-27 20:30:03,274 - logger_File -INFO - User click on update button
+2023-02-27 21:00:16,827 - logger_File -INFO - user is on retail website
+2023-02-27 21:00:17,060 - logger_File -INFO - User Signed In
+2023-02-27 21:00:17,662 - logger_File -INFO - User enter email and Password
+2023-02-27 21:00:17,808 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:00:18,308 - logger_File -INFO - User confimed on account page
+2023-02-27 21:00:18,546 - logger_File -INFO - User click on account options
+2023-02-27 21:00:19,131 - logger_File -INFO - User put new Password
+2023-02-27 21:00:19,239 - logger_File -INFO - User click on change Password Button
+2023-02-27 21:06:56,523 - logger_File -INFO - user is on retail website
+2023-02-27 21:06:56,735 - logger_File -INFO - User Signed In
+2023-02-27 21:06:57,307 - logger_File -INFO - User enter email and Password
+2023-02-27 21:06:57,438 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:06:57,929 - logger_File -INFO - User confimed on account page
+2023-02-27 21:06:58,172 - logger_File -INFO - User click on account options
+2023-02-27 21:06:58,764 - logger_File -INFO - User put new Password
+2023-02-27 21:06:58,880 - logger_File -INFO - User click on change Password Button
+2023-02-27 21:10:26,517 - logger_File -INFO - user is on retail website
+2023-02-27 21:10:26,696 - logger_File -INFO - User Signed In
+2023-02-27 21:11:34,118 - logger_File -INFO - user is on retail website
+2023-02-27 21:11:34,343 - logger_File -INFO - User Signed In
+2023-02-27 21:11:34,875 - logger_File -INFO - User enter email and Password
+2023-02-27 21:11:35,027 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:11:35,479 - logger_File -INFO - User confimed on account page
+2023-02-27 21:11:35,722 - logger_File -INFO - User click on account options
+2023-02-27 21:11:36,370 - logger_File -INFO - User put new Password
+2023-02-27 21:11:36,535 - logger_File -INFO - User click on change Password Button
+2023-02-27 21:42:36,285 - logger_File -INFO - user is on retail website
+2023-02-27 21:42:36,511 - logger_File -INFO - User Signed In
+2023-02-27 21:42:36,962 - logger_File -INFO - User enter email and Password
+2023-02-27 21:42:37,106 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:42:37,645 - logger_File -INFO - User confimed on account page
+2023-02-27 21:42:37,934 - logger_File -INFO - User click on account options
+2023-02-27 21:42:38,539 - logger_File -INFO - User put new Password
+2023-02-27 21:42:38,672 - logger_File -INFO - User click on change Password Button
+2023-02-27 21:44:28,133 - logger_File -INFO - user is on retail website
+2023-02-27 21:44:28,320 - logger_File -INFO - User Signed In
+2023-02-27 21:44:29,022 - logger_File -INFO - User enter email and Password
+2023-02-27 21:44:29,262 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:44:29,752 - logger_File -INFO - User confimed on account page
+2023-02-27 21:44:30,035 - logger_File -INFO - User click on account options
+2023-02-27 21:44:30,665 - logger_File -INFO - User put new Password
+2023-02-27 21:44:30,771 - logger_File -INFO - User click on change Password Button
+2023-02-27 21:48:03,550 - logger_File -INFO - user is on retail website
+2023-02-27 21:48:03,766 - logger_File -INFO - User Signed In
+2023-02-27 21:48:04,339 - logger_File -INFO - User enter email and Password
+2023-02-27 21:48:04,481 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:48:04,978 - logger_File -INFO - User confimed on account page
+2023-02-27 21:48:05,213 - logger_File -INFO - User click on account options
+2023-02-27 21:48:05,760 - logger_File -INFO - User put new Password
+2023-02-27 21:48:05,872 - logger_File -INFO - User click on change Password Button
+2023-02-27 21:49:40,783 - logger_File -INFO - user is on retail website
+2023-02-27 21:49:41,014 - logger_File -INFO - User Signed In
+2023-02-27 21:49:41,555 - logger_File -INFO - User enter email and Password
+2023-02-27 21:49:41,681 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:50:29,574 - logger_File -INFO - user is on retail website
+2023-02-27 21:50:29,816 - logger_File -INFO - User Signed In
+2023-02-27 21:50:30,347 - logger_File -INFO - User enter email and Password
+2023-02-27 21:50:30,492 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:50:31,020 - logger_File -INFO - User confimed on account page
+2023-02-27 21:50:31,245 - logger_File -INFO - User click on account options
+2023-02-27 21:50:31,779 - logger_File -INFO - User put new Password
+2023-02-27 21:50:31,944 - logger_File -INFO - User click on change Password Button
+2023-02-27 21:52:15,293 - logger_File -INFO - user is on retail website
+2023-02-27 21:52:15,487 - logger_File -INFO - User Signed In
+2023-02-27 21:52:15,992 - logger_File -INFO - User enter email and Password
+2023-02-27 21:52:16,132 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:52:16,616 - logger_File -INFO - User confimed on account page
+2023-02-27 21:52:16,849 - logger_File -INFO - User click on account options
+2023-02-27 21:52:17,427 - logger_File -INFO - User put new Password
+2023-02-27 21:52:17,563 - logger_File -INFO - User click on change Password Button
+2023-02-27 21:56:26,322 - logger_File -INFO - user is on retail website
+2023-02-27 21:56:26,524 - logger_File -INFO - User Signed In
+2023-02-27 21:56:27,046 - logger_File -INFO - User enter email and Password
+2023-02-27 21:56:27,183 - logger_File -INFO - User log In into Accoutn
+2023-02-27 21:56:27,730 - logger_File -INFO - User confimed on account page
+2023-02-27 21:56:27,972 - logger_File -INFO - User click on account options
+2023-02-27 21:56:28,537 - logger_File -INFO - User enter name and phone number
+2023-02-27 21:56:28,667 - logger_File -INFO - User click on update button
+2023-02-27 21:56:29,487 - logger_File -INFO - good to go
+2023-02-27 22:00:18,358 - logger_File -INFO - user is on retail website
+2023-02-27 22:00:18,581 - logger_File -INFO - User Signed In
+2023-02-27 22:00:19,182 - logger_File -INFO - User enter email and Password
+2023-02-27 22:00:19,323 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:00:19,860 - logger_File -INFO - User confimed on account page
+2023-02-27 22:00:20,147 - logger_File -INFO - User click on account options
+2023-02-27 22:00:20,657 - logger_File -INFO - User enter name and phone number
+2023-02-27 22:00:20,776 - logger_File -INFO - User click on update button
+2023-02-27 22:00:21,786 - logger_File -INFO - good to go
+2023-02-27 22:03:30,563 - logger_File -INFO - user is on retail website
+2023-02-27 22:03:30,804 - logger_File -INFO - User Signed In
+2023-02-27 22:03:31,326 - logger_File -INFO - User enter email and Password
+2023-02-27 22:03:31,482 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:03:32,047 - logger_File -INFO - User confimed on account page
+2023-02-27 22:03:32,373 - logger_File -INFO - User click on account options
+2023-02-27 22:03:32,957 - logger_File -INFO - User put new Password
+2023-02-27 22:03:33,119 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:05:04,414 - logger_File -INFO - user is on retail website
+2023-02-27 22:05:04,581 - logger_File -INFO - User Signed In
+2023-02-27 22:05:05,025 - logger_File -INFO - User enter email and Password
+2023-02-27 22:05:05,189 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:05:05,679 - logger_File -INFO - User confimed on account page
+2023-02-27 22:05:05,951 - logger_File -INFO - User click on account options
+2023-02-27 22:05:06,526 - logger_File -INFO - User put new Password
+2023-02-27 22:05:06,659 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:08:50,333 - logger_File -INFO - user is on retail website
+2023-02-27 22:08:50,510 - logger_File -INFO - User Signed In
+2023-02-27 22:08:50,963 - logger_File -INFO - User enter email and Password
+2023-02-27 22:08:51,126 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:08:51,682 - logger_File -INFO - User confimed on account page
+2023-02-27 22:08:51,935 - logger_File -INFO - User click on account options
+2023-02-27 22:08:52,535 - logger_File -INFO - User put new Password
+2023-02-27 22:08:52,687 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:12:14,734 - logger_File -INFO - user is on retail website
+2023-02-27 22:12:14,941 - logger_File -INFO - User Signed In
+2023-02-27 22:12:15,528 - logger_File -INFO - User enter email and Password
+2023-02-27 22:12:15,678 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:12:54,209 - logger_File -INFO - user is on retail website
+2023-02-27 22:12:54,438 - logger_File -INFO - User Signed In
+2023-02-27 22:12:55,023 - logger_File -INFO - User enter email and Password
+2023-02-27 22:12:55,182 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:16:12,085 - logger_File -INFO - user is on retail website
+2023-02-27 22:16:12,348 - logger_File -INFO - User Signed In
+2023-02-27 22:16:12,881 - logger_File -INFO - User enter email and Password
+2023-02-27 22:16:13,015 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:16:13,488 - logger_File -INFO - User confimed on account page
+2023-02-27 22:16:13,777 - logger_File -INFO - User click on account options
+2023-02-27 22:16:14,374 - logger_File -INFO - User put new Password
+2023-02-27 22:16:14,504 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:16:38,515 - logger_File -INFO - user is on retail website
+2023-02-27 22:16:38,688 - logger_File -INFO - User Signed In
+2023-02-27 22:16:39,207 - logger_File -INFO - User enter email and Password
+2023-02-27 22:16:39,342 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:16:39,875 - logger_File -INFO - User confimed on account page
+2023-02-27 22:16:40,102 - logger_File -INFO - User click on account options
+2023-02-27 22:16:40,691 - logger_File -INFO - User put new Password
+2023-02-27 22:16:40,816 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:17:29,238 - logger_File -INFO - user is on retail website
+2023-02-27 22:17:29,418 - logger_File -INFO - User Signed In
+2023-02-27 22:17:29,904 - logger_File -INFO - User enter email and Password
+2023-02-27 22:17:30,055 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:17:30,585 - logger_File -INFO - User confimed on account page
+2023-02-27 22:17:30,845 - logger_File -INFO - User click on account options
+2023-02-27 22:17:31,386 - logger_File -INFO - User put new Password
+2023-02-27 22:17:31,504 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:20:26,836 - logger_File -INFO - user is on retail website
+2023-02-27 22:20:27,004 - logger_File -INFO - User Signed In
+2023-02-27 22:20:27,493 - logger_File -INFO - User enter email and Password
+2023-02-27 22:20:27,695 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:20:28,243 - logger_File -INFO - User confimed on account page
+2023-02-27 22:20:28,520 - logger_File -INFO - User click on account options
+2023-02-27 22:20:29,093 - logger_File -INFO - User put new Password
+2023-02-27 22:20:29,229 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:22:14,266 - logger_File -INFO - user is on retail website
+2023-02-27 22:22:14,511 - logger_File -INFO - User Signed In
+2023-02-27 22:22:15,087 - logger_File -INFO - User enter email and Password
+2023-02-27 22:22:15,270 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:22:15,762 - logger_File -INFO - User confimed on account page
+2023-02-27 22:22:16,038 - logger_File -INFO - User click on account options
+2023-02-27 22:22:16,585 - logger_File -INFO - User put new Password
+2023-02-27 22:22:16,713 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:24:17,336 - logger_File -INFO - user is on retail website
+2023-02-27 22:24:17,597 - logger_File -INFO - User Signed In
+2023-02-27 22:24:18,121 - logger_File -INFO - User enter email and Password
+2023-02-27 22:24:18,292 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:24:18,843 - logger_File -INFO - User confimed on account page
+2023-02-27 22:24:19,088 - logger_File -INFO - User click on account options
+2023-02-27 22:24:19,755 - logger_File -INFO - User put new Password
+2023-02-27 22:24:19,877 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:26:52,708 - logger_File -INFO - user is on retail website
+2023-02-27 22:26:52,937 - logger_File -INFO - User Signed In
+2023-02-27 22:26:53,498 - logger_File -INFO - User enter email and Password
+2023-02-27 22:26:53,645 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:26:54,143 - logger_File -INFO - User confimed on account page
+2023-02-27 22:26:54,398 - logger_File -INFO - User click on account options
+2023-02-27 22:26:55,082 - logger_File -INFO - User put new Password
+2023-02-27 22:26:55,236 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:29:45,160 - logger_File -INFO - user is on retail website
+2023-02-27 22:29:45,364 - logger_File -INFO - User Signed In
+2023-02-27 22:29:45,917 - logger_File -INFO - User enter email and Password
+2023-02-27 22:29:46,059 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:29:46,588 - logger_File -INFO - User confimed on account page
+2023-02-27 22:29:46,837 - logger_File -INFO - User click on account options
+2023-02-27 22:29:47,509 - logger_File -INFO - User put new Password
+2023-02-27 22:29:47,629 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:31:21,203 - logger_File -INFO - user is on retail website
+2023-02-27 22:31:21,405 - logger_File -INFO - User Signed In
+2023-02-27 22:31:21,921 - logger_File -INFO - User enter email and Password
+2023-02-27 22:31:22,112 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:31:22,728 - logger_File -INFO - User confimed on account page
+2023-02-27 22:31:23,006 - logger_File -INFO - User click on account options
+2023-02-27 22:31:23,828 - logger_File -INFO - User put new Password
+2023-02-27 22:31:23,971 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:35:16,543 - logger_File -INFO - user is on retail website
+2023-02-27 22:35:16,701 - logger_File -INFO - User Signed In
+2023-02-27 22:35:17,115 - logger_File -INFO - User enter email and Password
+2023-02-27 22:35:17,254 - logger_File -INFO - User log In into Accoutn
+2023-02-27 22:35:17,853 - logger_File -INFO - User confimed on account page
+2023-02-27 22:35:18,191 - logger_File -INFO - User click on account options
+2023-02-27 22:35:19,008 - logger_File -INFO - User put new Password
+2023-02-27 22:35:19,147 - logger_File -INFO - User click on change Password Button
+2023-02-27 22:35:20,093 - logger_File -INFO - good to go for updating password
+2023-02-28 06:33:00,142 - logger_File -INFO - user is on retail website
+2023-02-28 06:33:00,483 - logger_File -INFO - User Signed In
+2023-02-28 06:33:01,018 - logger_File -INFO - User enter email and Password
+2023-02-28 06:33:01,169 - logger_File -INFO - User log In into Accoutn
+2023-02-28 06:33:01,663 - logger_File -INFO - User confimed on account page
+2023-02-28 06:33:01,980 - logger_File -INFO - User click on account options
+2023-02-28 06:33:02,679 - logger_File -INFO - User put new Password
+2023-02-28 06:33:02,810 - logger_File -INFO - User click on change Password Button
+2023-02-28 06:33:03,807 - logger_File -INFO - good to go for updating password
+2023-02-28 06:36:08,723 - logger_File -INFO - user is on retail website
+2023-02-28 06:36:08,937 - logger_File -INFO - User Signed In
+2023-02-28 06:36:09,345 - logger_File -INFO - User enter email and Password
+2023-02-28 06:36:09,495 - logger_File -INFO - User log In into Accoutn
+2023-02-28 06:36:10,051 - logger_File -INFO - User confimed on account page
+2023-02-28 06:36:10,314 - logger_File -INFO - User click on account options
+2023-02-28 06:36:10,948 - logger_File -INFO - User put new Password
+2023-02-28 06:36:11,066 - logger_File -INFO - User click on change Password Button
+2023-02-28 06:36:12,063 - logger_File -INFO - good to go for updating password
+2023-02-28 06:37:04,323 - logger_File -INFO - user is on retail website
+2023-02-28 06:37:04,521 - logger_File -INFO - User Signed In
+2023-02-28 06:37:04,990 - logger_File -INFO - User enter email and Password
+2023-02-28 06:37:05,131 - logger_File -INFO - User log In into Accoutn
+2023-02-28 06:37:05,613 - logger_File -INFO - User confimed on account page
+2023-02-28 06:37:05,878 - logger_File -INFO - User click on account options
+2023-02-28 06:37:06,536 - logger_File -INFO - User put new Password
+2023-02-28 06:37:06,662 - logger_File -INFO - User click on change Password Button
+2023-02-28 06:37:07,600 - logger_File -INFO - good to go for updating password
+2023-02-28 06:39:57,481 - logger_File -INFO - user is on retail website
+2023-02-28 06:39:57,731 - logger_File -INFO - User Signed In
+2023-02-28 06:39:58,309 - logger_File -INFO - User enter email and Password
+2023-02-28 06:39:58,452 - logger_File -INFO - User log In into Accoutn
+2023-02-28 06:39:58,965 - logger_File -INFO - User confimed on account page
+2023-02-28 06:39:59,370 - logger_File -INFO - User click on account options
+2023-02-28 06:39:59,904 - logger_File -INFO - User put new Password
+2023-02-28 06:40:00,051 - logger_File -INFO - User click on change Password Button
+2023-02-28 06:40:00,995 - logger_File -INFO - good to go for updating password
+2023-02-28 06:47:54,741 - logger_File -INFO - user is on retail website
+2023-02-28 06:47:54,930 - logger_File -INFO - User Signed In
+2023-02-28 06:47:55,373 - logger_File -INFO - User enter email and Password
+2023-02-28 06:47:55,508 - logger_File -INFO - User log In into Accoutn
+2023-02-28 06:47:55,988 - logger_File -INFO - User confimed on account page
+2023-02-28 06:47:56,305 - logger_File -INFO - User click on account options
+2023-02-28 06:47:56,862 - logger_File -INFO - User put new Password
+2023-02-28 06:47:56,995 - logger_File -INFO - User click on change Password Button
+2023-02-28 06:47:57,954 - logger_File -INFO - good to go for updating password
+2023-02-28 06:56:26,273 - logger_File -INFO - user is on retail website
+2023-02-28 06:56:26,507 - logger_File -INFO - User Signed In
+2023-02-28 06:56:26,968 - logger_File -INFO - User enter email and Password
+2023-02-28 06:56:27,122 - logger_File -INFO - User log In into Accoutn
+2023-02-28 06:59:26,542 - logger_File -INFO - user is on retail website
+2023-02-28 06:59:26,748 - logger_File -INFO - User Signed In
+2023-02-28 06:59:27,145 - logger_File -INFO - User enter email and Password
+2023-02-28 06:59:27,314 - logger_File -INFO - User log In into Accoutn
+2023-02-28 06:59:27,775 - logger_File -INFO - User confimed on account page
+2023-02-28 06:59:28,016 - logger_File -INFO - User click on account options
+2023-02-28 06:59:28,549 - logger_File -INFO - User put new Password
+2023-02-28 06:59:28,675 - logger_File -INFO - User click on change Password Button
+2023-02-28 06:59:29,796 - logger_File -INFO - good to go for updating password
+2023-02-28 13:14:47,514 - logger_File -INFO - user is on retail website
+2023-02-28 13:14:48,218 - logger_File -INFO - User Signed In
+2023-02-28 13:14:49,083 - logger_File -INFO - User enter email and Password
+2023-02-28 13:14:49,386 - logger_File -INFO - User log In into Accoutn
+2023-02-28 13:15:54,413 - logger_File -INFO - user is on retail website
+2023-02-28 13:15:55,368 - logger_File -INFO - User Signed In
+2023-02-28 13:15:56,246 - logger_File -INFO - User enter email and Password
+2023-02-28 13:15:56,463 - logger_File -INFO - User log In into Accoutn
+2023-02-28 13:17:43,303 - logger_File -INFO - user is on retail website
+2023-02-28 13:17:43,852 - logger_File -INFO - User Signed In
+2023-02-28 13:17:44,911 - logger_File -INFO - User enter email and Password
+2023-02-28 13:17:45,160 - logger_File -INFO - User log In into Accoutn
+2023-02-28 13:22:24,869 - logger_File -INFO - user is on retail website
+2023-02-28 13:22:25,328 - logger_File -INFO - User Signed In
+2023-02-28 13:22:26,309 - logger_File -INFO - User enter email and Password
+2023-02-28 13:22:26,744 - logger_File -INFO - User log In into Accoutn
+2023-02-28 13:25:07,480 - logger_File -INFO - user is on retail website
+2023-02-28 13:25:07,829 - logger_File -INFO - User Signed In
+2023-02-28 13:25:08,713 - logger_File -INFO - User enter email and Password
+2023-02-28 13:25:08,960 - logger_File -INFO - User log In into Accoutn
+2023-02-28 13:26:16,047 - logger_File -INFO - user is on retail website
+2023-02-28 13:26:17,343 - logger_File -INFO - User Signed In
+2023-02-28 13:26:18,349 - logger_File -INFO - User enter email and Password
+2023-02-28 13:26:18,559 - logger_File -INFO - User log In into Accoutn
+2023-02-28 13:26:19,006 - logger_File -INFO - User confimed on account page
+2023-02-28 13:26:19,365 - logger_File -INFO - User click on account options
+2023-02-28 13:26:20,251 - logger_File -INFO - User enter name and phone number
+2023-02-28 13:26:20,487 - logger_File -INFO - User click on update button
+2023-02-28 13:26:21,536 - logger_File -INFO - good to go

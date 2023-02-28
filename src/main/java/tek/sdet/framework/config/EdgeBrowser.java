@@ -1,0 +1,19 @@
+package tek.sdet.framework.config;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class EdgeBrowser implements Browser {
+
+	
+	public WebDriver OpenBrowser(String url) {
+		
+		WebDriverManager.edgedriver().setup();
+		WebDriver driver = new EdgeDriver();
+		driver.get(url);
+		return driver;
+	}
+
+}
