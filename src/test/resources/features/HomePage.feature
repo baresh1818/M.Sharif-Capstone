@@ -57,12 +57,12 @@ Feature: Retail Home Page
     And User click Add a new address link for shipping address
     And User fill new address form with below information
       | country       | fullName      | phoneNumber | streetAddress    | apt | city       | state      | zipCode |
-      | United States | James William |  8763899876 | 4556 Cottage Way | H   | Sacramento | California |   87654 |
+      | United States | James William |  8763299876 | 4556 Cottage Way | H   | Sacramento | California |   87654 |
     And User click Add Your Address button
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 3335678103572567 | Qudtus Jan |               8 |           2025 |          728 |
+      | 3335670003572567 | Quntus Jan |               9 |           2026 |          728 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks’

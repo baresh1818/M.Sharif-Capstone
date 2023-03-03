@@ -2345,3 +2345,54 @@
 2023-03-03 14:18:30,080 - logger_File -INFO - User enter email and Password
 2023-03-03 14:18:30,187 - logger_File -INFO - User log In into Accoutn
 2023-03-03 14:18:30,730 - logger_File -INFO - User confimed on account page
+2023-03-03 15:31:43,675 - logger_File -INFO - User Signed In
+2023-03-03 15:31:44,141 - logger_File -INFO - User enter email and Password
+2023-03-03 15:31:44,300 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:31:44,848 - logger_File -INFO - User confimed on account page
+2023-03-03 15:31:45,033 - logger_File -INFO - User Change the Category to Department
+2023-03-03 15:31:45,330 - logger_File -INFO - User search for an item
+2023-03-03 15:31:45,840 - logger_File -INFO - User click on item
+2023-03-03 15:31:46,263 - logger_File -INFO - user select the quantity 
+2023-03-03 15:31:46,383 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 15:31:49,601 - logger_File -INFO - User click on Cart Option
+2023-03-03 15:31:49,788 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 15:31:49,968 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 15:31:54,846 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 15:31:55,054 - logger_File -INFO - 
+2023-03-03 15:31:58,197 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 15:31:58,972 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 15:31:59,126 - logger_File -INFO - User click on add your card button
+2023-03-03 15:32:21,024 - logger_File -INFO - User Signed In
+2023-03-03 15:32:21,422 - logger_File -INFO - User enter email and Password
+2023-03-03 15:32:21,566 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:32:22,165 - logger_File -INFO - User confimed on account page
+2023-03-03 15:32:22,387 - logger_File -INFO - User Change the Category to Department
+2023-03-03 15:32:22,757 - logger_File -INFO - User search for an item
+2023-03-03 15:32:23,246 - logger_File -INFO - User click on item
+2023-03-03 15:32:23,641 - logger_File -INFO - user select the quantity 
+2023-03-03 15:32:23,755 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 15:32:26,960 - logger_File -INFO - User click on Cart Option
+2023-03-03 15:32:27,144 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 15:32:27,353 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 15:32:32,249 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 15:32:32,468 - logger_File -INFO - 
+2023-03-03 15:32:35,640 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 15:32:36,358 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 15:32:36,499 - logger_File -INFO - User click on add your card button
+2023-03-03 15:33:04,058 - logger_File -INFO - User Signed In
+2023-03-03 15:33:04,530 - logger_File -INFO - User enter email and Password
+2023-03-03 15:33:04,672 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:33:05,181 - logger_File -INFO - User confimed on account page
+2023-03-03 15:33:05,375 - logger_File -INFO - User Change the Category to Department
+2023-03-03 15:33:05,629 - logger_File -INFO - User search for an item
+2023-03-03 15:33:06,142 - logger_File -INFO - User click on item
+2023-03-03 15:33:06,590 - logger_File -INFO - user select the quantity 
+2023-03-03 15:33:06,739 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 15:33:09,954 - logger_File -INFO - User click on Cart Option
+2023-03-03 15:33:10,197 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 15:33:10,393 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 15:33:15,227 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 15:33:15,411 - logger_File -INFO - 
+2023-03-03 15:33:18,557 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 15:33:19,410 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 15:33:19,540 - logger_File -INFO - User click on add your card button
