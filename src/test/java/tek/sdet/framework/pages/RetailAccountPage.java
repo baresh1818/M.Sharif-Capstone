@@ -60,10 +60,103 @@ public class RetailAccountPage extends BaseSetup {
 	public WebElement messageSuccfully;
 	
 	
+	@FindBy(xpath="//p[contains(text(),'Add a payment method')]")
+	public WebElement addPaymentLink;
+	
+	@FindBy(xpath="//input[@id='cardNumberInput']")
+	public WebElement cardNumberInput;
+	
+	@FindBy(xpath="//input[@id='nameOnCardInput']")
+	public WebElement nameOnCardInput;
+	
+	@FindBy(xpath="//select[@id='expirationMonthInput']")
+	public WebElement expirationMonthInput;
+	
+	@FindBy(xpath="//select[@id='expirationYearInput']")
+	public WebElement expirationYearInput;
+	
+	@FindBy(xpath="//input[@id='securityCodeInput']")
+	public WebElement securityCodeInput;
+	
+	@FindBy(xpath="//button[@id='paymentSubmitBtn']")
+	public WebElement paymentSubmitBtn;
+	
+	@FindBy(xpath="//div[contains(text(),'Payment Method added sucessfully')]")
+	public WebElement paymentAddSuccessfully;
+	
+	
+	@FindBy(xpath="//p[@class='account__payment__sub-text']")
+	public WebElement paymentSelectedAccount;
+	
+	@FindBy(xpath="//button[normalize-space()='Edit']")
+	public WebElement editButtonOfPayment;
+	
+	
+	@FindBy(xpath=("//div[contains(text(),'Payment Method updated Successfully')]"))
+	public WebElement paymentUpdatedSuccessfully;
+	
+	@FindBy(xpath="//button[normalize-space()='remove']")
+	public WebElement removePaymentbutton;
+	
+	
+	
+	@FindBy(xpath="//div[@class='account__address-new']")
+	public WebElement addNewAddressButton;
+	
+	@FindBy(xpath="//select[@id='countryDropdown']")
+	public WebElement countryDropdown;
+	
+	@FindBy(xpath="//input[@id='fullNameInput']")
+	public WebElement fullNameInput;
+	
+	@FindBy(xpath="//input[@id='phoneNumberInput']")
+	public WebElement phoneNumberInput;
+	
+	
+	@FindBy(xpath="//input[@id='streetInput']")
+	public WebElement streetAddressInput;
+
+	@FindBy(xpath="//input[@id='apartmentInput']")
+	public WebElement apartmentInput;
+	
+	@FindBy(xpath="//input[@id='cityInput']")
+	public WebElement cityInput;
 	
 	
 	
 	
+	
+	
+	@FindBy(xpath="//select[@name='state']")
+	public WebElement stateOptions;
+	
+	
+	@FindBy(xpath="//input[@id='zipCodeInput']")
+	public WebElement zipcodeInput;
+	
+	
+	@FindBy(xpath="//button[@id='addressBtn']")
+	public WebElement addYourAddressBtn;
+	
+	
+	@FindBy(xpath="//div[contains(text(),'Address Added Successfully')]")
+	public WebElement messageAddressAddedSuccess;
+	
+	
+	@FindBy(xpath="//div[@class='account__address-grid']//div[2]//div[2]//button[1]")
+	public WebElement editAddressBtn;
+	
+	@FindBy(xpath="//button[@id='addressBtn']")
+	public WebElement updateAddressBtn;
+	
+	@FindBy(xpath="//div[contains(text(),'Address Updated Successfully')]")
+	public WebElement addressUpdatedSuccessfully;
+	
+	@FindBy(xpath="//div[@class='account__address-grid']//div[2]//div[2]//button[2]")
+	public WebElement removeAddressBtn;
+	
+	//@FindBy(xpath="")
+	//public WebElement x;
 	
 	
 	

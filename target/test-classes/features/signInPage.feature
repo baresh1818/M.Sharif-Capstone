@@ -1,4 +1,4 @@
-Feature: Sign In Feature
+Feature: Sign In feature
 
   @TCsignInSenario1
   Scenario: Verify user can sign in into Retail Application
@@ -14,7 +14,7 @@ Feature: Sign In Feature
     When User click on Sign in option
     And User click on Create New Account button
     And User fill the signUp information with below data
-      | name        | email                 | password  | confirmPassword |
-      | ahmadjangum | ahmad234@tekschool.us | Tek@12345 | Tek@12345       |
+      | name         | email                     | password   | confirmPassword |
+      | John Lombard | john_lombard@tekschool.us | Tek@123456 | Tek@123456      |
     And User click on SignUp button
     Then User should be logged into account page

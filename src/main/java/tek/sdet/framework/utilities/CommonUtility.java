@@ -1,6 +1,7 @@
 package tek.sdet.framework.utilities;
 
 import java.time.Duration;
+import java.util.List;
 import java.util.Set;
 
 import org.openqa.selenium.By;
@@ -187,6 +188,20 @@ public class CommonUtility extends BaseSetup {
         actions.build().perform();
     }
 	
+    public void doubleClick(WebElement ele)
+    {
+    	Actions actions = new Actions(getDriver());
+    	actions.doubleClick(ele);
+    	actions.build().perform();
+    }
+    
+    
+    public void ctrlA(WebElement ele)
+    {
+    	Actions actions = new Actions(getDriver());
+    	actions.keyDown(Keys.COMMAND).sendKeys("a").keyUp(Keys.COMMAND).build().perform();
+    	
+    }
     
     public WebElement fluientWaitforElement(WebElement element, int timoutSec, int pollingSec) {
         FluentWait<WebDriver> fWait = new FluentWait<WebDriver>(getDriver()).withTimeout(Duration.ofSeconds(30))
@@ -230,6 +245,14 @@ public class CommonUtility extends BaseSetup {
 
         JavascriptExecutor js = ((JavascriptExecutor) getDriver());
         js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
+    }
+    
+    
+    
+    public void cleartext(WebElement element)
+    {
+    	element.clear();
+    	
     }
     
     
