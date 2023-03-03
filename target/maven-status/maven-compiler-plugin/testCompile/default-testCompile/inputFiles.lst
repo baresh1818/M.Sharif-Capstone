@@ -5,7 +5,6 @@
 /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/test/java/tek/sdet/framework/base/BaseUITest.java
 /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/test/java/tek/sdet/framework/steps/HomeSteps.java
 /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/test/java/tek/sdet/framework/pages/POMFactory.java
-/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/test/java/tek/sdet/framework/steps/RetailSteps.java
 /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/test/java/tek/sdet/framework/steps/AccountSteps.java
 /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/test/java/tek/sdet/framework/pages/RetailOrderPage.java
 /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/src/test/java/tek/sdet/framework/pages/RetailHomePage.java

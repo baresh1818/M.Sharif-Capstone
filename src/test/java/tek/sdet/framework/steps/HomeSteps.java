@@ -22,6 +22,7 @@ public class HomeSteps extends CommonUtility {
 	
 	
 //------------------------------------------------homePageScenario1---------------------------------------------------------------------------------------
+	
 	@When("User click on All section")
 	public void userClickOnAllSecction()
 	{
@@ -41,21 +42,16 @@ public class HomeSteps extends CommonUtility {
 			{
 				Assert.assertTrue(list.isDisplayed());
 				logger.info("options are present in Shop by Department sidebar");
-				
 			}
 		}
 	}
 	
 //------------------------------------------------homePageScenario2---------------------------------------------------------------------------------------
 	
-	
-	
-	
 	@And("User on {string}")
 	public void userOnDepartment(String value)
 	{
 		List<WebElement> department = factory.homePage().allDepartment;				// in here we store all elements which is available in department
-		
 		for(WebElement elements:department)											// in here we will go to each department 
 		{
 			if(elements.getText().equals(value))								// in here we will get the text of each element if that text is equal with the department section
@@ -71,12 +67,7 @@ public class HomeSteps extends CommonUtility {
 	public void belowOptionsArePresentInDepartment(DataTable dataTable)
 	{
 		List<List<String>> departmentSection=dataTable.asLists(String.class);      // this is dataTable list 				- which has allDepartments , Option1 and Option2
-		
 		List<WebElement> department = factory.homePage().allDepartment;			   //  this is all department     			- it has 5 department elements which is electronic, computer, smart home and etc
-		
-		
-		
-		
 		
 		for(int i=0; i<departmentSection.get(0).size(); i++)						
 		{
@@ -92,40 +83,7 @@ public class HomeSteps extends CommonUtility {
 		
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 //------------------------------------------------homePageScenario3---------------------------------------------------------------------------------------
-	
-	
-	
 	
 	@And("User change the category to {string}")
 	public void userChangeTheCategoryToSmartHome(String department )
@@ -134,16 +92,12 @@ public class HomeSteps extends CommonUtility {
 		logger.info("User Change the Category to Department");
 	}
 	
-	
-	
 	@And("User search for an item {string}")
 	public void userSearchForAnItemKasaoutDoorSmartPlug(String searchItem)
 	{
-		
 		click(factory.homePage().searchBarInput);
 		sendText(factory.homePage().searchInput,searchItem);
 		logger.info("User search for an item");
-		
 	}
 	
 	@And("User click on Search icon")
@@ -158,7 +112,6 @@ public class HomeSteps extends CommonUtility {
 		click(factory.homePage().Item);
 		logger.info("User click on item");
 	}
-	
 	
 	@When("User select quantity {string}")
 	public void userSelectQuantity(String num)
@@ -185,7 +138,6 @@ public class HomeSteps extends CommonUtility {
 		}
 		
 	}
-	
 	
 
 //------------------------------------------------homePageScenario4---------------------------------------------------------------------------------------
@@ -244,9 +196,9 @@ public class HomeSteps extends CommonUtility {
 	@Then("User click Add a credit card or Debit Card for Payment method")
 	public void userClickAddACreditCardOrDebitCardForPaymentMethod() throws InterruptedException 			// Maybe my Internet is slow but I have to put 8sec time to stop 
 	{
-		Thread.sleep(8000);
+		Thread.sleep(3000);
 		waitTillPresence(factory.homePage().addDebitCredit);
-		click(factory.homePage().addDebitCredit);
+		click(factory.homePage().addDebitCredit);															// to run this test case you have to change the card number on feature file
 		logger.info("user click add a credit card or debit card for payment method");
 	}
 	

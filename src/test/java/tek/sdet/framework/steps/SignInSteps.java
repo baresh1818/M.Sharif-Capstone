@@ -20,7 +20,15 @@ public class SignInSteps extends CommonUtility {
 	POMFactory factory = new POMFactory();
 	
 	
-
+//------------------------------------------------------Scenario 1---------------------------------------------------------------------------
+	
+	
+	@Given("User is on retail website")
+	public void userIsOnRetailWebsite() 
+	{
+	    
+	}
+	
 	@When("User click on Sign in option")
 	public void UserClickOnSignInOption()
 	{
@@ -31,7 +39,6 @@ public class SignInSteps extends CommonUtility {
 	@And ("User enter email {string} and password {string}")
 	public void UserEnterEmailAndPassword(String emailValue, String passwordValue)
 	{
-	
 		sendText(factory.signInPage().emailInput,emailValue);
 		sendText(factory.signInPage().passwordInput,passwordValue);
 		logger.info("User enter email and Password");
@@ -65,16 +72,12 @@ public class SignInSteps extends CommonUtility {
 	@And ("User fill the signUp information with below data")
 	public void UserFillTheSignUpInformationWithBelowData(DataTable datatable)
 	{
-		
 		List<Map<String, String>> data = datatable.asMaps(String.class, String.class);
-		
 		sendText(factory.signInPage().nameInput, data.get(0).get("name"));
 		sendText(factory.signInPage().emailIn, data.get(0).get("email"));
 		sendText(factory.signInPage().passwordIn, data.get(0).get("password"));
 		sendText(factory.signInPage().confpassInput, data.get(0).get("confirmPassword"));
 		logger.info("User enter name, email, password, confirmpassword");
-		
-		
 	}
 	
 	@And ("User click on SignUp button")

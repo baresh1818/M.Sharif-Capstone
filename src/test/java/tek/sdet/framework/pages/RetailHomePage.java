@@ -14,29 +14,18 @@ public class RetailHomePage extends BaseSetup {
 	
     public RetailHomePage() 
     {
-    // we are implementing PageFactory Class to initialize the UI elements        
-    // using @FindBy annotation of PageFactory.      
-    	
     	PageFactory.initElements(getDriver(), this);
     }
     
     
-    // syntax for storing UI elements using @FindBy annotations    
-    // @FindBy(locatorType = "locator Value")   
-    // public WebElement nameOfElement 
-    
-    @FindBy(linkText = "TEKSCHOOL") 
-    // this is same as driver.findElement() 
+    @FindBy(linkText = "TEKSCHOOL")  
     public WebElement tekschoolLogo;
-    
     
     @FindBy(id = "searchInput")
     public WebElement searchBarInput;
     
-    
     @FindBy(id = "searchBtn")
     public WebElement searchButton;
-    
     
     @FindBy(id ="signinLink") 
     public WebElement signInOption;
@@ -47,13 +36,8 @@ public class RetailHomePage extends BaseSetup {
     @FindBy(xpath ="//a[text()='Account']")
     public WebElement accountOption;
     
-    
-   
-    
-    
-    @FindBy(xpath="//div[@class='sidebar_content-item']//span")     // this xpath cover all 5 items of departments
-    public List<WebElement> allSectionItems;						// this has to store it in List<WebElement>
-    
+    @FindBy(xpath="//div[@class='sidebar_content-item']//span")     
+    public List<WebElement> allSectionItems;						
     
     @FindBy(xpath="//select[@id='search']")
     public WebElement allDepartmentDropDown;
@@ -64,10 +48,8 @@ public class RetailHomePage extends BaseSetup {
     @FindBy(xpath="//button[@id='searchBtn']")
     public WebElement searchBtn;
     
-    
     @FindBy(xpath="//img[@alt='Kasa Outdoor Smart Plug']")
     public WebElement Item;
-    
     
     @FindBy(xpath="//select[@class='product__select']")
     public WebElement quantitySelction;
@@ -75,21 +57,17 @@ public class RetailHomePage extends BaseSetup {
     @FindBy(xpath="//span[normalize-space()='Add to Cart']")
     public WebElement addToCart;
     
-    
     @FindBy(xpath="//span[@id='cartQuantity']")
     public WebElement cartQuantity;
     
     @FindBy(xpath="//p[normalize-space()='Cart']")
     public WebElement cart;
     
-    
     @FindBy(xpath="//button[@id='proceedBtn']")
     public WebElement proceedCheckOutBtn;
     
-    
     @FindBy(xpath="//button[@id='addAddressBtn']")
     public WebElement addAddressOnCheckout;
-    
     
     @FindBy(xpath="//select[@id='countryDropdown']")
     public WebElement countryDropDown;
@@ -130,11 +108,7 @@ public class RetailHomePage extends BaseSetup {
    @FindBy(xpath="//img[@alt='Apex Legends - 1,000 Apex Coins']")
    public WebElement AppexCoinsItem;
    
-   
-  
-   
-   
-   @FindBy(xpath="//div[@class='sidebar__content']//span")					// it include all departments elements
+   @FindBy(xpath="//div[@class='sidebar__content']//span")					
    public List<WebElement> allDepartment;
    
    @FindBy(xpath="//span[normalize-space()='All']")

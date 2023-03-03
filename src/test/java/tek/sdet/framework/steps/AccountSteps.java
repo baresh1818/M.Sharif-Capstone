@@ -41,15 +41,12 @@ public class AccountSteps extends CommonUtility {
 	}
 	
 	@And("User click on Update button")
-	
 	public void UserClickOnUpdateButton()
 	{
 		waitTillPresence(factory.accountPage().personalUpdateBtn);
 		click(factory.accountPage().personalUpdateBtn);
 		logger.info("User click on update button");
 	}
-	
-	
 	
 	@Then("User profile information should be updated")
 	public void UserProfileInformationShouldBeUpdated()
@@ -58,7 +55,6 @@ public class AccountSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().messageUpdated));
 		logger.info("good to go");
 	}
-	
 	
 	
 	
@@ -83,7 +79,6 @@ public class AccountSteps extends CommonUtility {
 		logger.info("User click on change Password Button");
 	}
 	
-	
 	@Then("a message should be displayed ‘Password Updated Successfully’")
 	public void aMessageShouldBeDisplayedPasswordUpdatedSuccessfully() 
 	{
@@ -93,7 +88,7 @@ public class AccountSteps extends CommonUtility {
 	}
 	
 	
-	//------------------------------------------@accountPageScenario3----------------------------
+//------------------------------------------@accountPageScenario3---------------------------------------------------------
 	
 	
 	
@@ -140,7 +135,7 @@ public class AccountSteps extends CommonUtility {
 	@And("User click on Edit option of card section")
 	public void userClickOnEditOptionOfCardSection()
 	{
-		waitTillPresence(factory.accountPage().paymentSelectedAccount);															// you have to make sure to chose the correct card change the locator of paymentSelectedAccout
+		waitTillPresence(factory.accountPage().paymentSelectedAccount);							// you have to make sure to chose the correct card change the locator of paymentSelectedAccout
 		click(factory.accountPage().paymentSelectedAccount);
 		logger.info("User click on existing payment add card");
 		click(factory.accountPage().editButtonOfPayment);
@@ -151,7 +146,6 @@ public class AccountSteps extends CommonUtility {
 	public void userEditInformationWithBelowData(DataTable dataTable)
 	{
 		List<Map<String, String>> data1 = dataTable.asMaps(String.class, String.class);
-		
 		clearRow(factory.accountPage().cardNumberInput);
 		sendText(factory.accountPage().cardNumberInput,data1.get(0).get("cardNumber"));
 		clearRow(factory.accountPage().nameOnCardInput);
@@ -170,7 +164,6 @@ public class AccountSteps extends CommonUtility {
 		logger.info("User click on Update your Card button");
 	}
 	
-	
 	@Then("a message should be displayed 'Payment Method updated Successfully'")
 	public void messageDisplayedPaymentUpdatedSuccessfully()
 	{
@@ -182,8 +175,7 @@ public class AccountSteps extends CommonUtility {
 	}
 	
 	
-	
-	//------------------------------------------@accountPageScenario5----------------------------
+//------------------------------------------@accountPageScenario5-----------------------------------------------------------------
 
 	
 	@And("User click on remove option of card section")
@@ -222,12 +214,11 @@ public class AccountSteps extends CommonUtility {
 	public void userFillNewAddressFormWithBleowInformation(DataTable dataTable)
 	{
 		List<Map<String, String>> data2	= dataTable.asMaps(String.class, String.class);
-		
 		selectByValue(factory.accountPage().countryDropdown,data2.get(0).get("country"));
 		doubleClick(factory.accountPage().fullNameInput);
 		ctrlA(factory.accountPage().fullNameInput);
 		sendText(factory.accountPage().fullNameInput,data2.get(0).get("fullName"));
-		
+	
 		doubleClick(factory.accountPage().phoneNumberInput);	// I create a method  'doubleClick' on common utitlity
 		ctrlA(factory.accountPage().phoneNumberInput);
 		sendText(factory.accountPage().phoneNumberInput,data2.get(0).get("phoneNumber"));
@@ -283,25 +274,6 @@ public class AccountSteps extends CommonUtility {
 		logger.info("User click on edit address option");
 	}
 	
-	
-//	@And("user fill new address form with below informations")
-//	public void userFillNewAddressFormWithBelowInformations(DataTable dataTable) 
-//	{
-//		
-//		
-//		List<Map<String, String>>data = dataTable.asMaps(String.class, String.class);
-//		selectByValue(factory.accountPage().countryDropdown,data.get(0).get("country"));
-//		sendText(factory.accountPage().fullNameInput,data.get(0).get("fullName"));
-//		clearRow(factory.accountPage().phoneInput);
-//		sendText(factory.accountPage().phoneNumberInput,data.get(0).get("phoneNumber"));
-//		sendText(factory.accountPage().streetAddressInput,data.get(0).get("streetAddress"));
-//		sendText(factory.accountPage().apartmentInput,data.get(0).get("apt"));
-//		sendText(factory.accountPage().cityInput,data.get(0).get("city"));
-//		selectByValue(factory.accountPage().stateOptions,data.get(0).get("state"));
-//		clearTextUsingSendKeys(factory.accountPage().zipcodeInput);
-//		sendText(factory.accountPage().zipcodeInput,data.get(0).get("zipCode"));
-//	}
-	
 	@And("User click update Your Address button")
 	public void userClickUpdateYourAddButton()
 	{
@@ -318,9 +290,6 @@ public class AccountSteps extends CommonUtility {
 	}
 	
 	
-	
-	
-	
 	//------------------------------------------@accountPageScenario8----------------------------
 	
 	// if you run this case make sure you pointing the existing address
@@ -328,8 +297,6 @@ public class AccountSteps extends CommonUtility {
 	@And("User click on remove option of Address section")
 	public void userClickOnRemoveOptionOfAddressSection() 
 	{
-		
-		
 		click(factory.accountPage().removeAddressBtn);
 		logger.info("User click on remove option of Address section");          
 	}
@@ -338,8 +305,6 @@ public class AccountSteps extends CommonUtility {
 	@Then("Address details should be removed")
 	public void addressDetailsShouldBeRemoved() 
 	{
-		
-	
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().editAddressBtn));
 		logger.info("Address details should be removed");
 	}

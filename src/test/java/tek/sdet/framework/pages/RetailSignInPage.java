@@ -16,17 +16,11 @@ public class RetailSignInPage extends BaseSetup {
     	PageFactory.initElements(getDriver(), this);
     }
 	
-	
-	
-	
-	
 	@FindBy(id="signinLink")
 	public WebElement signInButton;
 	
-	
 	@FindBy(id="email")
 	public WebElement emailInput;
-	
 	
 	@FindBy(id="password")
 	public WebElement passwordInput;
@@ -40,22 +34,17 @@ public class RetailSignInPage extends BaseSetup {
 	@FindBy(id="nameInput")
 	public WebElement nameInput;
 	
-	
 	@FindBy(id="emailInput")
 	public WebElement emailIn;
-	
 	
 	@FindBy(id="passwordInput")
 	public WebElement passwordIn;
 	
-	
 	@FindBy(id="confirmPasswordInput")
 	public WebElement confpassInput;
 	
-	
 	@FindBy(id="signupBtn")
 	public WebElement signUpButton;
-	
 	
 	@FindBy(xpath="//a[@id='accountLink']")
 	public WebElement accountLink;

@@ -1,6 +1,6 @@
 Feature: Retail Order Page
 
-  @orderPageScenario1
+  @orderPageScenario1 @RegrationOrderPage @RegrationCapston
   Scenario: Verify User can cancel the order
     Given User is on retail website
     When User click on Sign in option
@@ -14,7 +14,7 @@ Feature: Retail Order Page
     And User click on Cancel Order button
     Then a cancelation message should be displayed 'Your Order Has Been Cancelled'
 
-  @orderPageScenario2
+  @orderPageScenario2 @RegrationOrderPage @RegrationCapston
   Scenario: Verify User can Return the order
     Given User is on retail website
     When User click on Sign in option
@@ -30,7 +30,7 @@ Feature: Retail Order Page
     And User click on Return Order button
     Then a return message should be displayed 'Return was successfull'
 
-  @orderPageScenario3
+  @orderPageScenario3 @RegrationOrderPage @RegrationCapston
   Scenario: Verify User can write a review on order placed
     Given User is on retail website
     When User click on Sign in option

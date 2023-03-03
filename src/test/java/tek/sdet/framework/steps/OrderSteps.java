@@ -23,16 +23,12 @@ public class OrderSteps extends CommonUtility {
 		logger.info("user click on orders section");
 	}
 	
-	
 	@And("User click on first order in list")
 	public void userClickOnFirstOrderInList() 
 	{
 		click(factory.orderPage().showDetailOrder);
-		//click(factory.orderPage().showDetailOrder);
-		
 		logger.info("user click on first order in List");
 	}
-	
 	
 	@And("User click on Cancel The Order button")
 	public void userClickOnCancelTheOrderButton() 
@@ -41,7 +37,6 @@ public class OrderSteps extends CommonUtility {
 		logger.info("user click on cancel the order button");
 	}
 	
-	
 	@And("User select the cancelation Reason {string}")
 	public void userSelectTheCancelationReasonBoughtWrongItem(String value) 
 	{
@@ -49,14 +44,12 @@ public class OrderSteps extends CommonUtility {
 		logger.info("user select the cancelation reason");
 	}
 	
-	
 	@And("User click on Cancel Order button")
 	public void userClickOnCancelOrderButton()
 	{
 		click(factory.orderPage().cancelOrderSubmitBtn);
 		logger.info("user click on cancel order button");
 	}
-	
 	
 	@Then("a cancelation message should be displayed {string}")
 	public void aCancelationMessageShouldBeDisplayedYourOrderHasBeenCancelled(String value) 
@@ -81,14 +74,12 @@ public class OrderSteps extends CommonUtility {
 		logger.info("user click on Retrun Item button");
 	}
 	
-	
 	@And("User select the Return Reason {string}")
 	public void userSelectTheReturnReasonItemDamaged(String value)
 	{
 		selectByVisibleText(factory.orderPage().reseaonReturnDropDown, value);
 		logger.info("User select the Return Reason 'Item damaged");
 	}
-	
 	
 	@And("User select the drop off service {string}")
 	public void userSelectTheDropOffServiceFedex(String value)
@@ -97,7 +88,6 @@ public class OrderSteps extends CommonUtility {
 		logger.info("User select the drop off service 'FedEx'");
 	}
 	
-	
 	@And("User click on Return Order button")
 	public void userClickOnReturnOrderButton()
 	{
@@ -105,15 +95,14 @@ public class OrderSteps extends CommonUtility {
 		logger.info("User click on Return Order button");
 	}
 	
-	
 	@And("a return message should be displayed {string}")
 	public void returnMessageShouldBeDisplayed(String value)
 	{
 		waitTillPresence(factory.orderPage().messageReturnSuccessfully);
-		   Assert.assertTrue(isElementDisplayed(factory.orderPage().messageReturnSuccessfully));		
-			String actualMessage= factory.orderPage().messageReturnSuccessfully.getText();
-			String expectedMessage= value;
-			Assert.assertEquals(expectedMessage, actualMessage);
+		Assert.assertTrue(isElementDisplayed(factory.orderPage().messageReturnSuccessfully));		
+		String actualMessage= factory.orderPage().messageReturnSuccessfully.getText();
+		String expectedMessage= value;
+		Assert.assertEquals(expectedMessage, actualMessage);
 		logger.info("a cancelation message should be displayed 'Return was successful'");
 	}
 	
@@ -128,7 +117,6 @@ public class OrderSteps extends CommonUtility {
 		logger.info("user Click on review button");
 	}
 	
-	
 	@And("User write Review headline {string} and {string}")
 	public void userWriteReviewHealineAndReviewText(String value, String value1)
 	{
@@ -136,32 +124,24 @@ public class OrderSteps extends CommonUtility {
 		sendText(factory.orderPage().reviewHeadlineInput,value);
 		waitTillPresence(factory.orderPage().reviewDescriptions);
 		sendText(factory.orderPage().reviewDescriptions,value1);
-		
 		logger.info("User Write review message");
 	}
-	
-	
 	
 	@And("User click Add your Review button")
 	public void userClickAddYourReviewButton()
 	{
-		
 		click(factory.orderPage().addReviewButton);
 		logger.info("User click Add your Review Button");
 	}
-	
 	
 	@Then("a review message should be displayed {string}")
 	public void aReviewMessageShoudBeDisplayed(String value) throws InterruptedException
 	{
 		Thread.sleep(5000);
 		boolean str1 = isElementDisplayed(factory.orderPage().messageReviewAddSuccessfully);
-		
 		String actual = factory.orderPage().messageReviewAddSuccessfully.getText();
 		String expected = value;
-		
 		Assert.assertEquals(expected, actual);
-		
 		logger.info("A review Message Should be Displayed your review was added successfully");
 	}
 	
