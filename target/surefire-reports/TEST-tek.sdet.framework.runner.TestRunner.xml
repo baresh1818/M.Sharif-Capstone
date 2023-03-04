@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.sdet.framework.runner.TestRunner" time="10.701" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.sdet.framework.runner.TestRunner" time="189.183" tests="21" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Volumes/Eclipse/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.4.v20220903-1038/jre/lib"/>
-    <property name="sun.java.command" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire/surefirebooter-20230303141819712_3.jar /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire 2023-03-03T14-18-19_301-jvmRun1 surefire-20230303141819712_1tmp surefire_0-20230303141819712_2tmp"/>
+    <property name="sun.java.command" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire/surefirebooter-20230303170148022_3.jar /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire 2023-03-03T17-01-47_590-jvmRun1 surefire-20230303170148022_1tmp surefire_0-20230303170148022_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/test-classes:/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/classes:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-java/7.8.0/cucumber-java-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-core/7.8.0/cucumber-core-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-gherkin/7.8.0/cucumber-gherkin-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.8.0/cucumber-gherkin-messages-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/gherkin/24.0.0/gherkin-24.0.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/messages/19.1.2/messages-19.1.2.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/tag-expressions/4.1.0/tag-expressions-4.1.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-expressions/16.0.0/cucumber-expressions-16.0.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/datatable/7.8.0/datatable-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-plugin/7.8.0/cucumber-plugin-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/docstring/7.8.0/docstring-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/html-formatter/20.1.0/html-formatter-20.1.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/ci-environment/9.1.0/ci-environment-9.1.0.jar:/Users/mirwaishoshmand/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-junit/7.8.0/cucumber-junit-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/mirwaishoshmand/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-java/4.4.0/selenium-java-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-api/4.4.0/selenium-api-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.4.0/selenium-chrome-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/com/google/auto/service/auto-service-annotations/1.0.1/auto-service-annotations-1.0.1.jar:/Users/mirwaishoshmand/.m2/repository/com/google/auto/service/auto-service/1.0.1/auto-service-1.0.1.jar:/Users/mirwaishoshmand/.m2/repository/com/google/auto/auto-common/1.2/auto-common-1.2.jar:/Users/mirwaishoshmand/.m2/repository/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar:/Users/mirwaishoshmand/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/mirwaishoshmand/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/mirwaishoshmand/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/mirwaishoshmand/.m2/repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar:/Users/mirwaishoshmand/.m2/repository/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar:/Users/mirwaishoshmand/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.4.0/selenium-chromium-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-json/4.4.0/selenium-json-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v102/4.4.0/selenium-devtools-v102-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v103/4.4.0/selenium-devtools-v103-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v104/4.4.0/selenium-devtools-v104-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.4.0/selenium-devtools-v85-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.4.0/selenium-edge-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.4.0/selenium-firefox-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.4.0/selenium-ie-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/4.4.0/selenium-opera-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.4.0/selenium-remote-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-buffer/4.1.78.Final/netty-buffer-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-codec-http/4.1.78.Final/netty-codec-http-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-codec/4.1.78.Final/netty-codec-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-handler/4.1.78.Final/netty-handler-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-common/4.1.78.Final/netty-common-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.78.Final/netty-transport-classes-epoll-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.78.Final/netty-transport-classes-kqueue-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-epoll/4.1.78.Final/netty-transport-native-epoll-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.78.Final/netty-transport-native-kqueue-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.78.Final/netty-transport-native-unix-common-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport/4.1.78.Final/netty-transport-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-resolver/4.1.78.Final/netty-resolver-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-api/1.16.0/opentelemetry-api-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-context/1.16.0/opentelemetry-context-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.16.0/opentelemetry-exporter-logging-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.16.0/opentelemetry-sdk-metrics-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.16.0-alpha/opentelemetry-sdk-logs-1.16.0-alpha.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.16.0/opentelemetry-sdk-common-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.16.0/opentelemetry-sdk-extension-autoconfigure-spi-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.16.0-alpha/opentelemetry-sdk-extension-autoconfigure-1.16.0-alpha.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.16.0/opentelemetry-sdk-trace-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.16.0/opentelemetry-sdk-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.16.0-alpha/opentelemetry-semconv-1.16.0-alpha.jar:/Users/mirwaishoshmand/.m2/repository/io/ous/jtoml/2.0.0/jtoml-2.0.0.jar:/Users/mirwaishoshmand/.m2/repository/net/bytebuddy/byte-buddy/1.12.10/byte-buddy-1.12.10.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/Users/mirwaishoshmand/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/Users/mirwaishoshmand/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/mirwaishoshmand/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/Users/mirwaishoshmand/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-http/4.4.0/selenium-http-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/dev/failsafe/failsafe/3.2.4/failsafe-3.2.4.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.4.0/selenium-safari-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-support/4.4.0/selenium-support-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/io/github/bonigarcia/webdrivermanager/5.3.0/webdrivermanager-5.3.0.jar:/Users/mirwaishoshmand/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/mirwaishoshmand/.m2/repository/com/google/code/gson/gson/2.9.1/gson-2.9.1.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java/3.2.13/docker-java-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java-core/3.2.13/docker-java-core-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java-api/3.2.13/docker-java-api-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar:/Users/mirwaishoshmand/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar:/Users/mirwaishoshmand/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar:/Users/mirwaishoshmand/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar:/Users/mirwaishoshmand/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar:/Users/mirwaishoshmand/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.2.13/docker-java-transport-httpclient5-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java-transport/3.2.13/docker-java-transport-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar:/Users/mirwaishoshmand/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.1.3/httpclient5-5.1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.1.3/httpcore5-5.1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.1.3/httpcore5-h2-5.1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/poi/poi/5.2.3/poi-5.2.3.jar:/Users/mirwaishoshmand/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/mirwaishoshmand/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/poi/poi-ooxml/5.2.3/poi-ooxml-5.2.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.3/poi-ooxml-lite-5.2.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/xmlbeans/xmlbeans/5.1.1/xmlbeans-5.1.1.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/mirwaishoshmand/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/mirwaishoshmand/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar:/Users/mirwaishoshmand/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar:/Users/mirwaishoshmand/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/mirwaishoshmand/.m2/repository/org/yaml/snakeyaml/1.33/snakeyaml-1.33.jar:/Users/mirwaishoshmand/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
@@ -29,7 +29,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire/surefirebooter-20230303141819712_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire/surefirebooter-20230303170148022_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.4.1+1"/>
@@ -56,11 +56,753 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="Verify user can sign in into Retail Application" classname="Sign In feature" time="9.775">
+  <testcase name="Verify Shop by Department sidebar" classname="Retail Home Page" time="6.073">
+    <system-out><![CDATA[
+@homePageScenario1 @RegrationHomePage @RegrationCapston
+Scenario: Verify Shop by Department sidebar                    # features/HomePage.feature:4
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                              # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:31)- User click on All section
+  When User click on All section                               # tek.sdet.framework.steps.HomeSteps.userClickOnAllSecction()
+  Then below options are present in Shop by Department sidebar # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInShopByDepartmentSidebar(io.cucumber.datatable.DataTable)
+    | Electronics | Computers | Smart Home | Sports | Automative |
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 49430
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891711.592][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:01:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:01:52 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:01:52 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:01:52 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #1" classname="Retail Home Page" time="5.106">
+    <system-out><![CDATA[
+@homePageScenario2 @RegrationHomePage @RegrationCapston
+Scenario Outline: Verify department sidebar options # features/HomePage.feature:20
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                   # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:31)- User click on All section
+  When User click on All section                    # tek.sdet.framework.steps.HomeSteps.userClickOnAllSecction()
+ INFO [main] (HomeSteps.java:63)- User click on each department
+  And User on 'Electronics'                         # tek.sdet.framework.steps.HomeSteps.userOnDepartment(java.lang.String)
+ INFO [main] (HomeSteps.java:79)- below options are present in department
+  Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | 'TV & Video' | Video Games |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 52732
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891716.036][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:01:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:01:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:01:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:01:56 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #2" classname="Retail Home Page" time="4.991">
+    <system-out><![CDATA[
+@homePageScenario2 @RegrationHomePage @RegrationCapston
+Scenario Outline: Verify department sidebar options # features/HomePage.feature:21
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                   # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:31)- User click on All section
+  When User click on All section                    # tek.sdet.framework.steps.HomeSteps.userClickOnAllSecction()
+ INFO [main] (HomeSteps.java:63)- User click on each department
+  And User on 'Computers'                           # tek.sdet.framework.steps.HomeSteps.userOnDepartment(java.lang.String)
+ INFO [main] (HomeSteps.java:79)- below options are present in department
+ INFO [main] (HomeSteps.java:79)- below options are present in department
+  Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | Accessories | Networking |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 56718
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891721.295][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:02:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:02:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:02:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:02:01 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #3" classname="Retail Home Page" time="4.86">
+    <system-out><![CDATA[
+@homePageScenario2 @RegrationHomePage @RegrationCapston
+Scenario Outline: Verify department sidebar options # features/HomePage.feature:22
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                   # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:31)- User click on All section
+  When User click on All section                    # tek.sdet.framework.steps.HomeSteps.userClickOnAllSecction()
+ INFO [main] (HomeSteps.java:63)- User click on each department
+  And User on 'Smart Home'                          # tek.sdet.framework.steps.HomeSteps.userOnDepartment(java.lang.String)
+ INFO [main] (HomeSteps.java:79)- below options are present in department
+ INFO [main] (HomeSteps.java:79)- below options are present in department
+  Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | Smart Home Lightning | Plugs and Outlets |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 54081
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891726.191][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:02:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:02:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:02:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:02:06 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #4" classname="Retail Home Page" time="4.888">
+    <system-out><![CDATA[
+@homePageScenario2 @RegrationHomePage @RegrationCapston
+Scenario Outline: Verify department sidebar options # features/HomePage.feature:23
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                   # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:31)- User click on All section
+  When User click on All section                    # tek.sdet.framework.steps.HomeSteps.userClickOnAllSecction()
+ INFO [main] (HomeSteps.java:63)- User click on each department
+  And User on 'Sports'                              # tek.sdet.framework.steps.HomeSteps.userOnDepartment(java.lang.String)
+ INFO [main] (HomeSteps.java:79)- below options are present in department
+ INFO [main] (HomeSteps.java:79)- below options are present in department
+  Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | Athletic Clothing | Exercise & Fitness |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 63546
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891731.001][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:02:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:02:11 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:02:11 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:02:11 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify department sidebar options #5" classname="Retail Home Page" time="8.98">
+    <system-out><![CDATA[
+@homePageScenario2 @RegrationHomePage @RegrationCapston
+Scenario Outline: Verify department sidebar options # features/HomePage.feature:24
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                   # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (HomeSteps.java:31)- User click on All section
+  When User click on All section                    # tek.sdet.framework.steps.HomeSteps.userClickOnAllSecction()
+ INFO [main] (HomeSteps.java:63)- User click on each department
+  And User on 'Automotive'                          # tek.sdet.framework.steps.HomeSteps.userOnDepartment(java.lang.String)
+  Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
+    | Automative Parts & Accessories | MotorCycle & Powersports |
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 60078
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891736.323][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:02:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:02:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:02:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:02:16 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can add an item to cart" classname="Retail Home Page" time="11.593">
+    <system-out><![CDATA[
+@homePageScenario3 @RegrationHomePage @RegrationCapston
+Scenario: Verify User can add an item to cart                            # features/HomePage.feature:27
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                        # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                      # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'hoshmande@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                              # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (HomeSteps.java:92)- User Change the Category to Department
+  And User change the category to 'Smart Home'                           # tek.sdet.framework.steps.HomeSteps.userChangeTheCategoryToSmartHome(java.lang.String)
+ INFO [main] (HomeSteps.java:100)- User search for an item
+  And User search for an item 'kasa outdoor smart plug'                  # tek.sdet.framework.steps.HomeSteps.userSearchForAnItemKasaoutDoorSmartPlug(java.lang.String)
+  And User click on Search icon                                          # tek.sdet.framework.steps.HomeSteps.userClickonSearchIcon()
+ INFO [main] (HomeSteps.java:113)- User click on item
+  And User click on item                                                 # tek.sdet.framework.steps.HomeSteps.userClickOnItem()
+ INFO [main] (HomeSteps.java:120)- user select the quantity 
+  And User select quantity '2'                                           # tek.sdet.framework.steps.HomeSteps.userSelectQuantity(java.lang.String)
+ INFO [main] (HomeSteps.java:127)- user click add to cart buttton 
+  And User click add to Cart button                                      # tek.sdet.framework.steps.HomeSteps.userClickToCartButton()
+  Then the cart icon quantity should change to '2'                       # tek.sdet.framework.steps.HomeSteps.theCartIconQuantityShouldChangeTo(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 62596
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891745.117][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:02:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:02:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:02:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:02:25 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can place an order without Shipping address and payment Method on file" classname="Retail Home Page" time="24.054">
+    <system-out><![CDATA[
+@homePageScenario4 @RegrationHomePage @RegrationCapston
+Scenario: Verify User can place an order without Shipping address and payment Method on file # features/HomePage.feature:42
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                                            # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                                          # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'hoshmande@tekschool.us' and password 'Tek@12345'                     # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                                             # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                                  # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (HomeSteps.java:92)- User Change the Category to Department
+  And User change the category to 'Smart Home'                                               # tek.sdet.framework.steps.HomeSteps.userChangeTheCategoryToSmartHome(java.lang.String)
+ INFO [main] (HomeSteps.java:100)- User search for an item
+  And User search for an item 'kasa outdoor smart plug'                                      # tek.sdet.framework.steps.HomeSteps.userSearchForAnItemKasaoutDoorSmartPlug(java.lang.String)
+  And User click on Search icon                                                              # tek.sdet.framework.steps.HomeSteps.userClickonSearchIcon()
+ INFO [main] (HomeSteps.java:113)- User click on item
+  And User click on item                                                                     # tek.sdet.framework.steps.HomeSteps.userClickOnItem()
+ INFO [main] (HomeSteps.java:120)- user select the quantity 
+  And User select quantity '2'                                                               # tek.sdet.framework.steps.HomeSteps.userSelectQuantity(java.lang.String)
+ INFO [main] (HomeSteps.java:127)- user click add to cart buttton 
+  And User click add to Cart button                                                          # tek.sdet.framework.steps.HomeSteps.userClickToCartButton()
+  Then the cart icon quantity should change to '2'                                           # tek.sdet.framework.steps.HomeSteps.theCartIconQuantityShouldChangeTo(java.lang.String)
+ INFO [main] (HomeSteps.java:151)- User click on Cart Option
+  And User click on Cart option                                                              # tek.sdet.framework.steps.HomeSteps.userClickOnCartOption()
+ INFO [main] (HomeSteps.java:158)- user click on proced to checkout button
+  And User click on Proceed to Checkout button                                               # tek.sdet.framework.steps.HomeSteps.userClickOnProceedToCheckoutButton()
+ INFO [main] (HomeSteps.java:165)- user click add a new address link for shipping address
+  And User click Add a new address link for shipping address                                 # tek.sdet.framework.steps.HomeSteps.userClickAddANewAddressLinkForShippingAddress()
+ INFO [main] (HomeSteps.java:193)- user fill new address form with below informations
+  And User fill new address form with below information                                      # tek.sdet.framework.steps.HomeSteps.userFillNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable)
+    | country       | fullName      | phoneNumber | streetAddress    | apt | city       | state      | zipCode |
+    | United States | Jamrs William | 8763299876  | 4556 Cottage Way | H   | Sacramento | California | 87654   |
+ INFO [main] (AccountSteps.java:251)- 
+  And User click Add Your Address button                                                     # tek.sdet.framework.steps.AccountSteps.userClickAddYourAddressButton()
+ INFO [main] (HomeSteps.java:202)- user click add a credit card or debit card for payment method
+  And User click Add a credit card or Debit Card for Payment method                          # tek.sdet.framework.steps.HomeSteps.userClickAddACreditCardOrDebitCardForPaymentMethod()
+ INFO [main] (AccountSteps.java:112)- User put Debit or Credit Card Informations
+  And User fill Debit or credit card information                                             # tek.sdet.framework.steps.AccountSteps.UserFillDebitOrCreditCardInformation(io.cucumber.datatable.DataTable)
+    | cardNumber       | nameOnCard   | expirationMonth | expirationYear | securityCode |
+    | 5551670303200567 | Quqqtus Jkan | 9               | 2026           | 728          |
+ INFO [main] (AccountSteps.java:119)- User click on add your card button
+  And User click on Add your card button                                                     # tek.sdet.framework.steps.AccountSteps.UserClickOnAddYourCardButton()
+ INFO [main] (HomeSteps.java:209)- user click on place your order
+  And User click on Place Your Order                                                         # tek.sdet.framework.steps.HomeSteps.userClickOnPlaceYourOrder()
+ INFO [main] (HomeSteps.java:217)- message should displayed order placed thanks
+  Then a message should be displayed ‘Order Placed, Thanks’                                  # tek.sdet.framework.steps.HomeSteps.aMessageShouldBeDisplayedOrderPlacedThanks()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 54309
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891756.559][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:02:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:02:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:02:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:02:37 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can place an order with Shipping address and payment Method on file" classname="Retail Home Page" time="13.994">
+    <system-out><![CDATA[
+@homePageScenario5 @RegrationHomePage @RegrationCapston
+Scenario: Verify User can place an order with Shipping address and payment Method on file # features/HomePage.feature:71
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                                         # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                                       # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'hoshmande@tekschool.us' and password 'Tek@12345'                  # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                                          # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                               # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (HomeSteps.java:92)- User Change the Category to Department
+  And User change the category to 'Electronics'                                           # tek.sdet.framework.steps.HomeSteps.userChangeTheCategoryToSmartHome(java.lang.String)
+ INFO [main] (HomeSteps.java:100)- User search for an item
+  And User search for an item 'Apex Legends'                                              # tek.sdet.framework.steps.HomeSteps.userSearchForAnItemKasaoutDoorSmartPlug(java.lang.String)
+  And User click on Search icon                                                           # tek.sdet.framework.steps.HomeSteps.userClickonSearchIcon()
+ INFO [main] (HomeSteps.java:233)- User click on item
+  And User click on items                                                                 # tek.sdet.framework.steps.HomeSteps.userClickOnItems()
+ INFO [main] (HomeSteps.java:120)- user select the quantity 
+  And User select quantity '5'                                                            # tek.sdet.framework.steps.HomeSteps.userSelectQuantity(java.lang.String)
+ INFO [main] (HomeSteps.java:127)- user click add to cart buttton 
+  And User click add to Cart button                                                       # tek.sdet.framework.steps.HomeSteps.userClickToCartButton()
+  Then the cart icon quantity should change to '5'                                        # tek.sdet.framework.steps.HomeSteps.theCartIconQuantityShouldChangeTo(java.lang.String)
+ INFO [main] (HomeSteps.java:151)- User click on Cart Option
+  And User click on Cart option                                                           # tek.sdet.framework.steps.HomeSteps.userClickOnCartOption()
+ INFO [main] (HomeSteps.java:158)- user click on proced to checkout button
+  And User click on Proceed to Checkout button                                            # tek.sdet.framework.steps.HomeSteps.userClickOnProceedToCheckoutButton()
+ INFO [main] (HomeSteps.java:209)- user click on place your order
+  And User click on Place Your Order                                                      # tek.sdet.framework.steps.HomeSteps.userClickOnPlaceYourOrder()
+ INFO [main] (HomeSteps.java:217)- message should displayed order placed thanks
+  Then a message should be displayed ‘Order Placed, Thanks’                               # tek.sdet.framework.steps.HomeSteps.aMessageShouldBeDisplayedOrderPlacedThanks()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 54303
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891780.710][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:03:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:03:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:03:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:03:01 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can cancel the order" classname="Retail Order Page" time="10.257">
+    <system-out><![CDATA[
+@orderPageScenario1 @RegrationOrderPage @RegrationCapston
+Scenario: Verify User can cancel the order                                       # features/OrderPage.feature:4
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                                # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                              # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'hoshmande@tekschool.us' and password 'Tek@12345'         # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                                 # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                      # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (OrderSteps.java:23)- user click on orders section
+  And User click on Orders section                                               # tek.sdet.framework.steps.OrderSteps.userClickOnOrdersSection()
+ INFO [main] (OrderSteps.java:30)- user click on first order in List
+  And User click on first order in list                                          # tek.sdet.framework.steps.OrderSteps.userClickOnFirstOrderInList()
+ INFO [main] (OrderSteps.java:37)- user click on cancel the order button
+  And User click on Cancel The Order button                                      # tek.sdet.framework.steps.OrderSteps.userClickOnCancelTheOrderButton()
+ INFO [main] (OrderSteps.java:44)- user select the cancelation reason
+  And User select the cancelation Reason 'Bought wrong item'                     # tek.sdet.framework.steps.OrderSteps.userSelectTheCancelationReasonBoughtWrongItem(java.lang.String)
+ INFO [main] (OrderSteps.java:51)- user click on cancel order button
+  And User click on Cancel Order button                                          # tek.sdet.framework.steps.OrderSteps.userClickOnCancelOrderButton()
+ INFO [main] (OrderSteps.java:62)- cancelation message should be displayed
+  Then a cancelation message should be displayed 'Your Order Has Been Cancelled' # tek.sdet.framework.steps.OrderSteps.aCancelationMessageShouldBeDisplayedYourOrderHasBeenCancelled(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 58128
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891794.899][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:03:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:03:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:03:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:03:15 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can Return the order" classname="Retail Order Page" time="12.057">
+    <system-out><![CDATA[
+@orderPageScenario2 @RegrationOrderPage @RegrationCapston
+Scenario: Verify User can Return the order                               # features/OrderPage.feature:18
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                        # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                      # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'hoshmande@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                              # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (OrderSteps.java:23)- user click on orders section
+  And User click on Orders section                                       # tek.sdet.framework.steps.OrderSteps.userClickOnOrdersSection()
+ INFO [main] (OrderSteps.java:30)- user click on first order in List
+  And User click on first order in list                                  # tek.sdet.framework.steps.OrderSteps.userClickOnFirstOrderInList()
+ INFO [main] (OrderSteps.java:75)- user click on Retrun Item button
+  And User click on Return Items button                                  # tek.sdet.framework.steps.OrderSteps.userClickOnReturnItemButton()
+ INFO [main] (OrderSteps.java:82)- User select the Return Reason 'Item damaged
+  And User select the Return Reason 'Item damaged'                       # tek.sdet.framework.steps.OrderSteps.userSelectTheReturnReasonItemDamaged(java.lang.String)
+ INFO [main] (OrderSteps.java:89)- User select the drop off service 'FedEx'
+  And User select the drop off service 'FedEx'                           # tek.sdet.framework.steps.OrderSteps.userSelectTheDropOffServiceFedex(java.lang.String)
+ INFO [main] (OrderSteps.java:96)- User click on Return Order button
+  And User click on Return Order button                                  # tek.sdet.framework.steps.OrderSteps.userClickOnReturnOrderButton()
+ INFO [main] (OrderSteps.java:107)- a cancelation message should be displayed 'Return was successful'
+  Then a return message should be displayed 'Return was successfull'     # tek.sdet.framework.steps.OrderSteps.returnMessageShouldBeDisplayed(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 50160
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891804.845][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:03:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:03:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:03:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:03:25 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can write a review on order placed" classname="Retail Order Page" time="11.544">
+    <system-out><![CDATA[
+@orderPageScenario3 @RegrationOrderPage @RegrationCapston
+Scenario: Verify User can write a review on order placed                                  # features/OrderPage.feature:34
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                                         # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                                       # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'hoshmande@tekschool.us' and password 'Tek@12345'                  # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                                          # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                               # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (OrderSteps.java:23)- user click on orders section
+  And User click on Orders section                                                        # tek.sdet.framework.steps.OrderSteps.userClickOnOrdersSection()
+ INFO [main] (OrderSteps.java:30)- user click on first order in List
+  And User click on first order in list                                                   # tek.sdet.framework.steps.OrderSteps.userClickOnFirstOrderInList()
+ INFO [main] (OrderSteps.java:118)- user Click on review button
+  And User click on Review button                                                         # tek.sdet.framework.steps.OrderSteps.userClickOnReviewButton()
+ INFO [main] (OrderSteps.java:128)- User Write review message
+  And User write Review headline 'qualities' and 'I appreciate doing businesses with you' # tek.sdet.framework.steps.OrderSteps.userWriteReviewHealineAndReviewText(java.lang.String,java.lang.String)
+ INFO [main] (OrderSteps.java:135)- User click Add your Review Button
+  And User click Add your Review button                                                   # tek.sdet.framework.steps.OrderSteps.userClickAddYourReviewButton()
+ INFO [main] (OrderSteps.java:146)- A review Message Should be Displayed your review was added successfully
+  Then a review message should be displayed 'Your review was added successfully'          # tek.sdet.framework.steps.OrderSteps.aReviewMessageShoudBeDisplayed(java.lang.String)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 55165
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891816.953][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:03:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:03:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:03:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:03:37 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can update Profile Information" classname="Retail Account Page" time="7.129">
+    <system-out><![CDATA[
+@accountPageScenario1 @RegrationAccountPage @RegrationCapston
+Scenario: Verify User can update Profile Information                        # features/accountPage.feature:11
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                           # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'john_lombard@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                            # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                 # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (AccountSteps.java:30)- User click on account options
+  When User click on Account option                                         # tek.sdet.framework.steps.AccountSteps.UserClickOnAccountOption()
+ INFO [main] (AccountSteps.java:40)- User enter name and phone number
+  And User update Name 'Poiuyooorne' and Phone '7069738521'                 # tek.sdet.framework.steps.AccountSteps.UserUpdateNameAndPhone(java.lang.String,java.lang.String)
+ INFO [main] (AccountSteps.java:48)- User click on update button
+  And User click on Update button                                           # tek.sdet.framework.steps.AccountSteps.UserClickOnUpdateButton()
+ INFO [main] (AccountSteps.java:56)- good to go
+  Then User profile information should be updated                           # tek.sdet.framework.steps.AccountSteps.UserProfileInformationShouldBeUpdated()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 52433
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891828.689][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:03:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:03:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:03:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:03:49 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can add a payment method" classname="Retail Account Page" time="8.39">
+    <system-out><![CDATA[
+@regeration @accountPageScenario3 @RegrationAccountPage @RegrationCapston
+Scenario: Verify User can add a payment method                              # features/accountPage.feature:27
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                           # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'john_lombard@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                            # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                 # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (AccountSteps.java:30)- User click on account options
+  When User click on Account option                                         # tek.sdet.framework.steps.AccountSteps.UserClickOnAccountOption()
+ INFO [main] (AccountSteps.java:100)- User click on Add Payment link
+  And User click on Add a payment method link                               # tek.sdet.framework.steps.AccountSteps.UserClickOnAddAPaymentMethodLink()
+ INFO [main] (AccountSteps.java:112)- User put Debit or Credit Card Informations
+  And User fill Debit or credit card information                            # tek.sdet.framework.steps.AccountSteps.UserFillDebitOrCreditCardInformation(io.cucumber.datatable.DataTable)
+    | cardNumber       | nameOnCard  | expirationMonth | expirationYear | securityCode |
+    | 1234053458888899 | AlexJohnson | 10              | 2028           | 899          |
+ INFO [main] (AccountSteps.java:119)- User click on add your card button
+  And User click on Add your card button                                    # tek.sdet.framework.steps.AccountSteps.UserClickOnAddYourCardButton()
+ INFO [main] (AccountSteps.java:127)- good to go for updating password
+  Then a message should be displayed ‘Payment Method added successfully’    # tek.sdet.framework.steps.AccountSteps.MessageShouldBeDisplayedPaymentAddSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 49204
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891835.734][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:03:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:03:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:03:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:03:56 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can edit Debit or Credit card" classname="Retail Account Page" time="11.195">
+    <system-out><![CDATA[
+@regeration @accountPageScenario4 @RegrationAccountPage @RegrationCapston
+Scenario: Verify User can edit Debit or Credit card                         # features/accountPage.feature:37
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                           # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'john_lombard@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                            # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                 # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (AccountSteps.java:30)- User click on account options
+  When User click on Account option                                         # tek.sdet.framework.steps.AccountSteps.UserClickOnAccountOption()
+ INFO [main] (AccountSteps.java:140)- User click on existing payment add card
+ INFO [main] (AccountSteps.java:142)- User click on edit option of card 'which was missing step from Test Case' 
+  And User click on Edit option of card section                             # tek.sdet.framework.steps.AccountSteps.userClickOnEditOptionOfCardSection()
+ INFO [main] (AccountSteps.java:157)- user updated cardNumber, Name, ExpirationMonth,Year and Securitycode
+  And user edit information with below data                                 # tek.sdet.framework.steps.AccountSteps.userEditInformationWithBelowData(io.cucumber.datatable.DataTable)
+    | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
+    | 0987654901098721 | Mike Sure  | 5               | 2028           | 677          |
+ INFO [main] (AccountSteps.java:164)- User click on Update your Card button
+  And user click on Update Your Card button                                 # tek.sdet.framework.steps.AccountSteps.userClickOnUpdateYourCardbutton()
+ INFO [main] (AccountSteps.java:172)- Message displayed PaymentMethod Updated Successfully
+  Then a message should be displayed 'Payment Method updated Successfully'  # tek.sdet.framework.steps.AccountSteps.messageDisplayedPaymentUpdatedSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 53727
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891843.993][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:04:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:04:04 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:04:04 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:04:04 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can remove Debit or Credit card" classname="Retail Account Page" time="11.452">
+    <system-out><![CDATA[
+@regeration @accountPageScenario5 @RegrationAccountPage @RegrationCapston
+Scenario: Verify User can remove Debit or Credit card                       # features/accountPage.feature:47
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                           # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'john_lombard@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                            # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                 # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (AccountSteps.java:30)- User click on account options
+  When User click on Account option                                         # tek.sdet.framework.steps.AccountSteps.UserClickOnAccountOption()
+ INFO [main] (AccountSteps.java:188)- user Click on remove option 
+  And User click on remove option of card section                           # tek.sdet.framework.steps.AccountSteps.userClickOnRemoveOptionOfCardSection()
+ INFO [main] (AccountSteps.java:196)- payment details should be removed
+  Then payment details should be removed                                    # tek.sdet.framework.steps.AccountSteps.paymentdetailsShouldBeRemoved()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 62103
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891855.233][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:04:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:04:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:04:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:04:15 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can add an Address" classname="Retail Account Page" time="7.586">
+    <system-out><![CDATA[
+@regeration @accountPageScenario6 @RegrationAccountPage @RegrationCapston
+Scenario: Verify User can add an Address                                    # features/accountPage.feature:53
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                           # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'john_lombard@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                            # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                 # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (AccountSteps.java:30)- User click on account options
+  When User click on Account option                                         # tek.sdet.framework.steps.AccountSteps.UserClickOnAccountOption()
+ INFO [main] (AccountSteps.java:210)- 
+  And User click on Add address option                                      # tek.sdet.framework.steps.AccountSteps.userClickOnAddAddressOption()
+ INFO [main] (AccountSteps.java:244)- User fill new addres form with above information
+  And user fill new address form with below information                     # tek.sdet.framework.steps.AccountSteps.userFillNewAddressFormWithBleowInformation(io.cucumber.datatable.DataTable)
+    | country       | fullName  | phoneNumber | streetAddress | apt | city       | state      | zipCode |
+    | United States | Jye Biden | 8767894765  | 5455 ArdenWay | 14  | Sacramento | California | 57465   |
+ INFO [main] (AccountSteps.java:251)- 
+  And User click Add Your Address button                                    # tek.sdet.framework.steps.AccountSteps.userClickAddYourAddressButton()
+ INFO [main] (AccountSteps.java:259)- 
+  Then a message should be displayed ‘Address Added Successfully’           # tek.sdet.framework.steps.AccountSteps.messageShouldBeDisplayedAddressAddedSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 57618
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891866.540][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:04:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:04:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:04:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:04:27 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can edit an Address added on account" classname="Retail Account Page" time="8.597">
+    <system-out><![CDATA[
+@regeration @accountPageScenario7 @RegrationAccountPage @RegrationCapston
+Scenario: Verify User can edit an Address added on account                  # features/accountPage.feature:63
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                           # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'john_lombard@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                            # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                 # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (AccountSteps.java:30)- User click on account options
+  When User click on Account option                                         # tek.sdet.framework.steps.AccountSteps.UserClickOnAccountOption()
+ INFO [main] (AccountSteps.java:274)- User click on edit address option
+  And User click on edit address option                                     # tek.sdet.framework.steps.AccountSteps.userClickOnEditAddressOption()
+ INFO [main] (AccountSteps.java:244)- User fill new addres form with above information
+  And user fill new address form with below information                     # tek.sdet.framework.steps.AccountSteps.userFillNewAddressFormWithBleowInformation(io.cucumber.datatable.DataTable)
+    | country       | fullName     | phoneNumber | streetAddress | apt | city    | state | zipCode |
+    | United States | Samad Dardar | 8314448318  | 2222 Elcamino | G   | Houston | Texas | 79975   |
+ INFO [main] (AccountSteps.java:281)- User click update your Address button
+  And User click update Your Address button                                 # tek.sdet.framework.steps.AccountSteps.userClickUpdateYourAddButton()
+ INFO [main] (AccountSteps.java:289)- message displyed address updated successfully
+  Then a message should be displayed ‘Address Updated Successfully’         # tek.sdet.framework.steps.AccountSteps.messageShouldBeDisplayedAddUpdatedSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 49899
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891874.148][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:04:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:04:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:04:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:04:34 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can remove Address from Account" classname="Retail Account Page" time="5.758">
+    <system-out><![CDATA[
+@regeration @accountPageScenario8 @RegrationAccountPage @RegrationCapston
+Scenario: Verify User can remove Address from Account                       # features/accountPage.feature:73
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                                           # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                                         # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:44)- User enter email and Password
+  And User enter email 'john_lombard@tekschool.us' and password 'Tek@12345' # tek.sdet.framework.steps.SignInSteps.UserEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInSteps.java:51)- User log In into Accoutn
+  And User click on login button                                            # tek.sdet.framework.steps.SignInSteps.UserClickOnLoginButton()
+ INFO [main] (SignInSteps.java:58)- User confimed on account page
+  And User should be logged in into Account                                 # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
+ INFO [main] (AccountSteps.java:30)- User click on account options
+  When User click on Account option                                         # tek.sdet.framework.steps.AccountSteps.UserClickOnAccountOption()
+ INFO [main] (AccountSteps.java:301)- User click on remove option of Address section
+  And User click on remove option of Address section                        # tek.sdet.framework.steps.AccountSteps.userClickOnRemoveOptionOfAddressSection()
+ INFO [main] (AccountSteps.java:309)- Address details should be removed
+  Then Address details should be removed                                    # tek.sdet.framework.steps.AccountSteps.addressDetailsShouldBeRemoved()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 51363
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891882.863][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:04:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:04:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:04:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:04:43 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify user can sign in into Retail Application" classname="Sign In feature" time="4.917">
     <system-out><![CDATA[
 @TCsignInSenario1 @RegrationSignIn @RegrationCapston
 Scenario: Verify user can sign in into Retail Application                # features/signInPage.feature:4
-{browser=chrome, headless=false, url=https://tek-retail-ui.azurewebsites.net/}
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
   Given User is on retail website                                        # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
  INFO [main] (SignInSteps.java:36)- User Signed In
   When User click on Sign in option                                      # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
@@ -71,22 +813,51 @@ Scenario: Verify user can sign in into Retail Application                # featu
  INFO [main] (SignInSteps.java:58)- User confimed on account page
   Then User should be logged in into Account                             # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
 ]]></system-out>
-    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
-Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 55678
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 51984
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1677881904.694][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 03, 2023 2:18:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1677891888.449][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:04:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 03, 2023 2:18:24 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 03, 2023 5:04:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 03, 2023 2:18:24 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 03, 2023 5:04:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 03, 2023 2:18:24 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 03, 2023 5:04:49 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify user can create an account into Retail Website" classname="Sign In feature" time="4.815">
+    <system-out><![CDATA[
+@TCsignInSenario2 @RegrationSignIn @RegrationCapston
+Scenario: Verify user can create an account into Retail Website # features/signInPage.feature:12
+{browser=chrome, headless=true, url=https://tek-retail-ui.azurewebsites.net/}
+  Given User is on retail website                               # tek.sdet.framework.steps.SignInSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInSteps.java:36)- User Signed In
+  When User click on Sign in option                             # tek.sdet.framework.steps.SignInSteps.UserClickOnSignInOption()
+ INFO [main] (SignInSteps.java:69)- User click on create new Account button
+  And User click on Create New Account button                   # tek.sdet.framework.steps.SignInSteps.UserClickOnCreateNewAccountButton()
+ INFO [main] (SignInSteps.java:80)- User enter name, email, password, confirmpassword
+  And User fill the signUp information with below data          # tek.sdet.framework.steps.SignInSteps.UserFillTheSignUpInformationWithBelowData(io.cucumber.datatable.DataTable)
+    | name         | email                | password   | confirmPassword |
+    | John Lombtrd | bidbqqq@tekschool.us | Tek@123456 | Tek@123456      |
+ INFO [main] (SignInSteps.java:87)- User Click on sign Up Button
+  And User click on SignUp button                               # tek.sdet.framework.steps.SignInSteps.UserClickOnSignUpButton()
+  Then User should be logged into account page                  # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedIntoAccountPage()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 55835
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1677891893.413][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 03, 2023 5:04:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Mar 03, 2023 5:04:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
+Mar 03, 2023 5:04:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 110.
+Mar 03, 2023 5:04:54 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>

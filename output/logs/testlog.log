@@ -2396,3 +2396,908 @@
 2023-03-03 15:33:18,557 - logger_File -INFO - user click add a credit card or debit card for payment method
 2023-03-03 15:33:19,410 - logger_File -INFO - User put Debit or Credit Card Informations
 2023-03-03 15:33:19,540 - logger_File -INFO - User click on add your card button
+2023-03-03 15:50:09,546 - logger_File -INFO - User click on All section
+2023-03-03 15:50:13,327 - logger_File -INFO - User click on All section
+2023-03-03 15:50:13,500 - logger_File -INFO - User click on each department
+2023-03-03 15:50:13,610 - logger_File -INFO - below options are present in department
+2023-03-03 15:50:17,965 - logger_File -INFO - User click on All section
+2023-03-03 15:50:18,133 - logger_File -INFO - User click on each department
+2023-03-03 15:50:18,179 - logger_File -INFO - below options are present in department
+2023-03-03 15:50:18,249 - logger_File -INFO - below options are present in department
+2023-03-03 15:50:21,831 - logger_File -INFO - User click on All section
+2023-03-03 15:50:22,022 - logger_File -INFO - User click on each department
+2023-03-03 15:50:22,064 - logger_File -INFO - below options are present in department
+2023-03-03 15:50:22,136 - logger_File -INFO - below options are present in department
+2023-03-03 15:50:25,337 - logger_File -INFO - User click on All section
+2023-03-03 15:50:25,607 - logger_File -INFO - User click on each department
+2023-03-03 15:50:25,656 - logger_File -INFO - below options are present in department
+2023-03-03 15:50:25,729 - logger_File -INFO - below options are present in department
+2023-03-03 15:50:28,918 - logger_File -INFO - User click on All section
+2023-03-03 15:50:29,094 - logger_File -INFO - User click on each department
+2023-03-03 15:50:34,567 - logger_File -INFO - User Signed In
+2023-03-03 15:50:34,970 - logger_File -INFO - User enter email and Password
+2023-03-03 15:50:35,115 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:50:35,521 - logger_File -INFO - User confimed on account page
+2023-03-03 15:50:35,669 - logger_File -INFO - User Change the Category to Department
+2023-03-03 15:50:35,939 - logger_File -INFO - User search for an item
+2023-03-03 15:50:36,477 - logger_File -INFO - User click on item
+2023-03-03 15:50:36,896 - logger_File -INFO - user select the quantity 
+2023-03-03 15:50:37,038 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 15:50:43,616 - logger_File -INFO - User Signed In
+2023-03-03 15:50:43,989 - logger_File -INFO - User enter email and Password
+2023-03-03 15:50:44,093 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:50:44,512 - logger_File -INFO - User confimed on account page
+2023-03-03 15:50:44,638 - logger_File -INFO - User Change the Category to Department
+2023-03-03 15:50:44,921 - logger_File -INFO - User search for an item
+2023-03-03 15:50:45,512 - logger_File -INFO - User click on item
+2023-03-03 15:50:45,970 - logger_File -INFO - user select the quantity 
+2023-03-03 15:50:46,070 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 15:50:49,293 - logger_File -INFO - User click on Cart Option
+2023-03-03 15:50:49,464 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 15:50:49,660 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 15:50:54,513 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 15:50:54,653 - logger_File -INFO - 
+2023-03-03 15:50:57,806 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 15:50:58,453 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 15:50:58,573 - logger_File -INFO - User click on add your card button
+2023-03-03 15:50:58,831 - logger_File -INFO - user click on place your order
+2023-03-03 15:51:00,056 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 15:51:03,666 - logger_File -INFO - User Signed In
+2023-03-03 15:51:04,036 - logger_File -INFO - User enter email and Password
+2023-03-03 15:51:04,137 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:51:04,554 - logger_File -INFO - User confimed on account page
+2023-03-03 15:51:04,673 - logger_File -INFO - User Change the Category to Department
+2023-03-03 15:51:04,970 - logger_File -INFO - User search for an item
+2023-03-03 15:51:05,664 - logger_File -INFO - User click on item
+2023-03-03 15:51:06,075 - logger_File -INFO - user select the quantity 
+2023-03-03 15:51:06,173 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 15:51:09,431 - logger_File -INFO - User click on Cart Option
+2023-03-03 15:51:09,638 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 15:51:09,765 - logger_File -INFO - user click on place your order
+2023-03-03 15:51:10,901 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 15:51:14,273 - logger_File -INFO - User Signed In
+2023-03-03 15:51:14,673 - logger_File -INFO - User enter email and Password
+2023-03-03 15:51:14,782 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:51:15,235 - logger_File -INFO - User confimed on account page
+2023-03-03 15:51:15,395 - logger_File -INFO - user click on orders section
+2023-03-03 15:51:15,950 - logger_File -INFO - user click on first order in List
+2023-03-03 15:51:16,104 - logger_File -INFO - user click on cancel the order button
+2023-03-03 15:51:16,220 - logger_File -INFO - user select the cancelation reason
+2023-03-03 15:51:16,340 - logger_File -INFO - user click on cancel order button
+2023-03-03 15:51:16,728 - logger_File -INFO - cancelation message should be displayed
+2023-03-03 15:51:19,996 - logger_File -INFO - User Signed In
+2023-03-03 15:51:20,372 - logger_File -INFO - User enter email and Password
+2023-03-03 15:51:20,469 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:51:20,907 - logger_File -INFO - User confimed on account page
+2023-03-03 15:51:21,029 - logger_File -INFO - user click on orders section
+2023-03-03 15:51:21,718 - logger_File -INFO - user click on first order in List
+2023-03-03 15:51:21,915 - logger_File -INFO - user click on Retrun Item button
+2023-03-03 15:51:22,032 - logger_File -INFO - User select the Return Reason 'Item damaged
+2023-03-03 15:51:22,171 - logger_File -INFO - User select the drop off service 'FedEx'
+2023-03-03 15:51:22,303 - logger_File -INFO - User click on Return Order button
+2023-03-03 15:51:22,645 - logger_File -INFO - a cancelation message should be displayed 'Return was successful'
+2023-03-03 15:51:25,813 - logger_File -INFO - User Signed In
+2023-03-03 15:51:26,170 - logger_File -INFO - User enter email and Password
+2023-03-03 15:51:26,267 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:51:26,729 - logger_File -INFO - User confimed on account page
+2023-03-03 15:51:26,837 - logger_File -INFO - user click on orders section
+2023-03-03 15:51:27,881 - logger_File -INFO - user click on first order in List
+2023-03-03 15:51:28,049 - logger_File -INFO - user Click on review button
+2023-03-03 15:51:28,514 - logger_File -INFO - User Write review message
+2023-03-03 15:51:28,656 - logger_File -INFO - User click Add your Review Button
+2023-03-03 15:51:33,714 - logger_File -INFO - A review Message Should be Displayed your review was added successfully
+2023-03-03 15:51:37,349 - logger_File -INFO - User Signed In
+2023-03-03 15:51:37,741 - logger_File -INFO - User enter email and Password
+2023-03-03 15:51:37,847 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:51:38,274 - logger_File -INFO - User confimed on account page
+2023-03-03 15:51:38,466 - logger_File -INFO - User click on account options
+2023-03-03 15:51:38,930 - logger_File -INFO - User enter name and phone number
+2023-03-03 15:52:03,419 - logger_File -INFO - User Signed In
+2023-03-03 15:52:03,781 - logger_File -INFO - User enter email and Password
+2023-03-03 15:52:03,885 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:52:04,308 - logger_File -INFO - User confimed on account page
+2023-03-03 15:52:04,490 - logger_File -INFO - User click on account options
+2023-03-03 15:52:04,617 - logger_File -INFO - User click on Add Payment link
+2023-03-03 15:52:05,435 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 15:52:05,545 - logger_File -INFO - User click on add your card button
+2023-03-03 15:52:06,364 - logger_File -INFO - good to go for updating password
+2023-03-03 15:52:09,526 - logger_File -INFO - User Signed In
+2023-03-03 15:52:09,910 - logger_File -INFO - User enter email and Password
+2023-03-03 15:52:10,014 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:52:10,430 - logger_File -INFO - User confimed on account page
+2023-03-03 15:52:10,623 - logger_File -INFO - User click on account options
+2023-03-03 15:52:11,037 - logger_File -INFO - User click on existing payment add card
+2023-03-03 15:52:11,159 - logger_File -INFO - User click on edit option of card 'which was missing step from Test Case' 
+2023-03-03 15:52:12,018 - logger_File -INFO - user updated cardNumber, Name, ExpirationMonth,Year and Securitycode
+2023-03-03 15:52:12,137 - logger_File -INFO - User click on Update your Card button
+2023-03-03 15:52:12,958 - logger_File -INFO - Message displayed PaymentMethod Updated Successfully
+2023-03-03 15:52:16,053 - logger_File -INFO - User Signed In
+2023-03-03 15:52:16,412 - logger_File -INFO - User enter email and Password
+2023-03-03 15:52:16,506 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:52:16,927 - logger_File -INFO - User confimed on account page
+2023-03-03 15:52:17,114 - logger_File -INFO - User click on account options
+2023-03-03 15:52:17,751 - logger_File -INFO - user Click on remove option 
+2023-03-03 15:52:34,997 - logger_File -INFO - User Signed In
+2023-03-03 15:52:35,427 - logger_File -INFO - User enter email and Password
+2023-03-03 15:52:35,532 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:52:35,978 - logger_File -INFO - User confimed on account page
+2023-03-03 15:52:36,343 - logger_File -INFO - User click on account options
+2023-03-03 15:52:37,097 - logger_File -INFO - 
+2023-03-03 15:52:40,181 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 15:52:40,327 - logger_File -INFO - 
+2023-03-03 15:52:41,141 - logger_File -INFO - 
+2023-03-03 15:52:44,523 - logger_File -INFO - User Signed In
+2023-03-03 15:52:44,845 - logger_File -INFO - User enter email and Password
+2023-03-03 15:52:44,930 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:52:45,346 - logger_File -INFO - User confimed on account page
+2023-03-03 15:52:45,511 - logger_File -INFO - User click on account options
+2023-03-03 15:52:46,074 - logger_File -INFO - User click on edit address option
+2023-03-03 15:52:47,721 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 15:52:47,815 - logger_File -INFO - User click update your Address button
+2023-03-03 15:52:48,617 - logger_File -INFO - message displyed address updated successfully
+2023-03-03 15:52:52,314 - logger_File -INFO - User Signed In
+2023-03-03 15:52:52,622 - logger_File -INFO - User enter email and Password
+2023-03-03 15:52:52,704 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:52:53,111 - logger_File -INFO - User confimed on account page
+2023-03-03 15:52:53,284 - logger_File -INFO - User click on account options
+2023-03-03 15:52:53,728 - logger_File -INFO - User click on remove option of Address section
+2023-03-03 15:52:53,754 - logger_File -INFO - Address details should be removed
+2023-03-03 15:52:57,320 - logger_File -INFO - User Signed In
+2023-03-03 15:52:57,623 - logger_File -INFO - User enter email and Password
+2023-03-03 15:52:57,706 - logger_File -INFO - User log In into Accoutn
+2023-03-03 15:52:58,130 - logger_File -INFO - User confimed on account page
+2023-03-03 15:53:01,317 - logger_File -INFO - User Signed In
+2023-03-03 15:53:01,401 - logger_File -INFO - User click on create new Account button
+2023-03-03 15:53:01,911 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-03-03 15:53:02,009 - logger_File -INFO - User Click on sign Up Button
+2023-03-03 16:01:19,775 - logger_File -INFO - User Signed In
+2023-03-03 16:01:20,237 - logger_File -INFO - User enter email and Password
+2023-03-03 16:01:20,349 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:01:20,821 - logger_File -INFO - User confimed on account page
+2023-03-03 16:01:21,005 - logger_File -INFO - User click on account options
+2023-03-03 16:02:08,484 - logger_File -INFO - User Signed In
+2023-03-03 16:02:08,883 - logger_File -INFO - User enter email and Password
+2023-03-03 16:02:09,012 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:02:09,637 - logger_File -INFO - User confimed on account page
+2023-03-03 16:02:09,865 - logger_File -INFO - User click on account options
+2023-03-03 16:06:05,180 - logger_File -INFO - User Signed In
+2023-03-03 16:06:05,566 - logger_File -INFO - User enter email and Password
+2023-03-03 16:06:56,000 - logger_File -INFO - User Signed In
+2023-03-03 16:06:56,520 - logger_File -INFO - User enter email and Password
+2023-03-03 16:06:56,657 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:06:57,153 - logger_File -INFO - User confimed on account page
+2023-03-03 16:06:57,367 - logger_File -INFO - User click on account options
+2023-03-03 16:06:58,195 - logger_File -INFO - user Click on remove option 
+2023-03-03 16:07:01,235 - logger_File -INFO - payment details should be removed
+2023-03-03 16:11:19,522 - logger_File -INFO - User click on All section
+2023-03-03 16:11:25,492 - logger_File -INFO - User click on All section
+2023-03-03 16:11:25,609 - logger_File -INFO - User click on each department
+2023-03-03 16:11:25,709 - logger_File -INFO - below options are present in department
+2023-03-03 16:11:30,883 - logger_File -INFO - User click on All section
+2023-03-03 16:11:32,972 - logger_File -INFO - User click on each department
+2023-03-03 16:11:33,006 - logger_File -INFO - below options are present in department
+2023-03-03 16:11:33,056 - logger_File -INFO - below options are present in department
+2023-03-03 16:11:37,456 - logger_File -INFO - User click on All section
+2023-03-03 16:11:37,911 - logger_File -INFO - User click on each department
+2023-03-03 16:11:37,976 - logger_File -INFO - below options are present in department
+2023-03-03 16:11:38,030 - logger_File -INFO - below options are present in department
+2023-03-03 16:11:42,373 - logger_File -INFO - User click on All section
+2023-03-03 16:11:43,039 - logger_File -INFO - User click on each department
+2023-03-03 16:11:43,074 - logger_File -INFO - below options are present in department
+2023-03-03 16:11:43,122 - logger_File -INFO - below options are present in department
+2023-03-03 16:11:46,755 - logger_File -INFO - User click on All section
+2023-03-03 16:11:47,777 - logger_File -INFO - User click on each department
+2023-03-03 16:11:51,373 - logger_File -INFO - User Signed In
+2023-03-03 16:11:51,700 - logger_File -INFO - User enter email and Password
+2023-03-03 16:11:51,789 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:11:53,105 - logger_File -INFO - User confimed on account page
+2023-03-03 16:11:53,208 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:11:53,477 - logger_File -INFO - User search for an item
+2023-03-03 16:11:54,025 - logger_File -INFO - User click on item
+2023-03-03 16:11:54,463 - logger_File -INFO - user select the quantity 
+2023-03-03 16:11:54,566 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:12:01,467 - logger_File -INFO - User Signed In
+2023-03-03 16:12:01,774 - logger_File -INFO - User enter email and Password
+2023-03-03 16:12:01,864 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:12:02,462 - logger_File -INFO - User confimed on account page
+2023-03-03 16:12:02,752 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:12:02,955 - logger_File -INFO - User search for an item
+2023-03-03 16:12:03,429 - logger_File -INFO - User click on item
+2023-03-03 16:12:03,848 - logger_File -INFO - user select the quantity 
+2023-03-03 16:12:03,937 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:12:07,115 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:12:07,259 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:12:07,416 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 16:12:12,319 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 16:12:12,435 - logger_File -INFO - 
+2023-03-03 16:12:15,564 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 16:12:16,187 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:12:16,298 - logger_File -INFO - User click on add your card button
+2023-03-03 16:12:21,780 - logger_File -INFO - User Signed In
+2023-03-03 16:12:22,111 - logger_File -INFO - User enter email and Password
+2023-03-03 16:12:22,192 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:12:22,909 - logger_File -INFO - User confimed on account page
+2023-03-03 16:12:22,999 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:12:23,248 - logger_File -INFO - User search for an item
+2023-03-03 16:12:23,930 - logger_File -INFO - User click on item
+2023-03-03 16:12:24,410 - logger_File -INFO - user select the quantity 
+2023-03-03 16:12:24,499 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:12:27,705 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:12:27,843 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:12:27,928 - logger_File -INFO - user click on place your order
+2023-03-03 16:12:29,141 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 16:12:37,144 - logger_File -INFO - User Signed In
+2023-03-03 16:12:37,454 - logger_File -INFO - User enter email and Password
+2023-03-03 16:12:37,535 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:12:38,875 - logger_File -INFO - User confimed on account page
+2023-03-03 16:12:38,986 - logger_File -INFO - user click on orders section
+2023-03-03 16:12:39,468 - logger_File -INFO - user click on first order in List
+2023-03-03 16:12:39,590 - logger_File -INFO - user click on cancel the order button
+2023-03-03 16:12:39,687 - logger_File -INFO - user select the cancelation reason
+2023-03-03 16:12:39,783 - logger_File -INFO - user click on cancel order button
+2023-03-03 16:12:40,388 - logger_File -INFO - cancelation message should be displayed
+2023-03-03 16:12:45,231 - logger_File -INFO - User Signed In
+2023-03-03 16:12:45,570 - logger_File -INFO - User enter email and Password
+2023-03-03 16:12:45,647 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:12:46,210 - logger_File -INFO - User confimed on account page
+2023-03-03 16:12:46,395 - logger_File -INFO - user click on orders section
+2023-03-03 16:12:47,376 - logger_File -INFO - user click on first order in List
+2023-03-03 16:13:22,832 - logger_File -INFO - User Signed In
+2023-03-03 16:13:23,155 - logger_File -INFO - User enter email and Password
+2023-03-03 16:13:23,226 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:13:23,674 - logger_File -INFO - User confimed on account page
+2023-03-03 16:13:23,767 - logger_File -INFO - user click on orders section
+2023-03-03 16:13:24,303 - logger_File -INFO - user click on first order in List
+2023-03-03 16:13:24,428 - logger_File -INFO - user Click on review button
+2023-03-03 16:13:24,863 - logger_File -INFO - User Write review message
+2023-03-03 16:13:24,957 - logger_File -INFO - User click Add your Review Button
+2023-03-03 16:13:30,018 - logger_File -INFO - A review Message Should be Displayed your review was added successfully
+2023-03-03 16:13:34,166 - logger_File -INFO - User Signed In
+2023-03-03 16:13:34,476 - logger_File -INFO - User enter email and Password
+2023-03-03 16:13:34,548 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:13:35,001 - logger_File -INFO - User confimed on account page
+2023-03-03 16:13:35,169 - logger_File -INFO - User click on account options
+2023-03-03 16:13:35,501 - logger_File -INFO - User enter name and phone number
+2023-03-03 16:13:35,605 - logger_File -INFO - User click on update button
+2023-03-03 16:13:36,661 - logger_File -INFO - good to go
+2023-03-03 16:13:40,130 - logger_File -INFO - User Signed In
+2023-03-03 16:13:40,439 - logger_File -INFO - User enter email and Password
+2023-03-03 16:13:40,511 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:13:40,995 - logger_File -INFO - User confimed on account page
+2023-03-03 16:13:41,161 - logger_File -INFO - User click on account options
+2023-03-03 16:13:41,235 - logger_File -INFO - User click on Add Payment link
+2023-03-03 16:13:41,768 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:13:41,867 - logger_File -INFO - User click on add your card button
+2023-03-03 16:13:43,036 - logger_File -INFO - good to go for updating password
+2023-03-03 16:13:46,418 - logger_File -INFO - User Signed In
+2023-03-03 16:13:46,735 - logger_File -INFO - User enter email and Password
+2023-03-03 16:13:46,816 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:13:47,406 - logger_File -INFO - User confimed on account page
+2023-03-03 16:13:47,572 - logger_File -INFO - User click on account options
+2023-03-03 16:13:48,091 - logger_File -INFO - User click on existing payment add card
+2023-03-03 16:13:48,235 - logger_File -INFO - User click on edit option of card 'which was missing step from Test Case' 
+2023-03-03 16:13:48,920 - logger_File -INFO - user updated cardNumber, Name, ExpirationMonth,Year and Securitycode
+2023-03-03 16:13:49,000 - logger_File -INFO - User click on Update your Card button
+2023-03-03 16:13:49,832 - logger_File -INFO - Message displayed PaymentMethod Updated Successfully
+2023-03-03 16:13:55,145 - logger_File -INFO - User Signed In
+2023-03-03 16:13:55,461 - logger_File -INFO - User enter email and Password
+2023-03-03 16:13:55,535 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:13:56,005 - logger_File -INFO - User confimed on account page
+2023-03-03 16:13:56,155 - logger_File -INFO - User click on account options
+2023-03-03 16:13:57,000 - logger_File -INFO - user Click on remove option 
+2023-03-03 16:14:00,043 - logger_File -INFO - payment details should be removed
+2023-03-03 16:14:03,934 - logger_File -INFO - User Signed In
+2023-03-03 16:14:04,258 - logger_File -INFO - User enter email and Password
+2023-03-03 16:14:04,332 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:14:04,741 - logger_File -INFO - User confimed on account page
+2023-03-03 16:14:04,964 - logger_File -INFO - User click on account options
+2023-03-03 16:14:05,158 - logger_File -INFO - 
+2023-03-03 16:14:06,788 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 16:14:06,893 - logger_File -INFO - 
+2023-03-03 16:14:07,928 - logger_File -INFO - 
+2023-03-03 16:14:11,808 - logger_File -INFO - User Signed In
+2023-03-03 16:14:12,116 - logger_File -INFO - User enter email and Password
+2023-03-03 16:14:12,193 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:14:12,751 - logger_File -INFO - User confimed on account page
+2023-03-03 16:14:12,906 - logger_File -INFO - User click on account options
+2023-03-03 16:14:14,278 - logger_File -INFO - User click on edit address option
+2023-03-03 16:14:15,885 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 16:14:15,960 - logger_File -INFO - User click update your Address button
+2023-03-03 16:14:16,894 - logger_File -INFO - message displyed address updated successfully
+2023-03-03 16:14:20,339 - logger_File -INFO - User Signed In
+2023-03-03 16:14:20,697 - logger_File -INFO - User enter email and Password
+2023-03-03 16:14:20,768 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:14:21,265 - logger_File -INFO - User confimed on account page
+2023-03-03 16:14:21,435 - logger_File -INFO - User click on account options
+2023-03-03 16:14:22,146 - logger_File -INFO - User click on remove option of Address section
+2023-03-03 16:14:22,168 - logger_File -INFO - Address details should be removed
+2023-03-03 16:14:25,532 - logger_File -INFO - User Signed In
+2023-03-03 16:14:25,900 - logger_File -INFO - User enter email and Password
+2023-03-03 16:14:25,995 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:14:26,575 - logger_File -INFO - User confimed on account page
+2023-03-03 16:14:29,862 - logger_File -INFO - User Signed In
+2023-03-03 16:14:29,945 - logger_File -INFO - User click on create new Account button
+2023-03-03 16:14:30,531 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-03-03 16:14:30,615 - logger_File -INFO - User Click on sign Up Button
+2023-03-03 16:20:00,846 - logger_File -INFO - User Signed In
+2023-03-03 16:20:01,351 - logger_File -INFO - User enter email and Password
+2023-03-03 16:20:01,481 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:20:02,178 - logger_File -INFO - User confimed on account page
+2023-03-03 16:20:02,361 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:20:02,662 - logger_File -INFO - User search for an item
+2023-03-03 16:20:03,379 - logger_File -INFO - User click on item
+2023-03-03 16:20:03,899 - logger_File -INFO - user select the quantity 
+2023-03-03 16:20:04,054 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:20:07,282 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:20:07,516 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:20:07,785 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 16:20:12,619 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 16:20:12,813 - logger_File -INFO - 
+2023-03-03 16:20:15,960 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 16:20:16,709 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:20:16,864 - logger_File -INFO - User click on add your card button
+2023-03-03 16:21:31,279 - logger_File -INFO - User Signed In
+2023-03-03 16:21:31,781 - logger_File -INFO - User enter email and Password
+2023-03-03 16:21:31,905 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:21:32,469 - logger_File -INFO - User confimed on account page
+2023-03-03 16:21:32,622 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:21:33,038 - logger_File -INFO - User search for an item
+2023-03-03 16:21:33,958 - logger_File -INFO - User click on item
+2023-03-03 16:21:34,425 - logger_File -INFO - user select the quantity 
+2023-03-03 16:21:34,559 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:21:37,790 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:21:38,022 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:21:38,268 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 16:21:43,139 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 16:21:43,358 - logger_File -INFO - 
+2023-03-03 16:21:46,518 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 16:21:47,370 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:21:47,540 - logger_File -INFO - User click on add your card button
+2023-03-03 16:21:48,033 - logger_File -INFO - user click on place your order
+2023-03-03 16:21:49,335 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 16:26:55,781 - logger_File -INFO - User Signed In
+2023-03-03 16:26:56,200 - logger_File -INFO - User enter email and Password
+2023-03-03 16:26:56,320 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:26:56,879 - logger_File -INFO - User confimed on account page
+2023-03-03 16:26:57,052 - logger_File -INFO - user click on orders section
+2023-03-03 16:26:57,786 - logger_File -INFO - user click on first order in List
+2023-03-03 16:26:58,012 - logger_File -INFO - user click on Retrun Item button
+2023-03-03 16:26:58,174 - logger_File -INFO - User select the Return Reason 'Item damaged
+2023-03-03 16:26:58,340 - logger_File -INFO - User select the drop off service 'FedEx'
+2023-03-03 16:26:58,481 - logger_File -INFO - User click on Return Order button
+2023-03-03 16:26:58,921 - logger_File -INFO - a cancelation message should be displayed 'Return was successful'
+2023-03-03 16:29:33,520 - logger_File -INFO - User click on All section
+2023-03-03 16:29:38,008 - logger_File -INFO - User click on All section
+2023-03-03 16:29:38,118 - logger_File -INFO - User click on each department
+2023-03-03 16:29:38,225 - logger_File -INFO - below options are present in department
+2023-03-03 16:29:42,102 - logger_File -INFO - User click on All section
+2023-03-03 16:29:42,296 - logger_File -INFO - User click on each department
+2023-03-03 16:29:42,334 - logger_File -INFO - below options are present in department
+2023-03-03 16:29:42,384 - logger_File -INFO - below options are present in department
+2023-03-03 16:29:46,051 - logger_File -INFO - User click on All section
+2023-03-03 16:29:46,359 - logger_File -INFO - User click on each department
+2023-03-03 16:29:46,393 - logger_File -INFO - below options are present in department
+2023-03-03 16:29:46,449 - logger_File -INFO - below options are present in department
+2023-03-03 16:29:49,887 - logger_File -INFO - User click on All section
+2023-03-03 16:29:50,097 - logger_File -INFO - User click on each department
+2023-03-03 16:29:50,136 - logger_File -INFO - below options are present in department
+2023-03-03 16:29:50,184 - logger_File -INFO - below options are present in department
+2023-03-03 16:29:55,309 - logger_File -INFO - User click on All section
+2023-03-03 16:29:55,470 - logger_File -INFO - User click on each department
+2023-03-03 16:29:59,132 - logger_File -INFO - User Signed In
+2023-03-03 16:29:59,489 - logger_File -INFO - User enter email and Password
+2023-03-03 16:29:59,584 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:30:00,129 - logger_File -INFO - User confimed on account page
+2023-03-03 16:30:00,259 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:30:00,486 - logger_File -INFO - User search for an item
+2023-03-03 16:30:01,107 - logger_File -INFO - User click on item
+2023-03-03 16:30:01,668 - logger_File -INFO - user select the quantity 
+2023-03-03 16:30:01,753 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:30:09,131 - logger_File -INFO - User Signed In
+2023-03-03 16:30:09,448 - logger_File -INFO - User enter email and Password
+2023-03-03 16:30:09,540 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:30:10,164 - logger_File -INFO - User confimed on account page
+2023-03-03 16:30:10,286 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:30:10,523 - logger_File -INFO - User search for an item
+2023-03-03 16:30:11,154 - logger_File -INFO - User click on item
+2023-03-03 16:30:11,753 - logger_File -INFO - user select the quantity 
+2023-03-03 16:30:11,833 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:30:15,032 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:30:15,168 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:30:15,351 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 16:30:20,021 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 16:30:20,130 - logger_File -INFO - 
+2023-03-03 16:30:23,261 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 16:30:23,819 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:30:23,904 - logger_File -INFO - User click on add your card button
+2023-03-03 16:30:24,197 - logger_File -INFO - user click on place your order
+2023-03-03 16:30:25,424 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 16:30:35,015 - logger_File -INFO - User Signed In
+2023-03-03 16:30:35,367 - logger_File -INFO - User enter email and Password
+2023-03-03 16:30:35,450 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:30:35,922 - logger_File -INFO - User confimed on account page
+2023-03-03 16:30:36,020 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:30:36,285 - logger_File -INFO - User search for an item
+2023-03-03 16:30:37,381 - logger_File -INFO - User click on item
+2023-03-03 16:30:37,823 - logger_File -INFO - user select the quantity 
+2023-03-03 16:30:37,916 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:30:41,144 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:30:41,286 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:30:41,376 - logger_File -INFO - user click on place your order
+2023-03-03 16:30:42,839 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 16:30:46,572 - logger_File -INFO - User Signed In
+2023-03-03 16:30:46,967 - logger_File -INFO - User enter email and Password
+2023-03-03 16:30:47,056 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:30:47,542 - logger_File -INFO - User confimed on account page
+2023-03-03 16:30:47,629 - logger_File -INFO - user click on orders section
+2023-03-03 16:30:48,232 - logger_File -INFO - user click on first order in List
+2023-03-03 16:30:48,348 - logger_File -INFO - user click on cancel the order button
+2023-03-03 16:30:48,458 - logger_File -INFO - user select the cancelation reason
+2023-03-03 16:30:48,578 - logger_File -INFO - user click on cancel order button
+2023-03-03 16:30:48,936 - logger_File -INFO - cancelation message should be displayed
+2023-03-03 16:30:54,302 - logger_File -INFO - User Signed In
+2023-03-03 16:30:54,632 - logger_File -INFO - User enter email and Password
+2023-03-03 16:30:54,708 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:30:55,142 - logger_File -INFO - User confimed on account page
+2023-03-03 16:30:55,242 - logger_File -INFO - user click on orders section
+2023-03-03 16:30:55,872 - logger_File -INFO - user click on first order in List
+2023-03-03 16:30:56,015 - logger_File -INFO - user click on Retrun Item button
+2023-03-03 16:30:56,124 - logger_File -INFO - User select the Return Reason 'Item damaged
+2023-03-03 16:30:56,248 - logger_File -INFO - User select the drop off service 'FedEx'
+2023-03-03 16:30:56,332 - logger_File -INFO - User click on Return Order button
+2023-03-03 16:30:56,857 - logger_File -INFO - a cancelation message should be displayed 'Return was successful'
+2023-03-03 16:31:00,452 - logger_File -INFO - User Signed In
+2023-03-03 16:31:00,764 - logger_File -INFO - User enter email and Password
+2023-03-03 16:31:00,835 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:31:01,332 - logger_File -INFO - User confimed on account page
+2023-03-03 16:31:01,436 - logger_File -INFO - user click on orders section
+2023-03-03 16:31:02,237 - logger_File -INFO - user click on first order in List
+2023-03-03 16:31:02,361 - logger_File -INFO - user Click on review button
+2023-03-03 16:31:02,781 - logger_File -INFO - User Write review message
+2023-03-03 16:31:02,923 - logger_File -INFO - User click Add your Review Button
+2023-03-03 16:31:07,983 - logger_File -INFO - A review Message Should be Displayed your review was added successfully
+2023-03-03 16:31:11,446 - logger_File -INFO - User Signed In
+2023-03-03 16:31:11,779 - logger_File -INFO - User enter email and Password
+2023-03-03 16:31:11,871 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:31:12,366 - logger_File -INFO - User confimed on account page
+2023-03-03 16:31:12,529 - logger_File -INFO - User click on account options
+2023-03-03 16:31:12,854 - logger_File -INFO - User enter name and phone number
+2023-03-03 16:31:12,969 - logger_File -INFO - User click on update button
+2023-03-03 16:31:14,174 - logger_File -INFO - good to go
+2023-03-03 16:31:20,034 - logger_File -INFO - User Signed In
+2023-03-03 16:31:20,361 - logger_File -INFO - User enter email and Password
+2023-03-03 16:31:20,436 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:31:20,926 - logger_File -INFO - User confimed on account page
+2023-03-03 16:31:21,096 - logger_File -INFO - User click on account options
+2023-03-03 16:31:21,174 - logger_File -INFO - User click on Add Payment link
+2023-03-03 16:31:21,783 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:31:21,886 - logger_File -INFO - User click on add your card button
+2023-03-03 16:31:56,836 - logger_File -INFO - User Signed In
+2023-03-03 16:31:57,201 - logger_File -INFO - User enter email and Password
+2023-03-03 16:31:57,271 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:31:57,732 - logger_File -INFO - User confimed on account page
+2023-03-03 16:31:57,901 - logger_File -INFO - User click on account options
+2023-03-03 16:31:58,557 - logger_File -INFO - User click on existing payment add card
+2023-03-03 16:31:58,701 - logger_File -INFO - User click on edit option of card 'which was missing step from Test Case' 
+2023-03-03 16:31:59,393 - logger_File -INFO - user updated cardNumber, Name, ExpirationMonth,Year and Securitycode
+2023-03-03 16:31:59,483 - logger_File -INFO - User click on Update your Card button
+2023-03-03 16:32:00,299 - logger_File -INFO - Message displayed PaymentMethod Updated Successfully
+2023-03-03 16:32:03,969 - logger_File -INFO - User Signed In
+2023-03-03 16:32:04,320 - logger_File -INFO - User enter email and Password
+2023-03-03 16:32:04,408 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:32:04,813 - logger_File -INFO - User confimed on account page
+2023-03-03 16:32:05,003 - logger_File -INFO - User click on account options
+2023-03-03 16:32:05,515 - logger_File -INFO - user Click on remove option 
+2023-03-03 16:32:08,549 - logger_File -INFO - payment details should be removed
+2023-03-03 16:32:12,611 - logger_File -INFO - User Signed In
+2023-03-03 16:32:12,934 - logger_File -INFO - User enter email and Password
+2023-03-03 16:32:13,010 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:32:13,422 - logger_File -INFO - User confimed on account page
+2023-03-03 16:32:13,586 - logger_File -INFO - User click on account options
+2023-03-03 16:32:13,753 - logger_File -INFO - 
+2023-03-03 16:32:15,414 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 16:32:15,513 - logger_File -INFO - 
+2023-03-03 16:32:16,337 - logger_File -INFO - 
+2023-03-03 16:32:19,570 - logger_File -INFO - User Signed In
+2023-03-03 16:32:19,893 - logger_File -INFO - User enter email and Password
+2023-03-03 16:32:19,964 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:32:20,385 - logger_File -INFO - User confimed on account page
+2023-03-03 16:32:20,555 - logger_File -INFO - User click on account options
+2023-03-03 16:32:21,057 - logger_File -INFO - User click on edit address option
+2023-03-03 16:32:22,793 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 16:32:22,888 - logger_File -INFO - User click update your Address button
+2023-03-03 16:32:23,755 - logger_File -INFO - message displyed address updated successfully
+2023-03-03 16:32:28,155 - logger_File -INFO - User Signed In
+2023-03-03 16:32:28,489 - logger_File -INFO - User enter email and Password
+2023-03-03 16:32:28,567 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:32:28,984 - logger_File -INFO - User confimed on account page
+2023-03-03 16:32:29,154 - logger_File -INFO - User click on account options
+2023-03-03 16:32:30,033 - logger_File -INFO - User click on remove option of Address section
+2023-03-03 16:32:30,058 - logger_File -INFO - Address details should be removed
+2023-03-03 16:32:37,839 - logger_File -INFO - User Signed In
+2023-03-03 16:32:38,217 - logger_File -INFO - User enter email and Password
+2023-03-03 16:32:38,290 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:32:38,709 - logger_File -INFO - User confimed on account page
+2023-03-03 16:32:42,089 - logger_File -INFO - User Signed In
+2023-03-03 16:32:42,190 - logger_File -INFO - User click on create new Account button
+2023-03-03 16:32:42,734 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-03-03 16:32:42,823 - logger_File -INFO - User Click on sign Up Button
+2023-03-03 16:34:21,883 - logger_File -INFO - User Signed In
+2023-03-03 16:34:22,271 - logger_File -INFO - User enter email and Password
+2023-03-03 16:34:22,404 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:34:22,898 - logger_File -INFO - User confimed on account page
+2023-03-03 16:34:23,166 - logger_File -INFO - User click on account options
+2023-03-03 16:34:23,349 - logger_File -INFO - User click on Add Payment link
+2023-03-03 16:34:24,260 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:34:24,417 - logger_File -INFO - User click on add your card button
+2023-03-03 16:40:35,759 - logger_File -INFO - User click on All section
+2023-03-03 16:40:39,717 - logger_File -INFO - User click on All section
+2023-03-03 16:40:39,908 - logger_File -INFO - User click on each department
+2023-03-03 16:40:39,990 - logger_File -INFO - below options are present in department
+2023-03-03 16:40:45,863 - logger_File -INFO - User click on All section
+2023-03-03 16:40:46,304 - logger_File -INFO - User click on each department
+2023-03-03 16:40:46,343 - logger_File -INFO - below options are present in department
+2023-03-03 16:40:46,431 - logger_File -INFO - below options are present in department
+2023-03-03 16:40:49,772 - logger_File -INFO - User click on All section
+2023-03-03 16:40:49,977 - logger_File -INFO - User click on each department
+2023-03-03 16:40:50,012 - logger_File -INFO - below options are present in department
+2023-03-03 16:40:50,075 - logger_File -INFO - below options are present in department
+2023-03-03 16:41:00,397 - logger_File -INFO - User click on All section
+2023-03-03 16:41:00,613 - logger_File -INFO - User click on each department
+2023-03-03 16:41:00,656 - logger_File -INFO - below options are present in department
+2023-03-03 16:41:00,707 - logger_File -INFO - below options are present in department
+2023-03-03 16:41:04,164 - logger_File -INFO - User click on All section
+2023-03-03 16:41:04,364 - logger_File -INFO - User click on each department
+2023-03-03 16:41:12,110 - logger_File -INFO - User Signed In
+2023-03-03 16:41:12,499 - logger_File -INFO - User enter email and Password
+2023-03-03 16:41:12,592 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:41:13,018 - logger_File -INFO - User confimed on account page
+2023-03-03 16:41:13,189 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:41:13,587 - logger_File -INFO - User search for an item
+2023-03-03 16:41:14,233 - logger_File -INFO - User click on item
+2023-03-03 16:41:14,564 - logger_File -INFO - user select the quantity 
+2023-03-03 16:41:14,662 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:41:22,256 - logger_File -INFO - User Signed In
+2023-03-03 16:41:22,602 - logger_File -INFO - User enter email and Password
+2023-03-03 16:41:22,693 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:41:23,189 - logger_File -INFO - User confimed on account page
+2023-03-03 16:41:23,296 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:41:23,730 - logger_File -INFO - User search for an item
+2023-03-03 16:41:24,324 - logger_File -INFO - User click on item
+2023-03-03 16:41:24,977 - logger_File -INFO - user select the quantity 
+2023-03-03 16:41:25,064 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:41:28,292 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:41:28,506 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:41:28,837 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 16:41:33,959 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 16:41:34,065 - logger_File -INFO - 
+2023-03-03 16:41:37,186 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 16:41:37,740 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:41:37,835 - logger_File -INFO - User click on add your card button
+2023-03-03 16:41:45,147 - logger_File -INFO - User Signed In
+2023-03-03 16:41:45,700 - logger_File -INFO - User enter email and Password
+2023-03-03 16:41:45,785 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:41:46,291 - logger_File -INFO - User confimed on account page
+2023-03-03 16:41:46,437 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:41:46,700 - logger_File -INFO - User search for an item
+2023-03-03 16:41:47,488 - logger_File -INFO - User click on item
+2023-03-03 16:41:47,937 - logger_File -INFO - user select the quantity 
+2023-03-03 16:41:48,068 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:41:51,324 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:41:51,509 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:41:51,647 - logger_File -INFO - user click on place your order
+2023-03-03 16:41:53,047 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 16:41:58,679 - logger_File -INFO - User Signed In
+2023-03-03 16:41:59,109 - logger_File -INFO - User enter email and Password
+2023-03-03 16:41:59,191 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:41:59,603 - logger_File -INFO - User confimed on account page
+2023-03-03 16:41:59,704 - logger_File -INFO - user click on orders section
+2023-03-03 16:42:00,356 - logger_File -INFO - user click on first order in List
+2023-03-03 16:42:00,528 - logger_File -INFO - user click on cancel the order button
+2023-03-03 16:42:00,615 - logger_File -INFO - user select the cancelation reason
+2023-03-03 16:42:00,716 - logger_File -INFO - user click on cancel order button
+2023-03-03 16:42:01,206 - logger_File -INFO - cancelation message should be displayed
+2023-03-03 16:42:05,123 - logger_File -INFO - User Signed In
+2023-03-03 16:42:05,618 - logger_File -INFO - User enter email and Password
+2023-03-03 16:42:05,737 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:42:06,281 - logger_File -INFO - User confimed on account page
+2023-03-03 16:42:06,430 - logger_File -INFO - user click on orders section
+2023-03-03 16:42:07,149 - logger_File -INFO - user click on first order in List
+2023-03-03 16:42:42,918 - logger_File -INFO - User Signed In
+2023-03-03 16:42:43,306 - logger_File -INFO - User enter email and Password
+2023-03-03 16:42:43,475 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:42:43,988 - logger_File -INFO - User confimed on account page
+2023-03-03 16:42:44,103 - logger_File -INFO - user click on orders section
+2023-03-03 16:42:44,895 - logger_File -INFO - user click on first order in List
+2023-03-03 16:42:45,052 - logger_File -INFO - user Click on review button
+2023-03-03 16:42:45,568 - logger_File -INFO - User Write review message
+2023-03-03 16:42:45,699 - logger_File -INFO - User click Add your Review Button
+2023-03-03 16:42:50,758 - logger_File -INFO - A review Message Should be Displayed your review was added successfully
+2023-03-03 16:42:59,546 - logger_File -INFO - User Signed In
+2023-03-03 16:42:59,884 - logger_File -INFO - User enter email and Password
+2023-03-03 16:42:59,973 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:43:00,399 - logger_File -INFO - User confimed on account page
+2023-03-03 16:43:00,579 - logger_File -INFO - User click on account options
+2023-03-03 16:43:00,924 - logger_File -INFO - User enter name and phone number
+2023-03-03 16:43:01,029 - logger_File -INFO - User click on update button
+2023-03-03 16:43:02,006 - logger_File -INFO - good to go
+2023-03-03 16:43:05,167 - logger_File -INFO - User Signed In
+2023-03-03 16:43:05,522 - logger_File -INFO - User enter email and Password
+2023-03-03 16:43:05,605 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:43:06,027 - logger_File -INFO - User confimed on account page
+2023-03-03 16:43:06,203 - logger_File -INFO - User click on account options
+2023-03-03 16:43:06,286 - logger_File -INFO - User click on Add Payment link
+2023-03-03 16:43:06,915 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:43:07,003 - logger_File -INFO - User click on add your card button
+2023-03-03 16:43:07,959 - logger_File -INFO - good to go for updating password
+2023-03-03 16:43:11,385 - logger_File -INFO - User Signed In
+2023-03-03 16:43:11,713 - logger_File -INFO - User enter email and Password
+2023-03-03 16:43:11,805 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:43:12,351 - logger_File -INFO - User confimed on account page
+2023-03-03 16:43:12,518 - logger_File -INFO - User click on account options
+2023-03-03 16:43:13,369 - logger_File -INFO - User click on existing payment add card
+2023-03-03 16:43:13,536 - logger_File -INFO - User click on edit option of card 'which was missing step from Test Case' 
+2023-03-03 16:43:14,236 - logger_File -INFO - user updated cardNumber, Name, ExpirationMonth,Year and Securitycode
+2023-03-03 16:43:14,351 - logger_File -INFO - User click on Update your Card button
+2023-03-03 16:43:15,177 - logger_File -INFO - Message displayed PaymentMethod Updated Successfully
+2023-03-03 16:43:23,472 - logger_File -INFO - User Signed In
+2023-03-03 16:43:23,805 - logger_File -INFO - User enter email and Password
+2023-03-03 16:43:23,876 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:43:24,292 - logger_File -INFO - User confimed on account page
+2023-03-03 16:43:24,461 - logger_File -INFO - User click on account options
+2023-03-03 16:43:25,165 - logger_File -INFO - user Click on remove option 
+2023-03-03 16:43:28,197 - logger_File -INFO - payment details should be removed
+2023-03-03 16:43:32,104 - logger_File -INFO - User Signed In
+2023-03-03 16:43:32,430 - logger_File -INFO - User enter email and Password
+2023-03-03 16:43:32,527 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:43:33,172 - logger_File -INFO - User confimed on account page
+2023-03-03 16:43:33,349 - logger_File -INFO - User click on account options
+2023-03-03 16:43:33,510 - logger_File -INFO - 
+2023-03-03 16:43:35,187 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 16:43:35,273 - logger_File -INFO - 
+2023-03-03 16:43:36,083 - logger_File -INFO - 
+2023-03-03 16:43:39,442 - logger_File -INFO - User Signed In
+2023-03-03 16:43:39,777 - logger_File -INFO - User enter email and Password
+2023-03-03 16:43:39,849 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:43:40,260 - logger_File -INFO - User confimed on account page
+2023-03-03 16:43:40,448 - logger_File -INFO - User click on account options
+2023-03-03 16:43:40,950 - logger_File -INFO - User click on edit address option
+2023-03-03 16:43:42,591 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 16:43:42,687 - logger_File -INFO - User click update your Address button
+2023-03-03 16:43:43,557 - logger_File -INFO - message displyed address updated successfully
+2023-03-03 16:43:47,319 - logger_File -INFO - User Signed In
+2023-03-03 16:43:47,643 - logger_File -INFO - User enter email and Password
+2023-03-03 16:43:47,715 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:43:48,159 - logger_File -INFO - User confimed on account page
+2023-03-03 16:43:48,333 - logger_File -INFO - User click on account options
+2023-03-03 16:43:48,802 - logger_File -INFO - User click on remove option of Address section
+2023-03-03 16:43:48,830 - logger_File -INFO - Address details should be removed
+2023-03-03 16:43:55,131 - logger_File -INFO - User Signed In
+2023-03-03 16:43:55,456 - logger_File -INFO - User enter email and Password
+2023-03-03 16:43:55,527 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:43:56,005 - logger_File -INFO - User confimed on account page
+2023-03-03 16:43:59,160 - logger_File -INFO - User Signed In
+2023-03-03 16:43:59,244 - logger_File -INFO - User click on create new Account button
+2023-03-03 16:43:59,822 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-03-03 16:43:59,927 - logger_File -INFO - User Click on sign Up Button
+2023-03-03 16:46:44,859 - logger_File -INFO - User Signed In
+2023-03-03 16:46:45,453 - logger_File -INFO - User enter email and Password
+2023-03-03 16:46:45,610 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:46:46,279 - logger_File -INFO - User confimed on account page
+2023-03-03 16:46:46,439 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:46:46,678 - logger_File -INFO - User search for an item
+2023-03-03 16:46:47,501 - logger_File -INFO - User click on item
+2023-03-03 16:46:47,951 - logger_File -INFO - user select the quantity 
+2023-03-03 16:46:48,078 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:46:51,312 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:46:51,556 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:46:51,791 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 16:46:56,668 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 16:46:56,843 - logger_File -INFO - 
+2023-03-03 16:47:00,000 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 16:47:00,825 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:47:00,968 - logger_File -INFO - User click on add your card button
+2023-03-03 16:49:00,003 - logger_File -INFO - User Signed In
+2023-03-03 16:49:00,421 - logger_File -INFO - User enter email and Password
+2023-03-03 16:49:00,570 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:49:01,031 - logger_File -INFO - User confimed on account page
+2023-03-03 16:49:01,178 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:49:01,446 - logger_File -INFO - User search for an item
+2023-03-03 16:49:02,231 - logger_File -INFO - User click on item
+2023-03-03 16:49:03,259 - logger_File -INFO - user select the quantity 
+2023-03-03 16:49:03,418 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:49:06,634 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:49:06,840 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:49:07,014 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 16:49:11,809 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 16:49:11,966 - logger_File -INFO - 
+2023-03-03 16:49:15,128 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 16:49:15,978 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:49:16,173 - logger_File -INFO - User click on add your card button
+2023-03-03 16:51:40,735 - logger_File -INFO - User Signed In
+2023-03-03 16:51:41,263 - logger_File -INFO - User enter email and Password
+2023-03-03 16:51:41,396 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:51:41,937 - logger_File -INFO - User confimed on account page
+2023-03-03 16:51:42,140 - logger_File -INFO - User Change the Category to Department
+2023-03-03 16:51:42,420 - logger_File -INFO - User search for an item
+2023-03-03 16:51:43,003 - logger_File -INFO - User click on item
+2023-03-03 16:51:43,506 - logger_File -INFO - user select the quantity 
+2023-03-03 16:51:43,633 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 16:51:46,853 - logger_File -INFO - User click on Cart Option
+2023-03-03 16:51:47,085 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 16:51:47,241 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 16:51:52,166 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 16:51:52,390 - logger_File -INFO - 
+2023-03-03 16:51:55,544 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 16:51:56,341 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 16:51:56,504 - logger_File -INFO - User click on add your card button
+2023-03-03 16:51:59,642 - logger_File -INFO - user click on place your order
+2023-03-03 16:52:01,195 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 16:53:59,638 - logger_File -INFO - User Signed In
+2023-03-03 16:54:00,182 - logger_File -INFO - User enter email and Password
+2023-03-03 16:54:00,319 - logger_File -INFO - User log In into Accoutn
+2023-03-03 16:54:01,168 - logger_File -INFO - User confimed on account page
+2023-03-03 16:54:01,348 - logger_File -INFO - user click on orders section
+2023-03-03 16:54:02,476 - logger_File -INFO - user click on first order in List
+2023-03-03 16:54:02,718 - logger_File -INFO - user click on Retrun Item button
+2023-03-03 16:54:02,864 - logger_File -INFO - User select the Return Reason 'Item damaged
+2023-03-03 16:54:03,003 - logger_File -INFO - User select the drop off service 'FedEx'
+2023-03-03 16:54:03,109 - logger_File -INFO - User click on Return Order button
+2023-03-03 16:54:03,550 - logger_File -INFO - a cancelation message should be displayed 'Return was successful'
+2023-03-03 17:01:55,222 - logger_File -INFO - User click on All section
+2023-03-03 17:02:00,239 - logger_File -INFO - User click on All section
+2023-03-03 17:02:00,490 - logger_File -INFO - User click on each department
+2023-03-03 17:02:00,575 - logger_File -INFO - below options are present in department
+2023-03-03 17:02:05,230 - logger_File -INFO - User click on All section
+2023-03-03 17:02:05,441 - logger_File -INFO - User click on each department
+2023-03-03 17:02:05,483 - logger_File -INFO - below options are present in department
+2023-03-03 17:02:05,560 - logger_File -INFO - below options are present in department
+2023-03-03 17:02:09,786 - logger_File -INFO - User click on All section
+2023-03-03 17:02:10,136 - logger_File -INFO - User click on each department
+2023-03-03 17:02:10,171 - logger_File -INFO - below options are present in department
+2023-03-03 17:02:10,228 - logger_File -INFO - below options are present in department
+2023-03-03 17:02:14,872 - logger_File -INFO - User click on All section
+2023-03-03 17:02:15,111 - logger_File -INFO - User click on each department
+2023-03-03 17:02:15,155 - logger_File -INFO - below options are present in department
+2023-03-03 17:02:15,295 - logger_File -INFO - below options are present in department
+2023-03-03 17:02:23,693 - logger_File -INFO - User click on All section
+2023-03-03 17:02:24,037 - logger_File -INFO - User click on each department
+2023-03-03 17:02:29,259 - logger_File -INFO - User Signed In
+2023-03-03 17:02:29,654 - logger_File -INFO - User enter email and Password
+2023-03-03 17:02:29,764 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:02:30,323 - logger_File -INFO - User confimed on account page
+2023-03-03 17:02:30,463 - logger_File -INFO - User Change the Category to Department
+2023-03-03 17:02:30,748 - logger_File -INFO - User search for an item
+2023-03-03 17:02:31,475 - logger_File -INFO - User click on item
+2023-03-03 17:02:32,705 - logger_File -INFO - user select the quantity 
+2023-03-03 17:02:32,782 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 17:02:39,885 - logger_File -INFO - User Signed In
+2023-03-03 17:02:40,316 - logger_File -INFO - User enter email and Password
+2023-03-03 17:02:40,416 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:02:40,915 - logger_File -INFO - User confimed on account page
+2023-03-03 17:02:41,004 - logger_File -INFO - User Change the Category to Department
+2023-03-03 17:02:41,232 - logger_File -INFO - User search for an item
+2023-03-03 17:02:42,228 - logger_File -INFO - User click on item
+2023-03-03 17:02:42,702 - logger_File -INFO - user select the quantity 
+2023-03-03 17:02:42,783 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 17:02:45,956 - logger_File -INFO - User click on Cart Option
+2023-03-03 17:02:46,124 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 17:02:46,349 - logger_File -INFO - user click add a new address link for shipping address
+2023-03-03 17:02:51,336 - logger_File -INFO - user fill new address form with below informations
+2023-03-03 17:02:51,437 - logger_File -INFO - 
+2023-03-03 17:02:54,647 - logger_File -INFO - user click add a credit card or debit card for payment method
+2023-03-03 17:02:55,541 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 17:02:55,652 - logger_File -INFO - User click on add your card button
+2023-03-03 17:02:58,751 - logger_File -INFO - user click on place your order
+2023-03-03 17:02:59,893 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 17:03:03,722 - logger_File -INFO - User Signed In
+2023-03-03 17:03:04,112 - logger_File -INFO - User enter email and Password
+2023-03-03 17:03:04,205 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:03:04,644 - logger_File -INFO - User confimed on account page
+2023-03-03 17:03:04,744 - logger_File -INFO - User Change the Category to Department
+2023-03-03 17:03:05,055 - logger_File -INFO - User search for an item
+2023-03-03 17:03:05,752 - logger_File -INFO - User click on item
+2023-03-03 17:03:06,249 - logger_File -INFO - user select the quantity 
+2023-03-03 17:03:06,347 - logger_File -INFO - user click add to cart buttton 
+2023-03-03 17:03:09,541 - logger_File -INFO - User click on Cart Option
+2023-03-03 17:03:09,721 - logger_File -INFO - user click on proced to checkout button
+2023-03-03 17:03:12,832 - logger_File -INFO - user click on place your order
+2023-03-03 17:03:13,934 - logger_File -INFO - message should displayed order placed thanks
+2023-03-03 17:03:21,889 - logger_File -INFO - User Signed In
+2023-03-03 17:03:22,237 - logger_File -INFO - User enter email and Password
+2023-03-03 17:03:22,326 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:03:22,781 - logger_File -INFO - User confimed on account page
+2023-03-03 17:03:22,895 - logger_File -INFO - user click on orders section
+2023-03-03 17:03:23,517 - logger_File -INFO - user click on first order in List
+2023-03-03 17:03:23,645 - logger_File -INFO - user click on cancel the order button
+2023-03-03 17:03:23,739 - logger_File -INFO - user select the cancelation reason
+2023-03-03 17:03:23,836 - logger_File -INFO - user click on cancel order button
+2023-03-03 17:03:24,189 - logger_File -INFO - cancelation message should be displayed
+2023-03-03 17:03:31,029 - logger_File -INFO - User Signed In
+2023-03-03 17:03:31,431 - logger_File -INFO - User enter email and Password
+2023-03-03 17:03:31,763 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:03:32,279 - logger_File -INFO - User confimed on account page
+2023-03-03 17:03:32,443 - logger_File -INFO - user click on orders section
+2023-03-03 17:03:33,285 - logger_File -INFO - user click on first order in List
+2023-03-03 17:03:35,442 - logger_File -INFO - user click on Retrun Item button
+2023-03-03 17:03:35,582 - logger_File -INFO - User select the Return Reason 'Item damaged
+2023-03-03 17:03:35,698 - logger_File -INFO - User select the drop off service 'FedEx'
+2023-03-03 17:03:35,832 - logger_File -INFO - User click on Return Order button
+2023-03-03 17:03:36,223 - logger_File -INFO - a cancelation message should be displayed 'Return was successful'
+2023-03-03 17:03:39,969 - logger_File -INFO - User Signed In
+2023-03-03 17:03:40,456 - logger_File -INFO - User enter email and Password
+2023-03-03 17:03:40,534 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:03:41,098 - logger_File -INFO - User confimed on account page
+2023-03-03 17:03:41,209 - logger_File -INFO - user click on orders section
+2023-03-03 17:03:41,986 - logger_File -INFO - user click on first order in List
+2023-03-03 17:03:42,116 - logger_File -INFO - user Click on review button
+2023-03-03 17:03:42,625 - logger_File -INFO - User Write review message
+2023-03-03 17:03:42,735 - logger_File -INFO - User click Add your Review Button
+2023-03-03 17:03:47,793 - logger_File -INFO - A review Message Should be Displayed your review was added successfully
+2023-03-03 17:03:51,957 - logger_File -INFO - User Signed In
+2023-03-03 17:03:52,261 - logger_File -INFO - User enter email and Password
+2023-03-03 17:03:52,338 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:03:53,061 - logger_File -INFO - User confimed on account page
+2023-03-03 17:03:53,357 - logger_File -INFO - User click on account options
+2023-03-03 17:03:53,860 - logger_File -INFO - User enter name and phone number
+2023-03-03 17:03:53,996 - logger_File -INFO - User click on update button
+2023-03-03 17:03:54,942 - logger_File -INFO - good to go
+2023-03-03 17:03:59,716 - logger_File -INFO - User Signed In
+2023-03-03 17:04:00,448 - logger_File -INFO - User enter email and Password
+2023-03-03 17:04:00,562 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:04:01,040 - logger_File -INFO - User confimed on account page
+2023-03-03 17:04:01,261 - logger_File -INFO - User click on account options
+2023-03-03 17:04:01,366 - logger_File -INFO - User click on Add Payment link
+2023-03-03 17:04:02,090 - logger_File -INFO - User put Debit or Credit Card Informations
+2023-03-03 17:04:02,184 - logger_File -INFO - User click on add your card button
+2023-03-03 17:04:03,291 - logger_File -INFO - good to go for updating password
+2023-03-03 17:04:09,642 - logger_File -INFO - User Signed In
+2023-03-03 17:04:10,060 - logger_File -INFO - User enter email and Password
+2023-03-03 17:04:10,184 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:04:10,602 - logger_File -INFO - User confimed on account page
+2023-03-03 17:04:10,798 - logger_File -INFO - User click on account options
+2023-03-03 17:04:12,029 - logger_File -INFO - User click on existing payment add card
+2023-03-03 17:04:12,284 - logger_File -INFO - User click on edit option of card 'which was missing step from Test Case' 
+2023-03-03 17:04:13,549 - logger_File -INFO - user updated cardNumber, Name, ExpirationMonth,Year and Securitycode
+2023-03-03 17:04:13,698 - logger_File -INFO - User click on Update your Card button
+2023-03-03 17:04:14,514 - logger_File -INFO - Message displayed PaymentMethod Updated Successfully
+2023-03-03 17:04:20,684 - logger_File -INFO - User Signed In
+2023-03-03 17:04:21,054 - logger_File -INFO - User enter email and Password
+2023-03-03 17:04:21,140 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:04:21,733 - logger_File -INFO - User confimed on account page
+2023-03-03 17:04:21,941 - logger_File -INFO - User click on account options
+2023-03-03 17:04:22,951 - logger_File -INFO - user Click on remove option 
+2023-03-03 17:04:25,977 - logger_File -INFO - payment details should be removed
+2023-03-03 17:04:29,674 - logger_File -INFO - User Signed In
+2023-03-03 17:04:30,018 - logger_File -INFO - User enter email and Password
+2023-03-03 17:04:30,115 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:04:30,551 - logger_File -INFO - User confimed on account page
+2023-03-03 17:04:30,723 - logger_File -INFO - User click on account options
+2023-03-03 17:04:30,887 - logger_File -INFO - 
+2023-03-03 17:04:32,524 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 17:04:32,615 - logger_File -INFO - 
+2023-03-03 17:04:33,560 - logger_File -INFO - 
+2023-03-03 17:04:37,833 - logger_File -INFO - User Signed In
+2023-03-03 17:04:38,163 - logger_File -INFO - User enter email and Password
+2023-03-03 17:04:38,239 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:04:38,678 - logger_File -INFO - User confimed on account page
+2023-03-03 17:04:38,947 - logger_File -INFO - User click on account options
+2023-03-03 17:04:39,398 - logger_File -INFO - User click on edit address option
+2023-03-03 17:04:41,124 - logger_File -INFO - User fill new addres form with above information
+2023-03-03 17:04:41,208 - logger_File -INFO - User click update your Address button
+2023-03-03 17:04:42,134 - logger_File -INFO - message displyed address updated successfully
+2023-03-03 17:04:45,698 - logger_File -INFO - User Signed In
+2023-03-03 17:04:46,033 - logger_File -INFO - User enter email and Password
+2023-03-03 17:04:46,144 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:04:46,646 - logger_File -INFO - User confimed on account page
+2023-03-03 17:04:46,802 - logger_File -INFO - User click on account options
+2023-03-03 17:04:47,875 - logger_File -INFO - User click on remove option of Address section
+2023-03-03 17:04:47,897 - logger_File -INFO - Address details should be removed
+2023-03-03 17:04:52,010 - logger_File -INFO - User Signed In
+2023-03-03 17:04:52,338 - logger_File -INFO - User enter email and Password
+2023-03-03 17:04:52,423 - logger_File -INFO - User log In into Accoutn
+2023-03-03 17:04:52,844 - logger_File -INFO - User confimed on account page
+2023-03-03 17:04:56,432 - logger_File -INFO - User Signed In
+2023-03-03 17:04:56,552 - logger_File -INFO - User click on create new Account button
+2023-03-03 17:04:57,098 - logger_File -INFO - User enter name, email, password, confirmpassword
+2023-03-03 17:04:57,193 - logger_File -INFO - User Click on sign Up Button

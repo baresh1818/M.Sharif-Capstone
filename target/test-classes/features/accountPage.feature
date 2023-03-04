@@ -10,7 +10,7 @@ Feature: Retail Account Page
   @accountPageScenario1 @RegrationAccountPage @RegrationCapston
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'Rollwannnee' and Phone '7039738521'
+    And User update Name 'Pppiuyooorne' and Phone '7069738521'
     And User click on Update button
     Then User profile information should be updated
 
@@ -29,7 +29,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard  | expirationMonth | expirationYear | securityCode |
-      | 1234023454569999 | AlexJohnson |              10 |           2040 |          899 |
+      | 1234053458638809 | AlexJohnson |              10 |           2028 |          899 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
