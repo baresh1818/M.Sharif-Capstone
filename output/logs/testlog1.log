@@ -3301,3 +3301,51 @@
 2023-03-03 17:04:56,552 [main] INFO logger_File - User click on create new Account button
 2023-03-03 17:04:57,098 [main] INFO logger_File - User enter name, email, password, confirmpassword
 2023-03-03 17:04:57,193 [main] INFO logger_File - User Click on sign Up Button
+2023-03-03 17:27:54,607 [main] INFO logger_File - User Signed In
+2023-03-03 17:27:55,185 [main] INFO logger_File - User enter email and Password
+2023-03-03 17:27:55,331 [main] INFO logger_File - User log In into Accoutn
+2023-03-03 17:27:55,825 [main] INFO logger_File - User confimed on account page
+2023-03-03 17:27:55,984 [main] INFO logger_File - User Change the Category to Department
+2023-03-03 17:27:56,237 [main] INFO logger_File - User search for an item
+2023-03-03 17:27:56,711 [main] INFO logger_File - User click on item
+2023-03-03 17:27:57,064 [main] INFO logger_File - user select the quantity 
+2023-03-03 17:27:57,210 [main] INFO logger_File - user click add to cart buttton 
+2023-03-03 17:28:00,433 [main] INFO logger_File - User click on Cart Option
+2023-03-03 17:28:00,695 [main] INFO logger_File - user click on proced to checkout button
+2023-03-03 17:28:00,914 [main] INFO logger_File - user click add a new address link for shipping address
+2023-03-03 17:28:05,811 [main] INFO logger_File - user fill new address form with below informations
+2023-03-03 17:28:05,996 [main] INFO logger_File - 
+2023-03-03 17:28:09,144 [main] INFO logger_File - user click add a credit card or debit card for payment method
+2023-03-03 17:28:09,915 [main] INFO logger_File - User put Debit or Credit Card Informations
+2023-03-03 17:28:10,090 [main] INFO logger_File - User click on add your card button
+2023-03-03 17:28:13,241 [main] INFO logger_File - user click on place your order
+2023-03-03 17:28:15,113 [main] INFO logger_File - message should displayed order placed thanks
+2023-03-03 17:29:53,855 [main] INFO logger_File - User Signed In
+2023-03-03 17:29:54,297 [main] INFO logger_File - User enter email and Password
+2023-03-03 17:29:54,445 [main] INFO logger_File - User log In into Accoutn
+2023-03-03 17:29:54,937 [main] INFO logger_File - User confimed on account page
+2023-03-03 17:29:55,166 [main] INFO logger_File - user click on orders section
+2023-03-03 17:29:55,574 [main] INFO logger_File - user click on first order in List
+2023-03-03 17:29:57,720 [main] INFO logger_File - user click on Retrun Item button
+2023-03-03 17:29:57,920 [main] INFO logger_File - User select the Return Reason 'Item damaged
+2023-03-03 17:29:58,070 [main] INFO logger_File - User select the drop off service 'FedEx'
+2023-03-03 17:29:58,210 [main] INFO logger_File - User click on Return Order button
+2023-03-03 17:29:58,551 [main] INFO logger_File - a cancelation message should be displayed 'Return was successful'
+2023-03-03 17:33:42,895 [main] INFO logger_File - User Signed In
+2023-03-03 17:33:43,514 [main] INFO logger_File - User enter email and Password
+2023-03-03 17:33:43,665 [main] INFO logger_File - User log In into Accoutn
+2023-03-03 17:33:44,448 [main] INFO logger_File - User confimed on account page
+2023-03-03 17:33:44,686 [main] INFO logger_File - User click on account options
+2023-03-03 17:33:44,911 [main] INFO logger_File - 
+2023-03-03 17:33:46,924 [main] INFO logger_File - User fill new addres form with above information
+2023-03-03 17:33:47,115 [main] INFO logger_File - 
+2023-03-03 17:33:47,921 [main] INFO logger_File - 
+2023-03-03 17:35:22,558 [main] INFO logger_File - User Signed In
+2023-03-03 17:35:23,108 [main] INFO logger_File - User enter email and Password
+2023-03-03 17:35:23,239 [main] INFO logger_File - User log In into Accoutn
+2023-03-03 17:35:23,809 [main] INFO logger_File - User confimed on account page
+2023-03-03 17:35:24,103 [main] INFO logger_File - User click on account options
+2023-03-03 17:35:24,465 [main] INFO logger_File - User click on edit address option
+2023-03-03 17:35:26,515 [main] INFO logger_File - User fill new addres form with above information
+2023-03-03 17:35:26,658 [main] INFO logger_File - User click update your Address button
+2023-03-03 17:35:27,548 [main] INFO logger_File - message displyed address updated successfully
