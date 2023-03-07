@@ -50,7 +50,11 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//div[contains(text(),'Password Updated Successfully')]")
 	public WebElement messageSuccfully;
 	
-	@FindBy(xpath="//p[contains(text(),'Add a payment method')]")
+	
+	@FindBy(xpath="//p[@class='text-sm text-blue-700 hover:underline hover:text-red-700']")
+	public WebElement addPaymentMethod;
+	
+	@FindBy(xpath="//button[@id='addPaymentBtn']")
 	public WebElement addPaymentLink;
 	
 	@FindBy(xpath="//input[@id='cardNumberInput']")

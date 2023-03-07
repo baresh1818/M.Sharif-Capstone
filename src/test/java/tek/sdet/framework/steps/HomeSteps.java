@@ -194,11 +194,12 @@ public class HomeSteps extends CommonUtility {
 	}
 	
 	@Then("User click Add a credit card or Debit Card for Payment method")
-	public void userClickAddACreditCardOrDebitCardForPaymentMethod() throws InterruptedException 			// Maybe my Internet is slow but I have to put 8sec time to stop 
+	public void userClickAddACreditCardOrDebitCardForPaymentMethod()  			// Maybe my Internet is slow but I have to put 8sec time to stop 
 	{
-		Thread.sleep(3000);
+		
 		waitTillPresence(factory.homePage().addDebitCredit);
-		click(factory.homePage().addDebitCredit);															// to run this test case you have to change the card number on feature file
+		clickElementWithJS(factory.homePage().addDebitCredit);
+		//click(factory.homePage().addDebitCredit);															// to run this test case you have to change the card number on feature file
 		logger.info("user click add a credit card or debit card for payment method");
 	}
 	
