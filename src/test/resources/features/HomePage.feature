@@ -62,7 +62,7 @@ Feature: Retail Home Page
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1211611710910629 | Quqqtus Jkan |               9 |           2026 |          728 |
+      | 1211611710810619 | Quqqtus Jkan |               9 |           2026 |          728 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks’
