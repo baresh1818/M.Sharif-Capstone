@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.sdet.framework.runner.TestRunner" time="156.731" tests="21" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.sdet.framework.runner.TestRunner" time="263.911" tests="21" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Volumes/Eclipse/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.4.v20220903-1038/jre/lib"/>
-    <property name="sun.java.command" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire/surefirebooter-20230306205928546_3.jar /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire 2023-03-06T20-59-28_012-jvmRun1 surefire-20230306205928546_1tmp surefire_0-20230306205928546_2tmp"/>
+    <property name="sun.java.command" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire/surefirebooter-20230308140219413_3.jar /Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire 2023-03-08T14-02-18_811-jvmRun1 surefire-20230308140219413_1tmp surefire_0-20230308140219413_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/test-classes:/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/classes:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-java/7.8.0/cucumber-java-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-core/7.8.0/cucumber-core-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-gherkin/7.8.0/cucumber-gherkin-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.8.0/cucumber-gherkin-messages-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/gherkin/24.0.0/gherkin-24.0.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/messages/19.1.2/messages-19.1.2.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/tag-expressions/4.1.0/tag-expressions-4.1.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-expressions/16.0.0/cucumber-expressions-16.0.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/datatable/7.8.0/datatable-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-plugin/7.8.0/cucumber-plugin-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/docstring/7.8.0/docstring-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/html-formatter/20.1.0/html-formatter-20.1.0.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/ci-environment/9.1.0/ci-environment-9.1.0.jar:/Users/mirwaishoshmand/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/mirwaishoshmand/.m2/repository/io/cucumber/cucumber-junit/7.8.0/cucumber-junit-7.8.0.jar:/Users/mirwaishoshmand/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/mirwaishoshmand/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-java/4.4.0/selenium-java-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-api/4.4.0/selenium-api-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.4.0/selenium-chrome-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/com/google/auto/service/auto-service-annotations/1.0.1/auto-service-annotations-1.0.1.jar:/Users/mirwaishoshmand/.m2/repository/com/google/auto/service/auto-service/1.0.1/auto-service-1.0.1.jar:/Users/mirwaishoshmand/.m2/repository/com/google/auto/auto-common/1.2/auto-common-1.2.jar:/Users/mirwaishoshmand/.m2/repository/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar:/Users/mirwaishoshmand/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/mirwaishoshmand/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/mirwaishoshmand/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/mirwaishoshmand/.m2/repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar:/Users/mirwaishoshmand/.m2/repository/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar:/Users/mirwaishoshmand/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.4.0/selenium-chromium-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-json/4.4.0/selenium-json-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v102/4.4.0/selenium-devtools-v102-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v103/4.4.0/selenium-devtools-v103-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v104/4.4.0/selenium-devtools-v104-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.4.0/selenium-devtools-v85-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.4.0/selenium-edge-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.4.0/selenium-firefox-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.4.0/selenium-ie-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/4.4.0/selenium-opera-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.4.0/selenium-remote-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-buffer/4.1.78.Final/netty-buffer-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-codec-http/4.1.78.Final/netty-codec-http-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-codec/4.1.78.Final/netty-codec-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-handler/4.1.78.Final/netty-handler-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-common/4.1.78.Final/netty-common-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.78.Final/netty-transport-classes-epoll-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.78.Final/netty-transport-classes-kqueue-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-epoll/4.1.78.Final/netty-transport-native-epoll-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.78.Final/netty-transport-native-kqueue-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.78.Final/netty-transport-native-unix-common-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport/4.1.78.Final/netty-transport-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-resolver/4.1.78.Final/netty-resolver-4.1.78.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-api/1.16.0/opentelemetry-api-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-context/1.16.0/opentelemetry-context-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.16.0/opentelemetry-exporter-logging-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.16.0/opentelemetry-sdk-metrics-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.16.0-alpha/opentelemetry-sdk-logs-1.16.0-alpha.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.16.0/opentelemetry-sdk-common-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.16.0/opentelemetry-sdk-extension-autoconfigure-spi-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.16.0-alpha/opentelemetry-sdk-extension-autoconfigure-1.16.0-alpha.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.16.0/opentelemetry-sdk-trace-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.16.0/opentelemetry-sdk-1.16.0.jar:/Users/mirwaishoshmand/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.16.0-alpha/opentelemetry-semconv-1.16.0-alpha.jar:/Users/mirwaishoshmand/.m2/repository/io/ous/jtoml/2.0.0/jtoml-2.0.0.jar:/Users/mirwaishoshmand/.m2/repository/net/bytebuddy/byte-buddy/1.12.10/byte-buddy-1.12.10.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/Users/mirwaishoshmand/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/Users/mirwaishoshmand/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/Users/mirwaishoshmand/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/mirwaishoshmand/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/Users/mirwaishoshmand/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-http/4.4.0/selenium-http-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/dev/failsafe/failsafe/3.2.4/failsafe-3.2.4.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.4.0/selenium-safari-driver-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/org/seleniumhq/selenium/selenium-support/4.4.0/selenium-support-4.4.0.jar:/Users/mirwaishoshmand/.m2/repository/io/github/bonigarcia/webdrivermanager/5.3.0/webdrivermanager-5.3.0.jar:/Users/mirwaishoshmand/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/mirwaishoshmand/.m2/repository/com/google/code/gson/gson/2.9.1/gson-2.9.1.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java/3.2.13/docker-java-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java-core/3.2.13/docker-java-core-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java-api/3.2.13/docker-java-api-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar:/Users/mirwaishoshmand/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar:/Users/mirwaishoshmand/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar:/Users/mirwaishoshmand/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar:/Users/mirwaishoshmand/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar:/Users/mirwaishoshmand/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.2.13/docker-java-transport-httpclient5-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/com/github/docker-java/docker-java-transport/3.2.13/docker-java-transport-3.2.13.jar:/Users/mirwaishoshmand/.m2/repository/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar:/Users/mirwaishoshmand/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.1.3/httpclient5-5.1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.1.3/httpcore5-5.1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.1.3/httpcore5-h2-5.1.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/poi/poi/5.2.3/poi-5.2.3.jar:/Users/mirwaishoshmand/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/mirwaishoshmand/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/poi/poi-ooxml/5.2.3/poi-ooxml-5.2.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.3/poi-ooxml-lite-5.2.3.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/xmlbeans/xmlbeans/5.1.1/xmlbeans-5.1.1.jar:/Users/mirwaishoshmand/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/mirwaishoshmand/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/mirwaishoshmand/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar:/Users/mirwaishoshmand/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar:/Users/mirwaishoshmand/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/mirwaishoshmand/.m2/repository/org/yaml/snakeyaml/1.33/snakeyaml-1.33.jar:/Users/mirwaishoshmand/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
@@ -29,7 +29,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire/surefirebooter-20230306205928546_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/mirwaishoshmand/eclipse-workspace/tek-bdd-Project/target/surefire/surefirebooter-20230308140219413_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.4.1+1"/>
@@ -56,7 +56,7 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="Verify Shop by Department sidebar" classname="Retail Home Page" time="5.88">
+  <testcase name="Verify Shop by Department sidebar" classname="Retail Home Page" time="16.169">
     <system-out><![CDATA[
 @homePageScenario1 @RegrationHomePage @RegrationCapston
 Scenario: Verify Shop by Department sidebar                    # features/HomePage.feature:4
@@ -71,22 +71,22 @@ Scenario: Verify Shop by Department sidebar                    # features/HomePa
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
-Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 59011
+Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 62636
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165172.783][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 8:59:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678312944.888][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:02:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 8:59:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:02:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 8:59:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:02:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 8:59:33 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:02:25 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #1" classname="Retail Home Page" time="3.988">
+  <testcase name="Verify department sidebar options #1" classname="Retail Home Page" time="5.787">
     <system-out><![CDATA[
 @homePageScenario2 @RegrationHomePage @RegrationCapston
 Scenario Outline: Verify department sidebar options # features/HomePage.feature:20
@@ -100,22 +100,22 @@ Scenario Outline: Verify department sidebar options # features/HomePage.feature:
   Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
     | 'TV & Video' | Video Games |
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 53525
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 56182
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165176.717][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 8:59:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678312958.881][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:02:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 8:59:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:02:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 8:59:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:02:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 8:59:37 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:02:39 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #2" classname="Retail Home Page" time="3.606">
+  <testcase name="Verify department sidebar options #2" classname="Retail Home Page" time="13.775">
     <system-out><![CDATA[
 @homePageScenario2 @RegrationHomePage @RegrationCapston
 Scenario Outline: Verify department sidebar options # features/HomePage.feature:21
@@ -130,22 +130,22 @@ Scenario Outline: Verify department sidebar options # features/HomePage.feature:
   Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
     | Accessories | Networking |
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 53785
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 59165
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165180.597][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 8:59:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678312964.474][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:02:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 8:59:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:02:45 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 8:59:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:02:45 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 8:59:41 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:02:45 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #3" classname="Retail Home Page" time="3.505">
+  <testcase name="Verify department sidebar options #3" classname="Retail Home Page" time="6.804">
     <system-out><![CDATA[
 @homePageScenario2 @RegrationHomePage @RegrationCapston
 Scenario Outline: Verify department sidebar options # features/HomePage.feature:22
@@ -160,22 +160,22 @@ Scenario Outline: Verify department sidebar options # features/HomePage.feature:
   Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
     | Smart Home Lightning | Plugs and Outlets |
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 51892
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 49849
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165184.192][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 8:59:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678312978.599][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:03:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 8:59:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 8:59:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 8:59:44 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:03:00 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #4" classname="Retail Home Page" time="3.453">
+  <testcase name="Verify department sidebar options #4" classname="Retail Home Page" time="8.629">
     <system-out><![CDATA[
 @homePageScenario2 @RegrationHomePage @RegrationCapston
 Scenario Outline: Verify department sidebar options # features/HomePage.feature:23
@@ -190,22 +190,22 @@ Scenario Outline: Verify department sidebar options # features/HomePage.feature:
   Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
     | Athletic Clothing | Exercise & Fitness |
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 63405
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 54830
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165187.690][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 8:59:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678312985.398][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:03:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 8:59:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 8:59:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 8:59:48 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:03:06 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #5" classname="Retail Home Page" time="3.438">
+  <testcase name="Verify department sidebar options #5" classname="Retail Home Page" time="7.896">
     <system-out><![CDATA[
 @homePageScenario2 @RegrationHomePage @RegrationCapston
 Scenario Outline: Verify department sidebar options # features/HomePage.feature:24
@@ -218,22 +218,22 @@ Scenario Outline: Verify department sidebar options # features/HomePage.feature:
   Then below options are present in department      # tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
     | Automative Parts & Accessories | MotorCycle & Powersports |
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 65507
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 60195
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165191.230][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 8:59:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678312995.258][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:03:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 8:59:51 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 8:59:51 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 8:59:51 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:03:16 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can add an item to cart" classname="Retail Home Page" time="9.289">
+  <testcase name="Verify User can add an item to cart" classname="Retail Home Page" time="19.242">
     <system-out><![CDATA[
 @homePageScenario3 @RegrationHomePage @RegrationCapston
 Scenario: Verify User can add an item to cart                            # features/HomePage.feature:27
@@ -260,22 +260,22 @@ Scenario: Verify User can add an item to cart                            # featu
   And User click add to Cart button                                      # tek.sdet.framework.steps.HomeSteps.userClickToCartButton()
   Then the cart icon quantity should change to '2'                       # tek.sdet.framework.steps.HomeSteps.theCartIconQuantityShouldChangeTo(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 57738
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 63792
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165194.782][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 8:59:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313001.934][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:03:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 8:59:55 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:22 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 8:59:55 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:22 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 8:59:55 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:03:22 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can place an order without Shipping address and payment Method on file" classname="Retail Home Page" time="19.108">
+  <testcase name="Verify User can place an order without Shipping address and payment Method on file" classname="Retail Home Page" time="27.075">
     <system-out><![CDATA[
 @homePageScenario4 @RegrationHomePage @RegrationCapston
 Scenario: Verify User can place an order without Shipping address and payment Method on file # features/HomePage.feature:42
@@ -318,7 +318,7 @@ Scenario: Verify User can place an order without Shipping address and payment Me
  INFO [main] (AccountSteps.java:114)- User put Debit or Credit Card Informations
   And User fill Debit or credit card information                                             # tek.sdet.framework.steps.AccountSteps.UserFillDebitOrCreditCardInformation(io.cucumber.datatable.DataTable)
     | cardNumber       | nameOnCard   | expirationMonth | expirationYear | securityCode |
-    | 1211611710910629 | Quqqtus Jkan | 9               | 2026           | 728          |
+    | 1221619710810619 | Quqqtus Jkan | 9               | 2026           | 728          |
  INFO [main] (AccountSteps.java:121)- User click on add your card button
   And User click on Add your card button                                                     # tek.sdet.framework.steps.AccountSteps.UserClickOnAddYourCardButton()
  INFO [main] (HomeSteps.java:210)- user click on place your order
@@ -326,22 +326,22 @@ Scenario: Verify User can place an order without Shipping address and payment Me
  INFO [main] (HomeSteps.java:218)- message should displayed order placed thanks
   Then a message should be displayed ‘Order Placed, Thanks’                                  # tek.sdet.framework.steps.HomeSteps.aMessageShouldBeDisplayedOrderPlacedThanks()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 49230
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 54376
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165203.936][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:00:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313024.080][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:03:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:00:04 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:00:04 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:03:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:00:04 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:03:44 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can place an order with Shipping address and payment Method on file" classname="Retail Home Page" time="13.193">
+  <testcase name="Verify User can place an order with Shipping address and payment Method on file" classname="Retail Home Page" time="16.39">
     <system-out><![CDATA[
 @homePageScenario5 @RegrationHomePage @RegrationCapston
 Scenario: Verify User can place an order with Shipping address and payment Method on file # features/HomePage.feature:71
@@ -376,22 +376,22 @@ Scenario: Verify User can place an order with Shipping address and payment Metho
  INFO [main] (HomeSteps.java:218)- message should displayed order placed thanks
   Then a message should be displayed ‘Order Placed, Thanks’                               # tek.sdet.framework.steps.HomeSteps.aMessageShouldBeDisplayedOrderPlacedThanks()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 51372
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 50559
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165223.036][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:00:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313048.380][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:04:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:00:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:04:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:00:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:04:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:00:23 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:04:09 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can cancel the order" classname="Retail Order Page" time="7.038">
+  <testcase name="Verify User can cancel the order" classname="Retail Order Page" time="9.541">
     <system-out><![CDATA[
 @orderPageScenario1 @RegrationOrderPage @RegrationCapston
 Scenario: Verify User can cancel the order                                       # features/OrderPage.feature:4
@@ -418,22 +418,22 @@ Scenario: Verify User can cancel the order                                      
  INFO [main] (OrderSteps.java:62)- cancelation message should be displayed
   Then a cancelation message should be displayed 'Your Order Has Been Cancelled' # tek.sdet.framework.steps.OrderSteps.aCancelationMessageShouldBeDisplayedYourOrderHasBeenCancelled(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 63354
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 62240
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165236.195][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:00:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313064.771][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:04:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:00:36 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:04:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:00:36 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:04:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:00:36 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:04:25 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can Return the order" classname="Retail Order Page" time="7.619">
+  <testcase name="Verify User can Return the order" classname="Retail Order Page" time="11.241">
     <system-out><![CDATA[
 @orderPageScenario2 @RegrationOrderPage @RegrationCapston
 Scenario: Verify User can Return the order                               # features/OrderPage.feature:18
@@ -462,22 +462,22 @@ Scenario: Verify User can Return the order                               # featu
  INFO [main] (OrderSteps.java:107)- a cancelation message should be displayed 'Return was successful'
   Then a return message should be displayed 'Return was successfull'     # tek.sdet.framework.steps.OrderSteps.returnMessageShouldBeDisplayed(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 53976
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 61647
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165243.205][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:00:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313074.135][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:04:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:00:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:04:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:00:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:04:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:00:43 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:04:34 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can write a review on order placed" classname="Retail Order Page" time="10.565">
+  <testcase name="Verify User can write a review on order placed" classname="Retail Order Page" time="14.198">
     <system-out><![CDATA[
 @orderPageScenario3 @RegrationOrderPage @RegrationCapston
 Scenario: Verify User can write a review on order placed                                  # features/OrderPage.feature:34
@@ -504,22 +504,22 @@ Scenario: Verify User can write a review on order placed                        
  INFO [main] (OrderSteps.java:146)- A review Message Should be Displayed your review was added successfully
   Then a review message should be displayed 'Your review was added successfully'          # tek.sdet.framework.steps.OrderSteps.aReviewMessageShoudBeDisplayed(java.lang.String)
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 62903
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 53540
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165250.881][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:00:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313085.198][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:04:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:00:51 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:04:46 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:00:51 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:04:46 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:00:51 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:04:46 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can update Profile Information" classname="Retail Account Page" time="5.674">
+  <testcase name="Verify User can update Profile Information" classname="Retail Account Page" time="9.839">
     <system-out><![CDATA[
 @accountPageScenario1 @RegrationAccountPage @RegrationCapston
 Scenario: Verify User can update Profile Information                        # features/accountPage.feature:11
@@ -536,28 +536,28 @@ Scenario: Verify User can update Profile Information                        # fe
  INFO [main] (AccountSteps.java:30)- User click on account options
   When User click on Account option                                         # tek.sdet.framework.steps.AccountSteps.UserClickOnAccountOption()
  INFO [main] (AccountSteps.java:40)- User enter name and phone number
-  And User update Name 'Ljjjytryllkrne' and Phone '7069738521'              # tek.sdet.framework.steps.AccountSteps.UserUpdateNameAndPhone(java.lang.String,java.lang.String)
+  And User update Name 'Ljwderrye' and Phone '7069738521'                   # tek.sdet.framework.steps.AccountSteps.UserUpdateNameAndPhone(java.lang.String,java.lang.String)
  INFO [main] (AccountSteps.java:48)- User click on update button
   And User click on Update button                                           # tek.sdet.framework.steps.AccountSteps.UserClickOnUpdateButton()
  INFO [main] (AccountSteps.java:56)- good to go
   Then User profile information should be updated                           # tek.sdet.framework.steps.AccountSteps.UserProfileInformationShouldBeUpdated()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 52300
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 64850
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165261.496][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313099.392][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:05:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:01 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:05:00 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can add a payment method" classname="Retail Account Page" time="5.808">
+  <testcase name="Verify User can add a payment method" classname="Retail Account Page" time="10.494">
     <system-out><![CDATA[
 @regeration @accountPageScenario3 @RegrationAccountPage @RegrationCapston
 Scenario: Verify User can add a payment method                              # features/accountPage.feature:27
@@ -578,28 +578,28 @@ Scenario: Verify User can add a payment method                              # fe
  INFO [main] (AccountSteps.java:114)- User put Debit or Credit Card Informations
   And User fill Debit or credit card information                            # tek.sdet.framework.steps.AccountSteps.UserFillDebitOrCreditCardInformation(io.cucumber.datatable.DataTable)
     | cardNumber       | nameOnCard  | expirationMonth | expirationYear | securityCode |
-    | 3364043058210408 | AlexJohnson | 10              | 2028           | 899          |
+    | 3364043066291408 | AlexJohnson | 10              | 2028           | 899          |
  INFO [main] (AccountSteps.java:121)- User click on add your card button
   And User click on Add your card button                                    # tek.sdet.framework.steps.AccountSteps.UserClickOnAddYourCardButton()
  INFO [main] (AccountSteps.java:129)- good to go for updating password
   Then a message should be displayed ‘Payment Method added successfully’    # tek.sdet.framework.steps.AccountSteps.MessageShouldBeDisplayedPaymentAddSuccessfully()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 65227
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 55238
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165267.000][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313109.160][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:05:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:07 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:07 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:07 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:05:10 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can edit Debit or Credit card" classname="Retail Account Page" time="7.013">
+  <testcase name="Verify User can edit Debit or Credit card" classname="Retail Account Page" time="13.158">
     <system-out><![CDATA[
 @regeration @accountPageScenario4 @RegrationAccountPage @RegrationCapston
 Scenario: Verify User can edit Debit or Credit card                         # features/accountPage.feature:37
@@ -627,22 +627,22 @@ Scenario: Verify User can edit Debit or Credit card                         # fe
  INFO [main] (AccountSteps.java:174)- Message displayed PaymentMethod Updated Successfully
   Then a message should be displayed 'Payment Method updated Successfully'  # tek.sdet.framework.steps.AccountSteps.messageDisplayedPaymentUpdatedSuccessfully()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 60064
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 56260
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165272.861][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313122.524][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:05:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:13 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:05:23 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can remove Debit or Credit card" classname="Retail Account Page" time="8.1">
+  <testcase name="Verify User can remove Debit or Credit card" classname="Retail Account Page" time="13.056">
     <system-out><![CDATA[
 @regeration @accountPageScenario5 @RegrationAccountPage @RegrationCapston
 Scenario: Verify User can remove Debit or Credit card                       # features/accountPage.feature:47
@@ -663,22 +663,22 @@ Scenario: Verify User can remove Debit or Credit card                       # fe
  INFO [main] (AccountSteps.java:198)- payment details should be removed
   Then payment details should be removed                                    # tek.sdet.framework.steps.AccountSteps.paymentdetailsShouldBeRemoved()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 52111
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 62541
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165279.887][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313133.295][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:05:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:20 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:20 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:34 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:20 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:05:34 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can add an Address" classname="Retail Account Page" time="9.629">
+  <testcase name="Verify User can add an Address" classname="Retail Account Page" time="18.025">
     <system-out><![CDATA[
 @regeration @accountPageScenario6 @RegrationAccountPage @RegrationCapston
 Scenario: Verify User can add an Address                                    # features/accountPage.feature:53
@@ -705,22 +705,22 @@ Scenario: Verify User can add an Address                                    # fe
  INFO [main] (AccountSteps.java:262)- 
   Then a message should be displayed ‘Address Added Successfully’           # tek.sdet.framework.steps.AccountSteps.messageShouldBeDisplayedAddressAddedSuccessfully()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 49317
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 52922
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165288.040][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313146.215][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:05:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:28 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:47 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:28 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:05:47 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:28 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:05:47 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can edit an Address added on account" classname="Retail Account Page" time="10.353">
+  <testcase name="Verify User can edit an Address added on account" classname="Retail Account Page" time="21.369">
     <system-out><![CDATA[
 @regeration @accountPageScenario7 @RegrationAccountPage @RegrationCapston
 Scenario: Verify User can edit an Address added on account                  # features/accountPage.feature:63
@@ -747,22 +747,22 @@ Scenario: Verify User can edit an Address added on account                  # fe
  INFO [main] (AccountSteps.java:293)- message displyed address updated successfully
   Then a message should be displayed ‘Address Updated Successfully’         # tek.sdet.framework.steps.AccountSteps.messageShouldBeDisplayedAddUpdatedSuccessfully()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 56457
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 52908
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165297.681][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313165.575][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:06:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:06:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:06:06 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:38 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:06:06 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can remove Address from Account" classname="Retail Account Page" time="6.002">
+  <testcase name="Verify User can remove Address from Account" classname="Retail Account Page" time="7.469">
     <system-out><![CDATA[
 @regeration @accountPageScenario8 @RegrationAccountPage @RegrationCapston
 Scenario: Verify User can remove Address from Account                       # features/accountPage.feature:73
@@ -783,22 +783,22 @@ Scenario: Verify User can remove Address from Account                       # fe
  INFO [main] (AccountSteps.java:313)- Address details should be removed
   Then Address details should be removed                                    # tek.sdet.framework.steps.AccountSteps.addressDetailsShouldBeRemoved()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 57215
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 55077
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165307.927][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313186.117][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:06:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:06:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:06:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:48 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:06:27 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify user can sign in into Retail Application" classname="Sign In feature" time="3.96">
+  <testcase name="Verify user can sign in into Retail Application" classname="Sign In feature" time="4.921">
     <system-out><![CDATA[
 @TCsignInSenario1 @RegrationSignIn @RegrationCapston
 Scenario: Verify user can sign in into Retail Application                # features/signInPage.feature:4
@@ -813,22 +813,22 @@ Scenario: Verify user can sign in into Retail Application                # featu
  INFO [main] (SignInSteps.java:58)- User confimed on account page
   Then User should be logged in into Account                             # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedInIntoAccount()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 64888
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 63460
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165313.922][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313193.076][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:06:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:06:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:06:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:54 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:06:33 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="Verify user can create an account into Retail Website" classname="Sign In feature" time="8.48">
+  <testcase name="Verify user can create an account into Retail Website" classname="Sign In feature" time="7.278">
     <system-out><![CDATA[
 @TCsignInSenario2 @RegrationSignIn @RegrationCapston
 Scenario: Verify user can create an account into Retail Website # features/signInPage.feature:12
@@ -840,24 +840,24 @@ Scenario: Verify user can create an account into Retail Website # features/signI
   And User click on Create New Account button                   # tek.sdet.framework.steps.SignInSteps.UserClickOnCreateNewAccountButton()
  INFO [main] (SignInSteps.java:80)- User enter name, email, password, confirmpassword
   And User fill the signUp information with below data          # tek.sdet.framework.steps.SignInSteps.UserFillTheSignUpInformationWithBelowData(io.cucumber.datatable.DataTable)
-    | name         | email                 | password   | confirmPassword |
-    | John Lombtrd | cpioouio@tekschool.us | Tek@123456 | Tek@123456      |
+    | name         | email                   | password   | confirmPassword |
+    | John Lombtrd | cldiojjuio@tekschool.us | Tek@123456 | Tek@123456      |
  INFO [main] (SignInSteps.java:87)- User Click on sign Up Button
   And User click on SignUp button                               # tek.sdet.framework.steps.SignInSteps.UserClickOnSignUpButton()
   Then User should be logged into account page                  # tek.sdet.framework.steps.SignInSteps.UserShouldBeLoggedIntoAccountPage()
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 65060
+    <system-err><![CDATA[Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 49236
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1678165317.995][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-Mar 06, 2023 9:01:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1678313197.631][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Mar 08, 2023 2:06:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Mar 06, 2023 9:01:58 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:06:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 110, so returning the closest version found: a no-op implementation
-Mar 06, 2023 9:01:58 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 08, 2023 2:06:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Unable to find CDP implementation matching 110.
-Mar 06, 2023 9:01:58 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+Mar 08, 2023 2:06:38 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
 WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.4.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
