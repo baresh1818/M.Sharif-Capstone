@@ -263,6 +263,7 @@ public class AccountSteps extends CommonUtility {
 		String expectedMessage = getText(factory.accountPage().messageAddressAddedSuccess);
 		String actualMessage = "Address Added Successfully";
 		Assert.assertEquals(expectedMessage, actualMessage);
+		System.out.println("printed");
 		
 	
 		logger.info("message should be displayed Address Added Successfully");

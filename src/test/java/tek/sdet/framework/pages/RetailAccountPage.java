@@ -117,13 +117,13 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//input[@id='zipCodeInput']")
 	public WebElement zipcodeInput;
 	
-	@FindBy(xpath="//button[@id='addressBtn']")
+	@FindBy(xpath="//button[@id='addressBtn']") 
 	public WebElement addYourAddressBtn;
 	
 	//@FindBy(xpath="//div[contains(text(),'Address Added Successfully')]")
 	//public WebElement messageAddressAddedSuccess;
 	
-	@FindBy(xpath="//div[@role='alert']")
+	@FindBy(css="div[role='alert'] div:nth-child(2)")
 	public WebElement messageAddressAddedSuccess;
 	
 	@FindBy(xpath="//div[@class='account__address-grid']//div[2]//div[2]//button[1]")
