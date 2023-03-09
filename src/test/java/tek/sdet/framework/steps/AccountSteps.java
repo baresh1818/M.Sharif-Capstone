@@ -256,7 +256,8 @@ public class AccountSteps extends CommonUtility {
 	@Then("a message should be displayed 'Address Added Successfully'")
 	public void messageShouldBeDisplayedAddressAddedSuccessfully()
 	{
-		
+		//           //div[@role='alert']
+		//		css	div[role='alert'] div:nth-child(2)
 		
 		waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
 		String expectedMessage = getText(factory.accountPage().messageAddressAddedSuccess);

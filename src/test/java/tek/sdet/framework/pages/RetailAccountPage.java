@@ -120,7 +120,10 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//button[@id='addressBtn']")
 	public WebElement addYourAddressBtn;
 	
-	@FindBy(xpath="//div[contains(text(),'Address Added Successfully')]")
+	//@FindBy(xpath="//div[contains(text(),'Address Added Successfully')]")
+	//public WebElement messageAddressAddedSuccess;
+	
+	@FindBy(xpath="//div[@role='alert']")
 	public WebElement messageAddressAddedSuccess;
 	
 	@FindBy(xpath="//div[@class='account__address-grid']//div[2]//div[2]//button[1]")
