@@ -254,12 +254,12 @@ public class AccountSteps extends CommonUtility {
 	}
 	
 	@Then("a message should be displayed 'Address Added Successfully'")
-	public void messageShouldBeDisplayedAddressAddedSuccessfully() throws InterruptedException
+	public void messageShouldBeDisplayedAddressAddedSuccessfully() 
 	{
 		
 		
-		//waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
-		Thread.sleep(5000);
+		waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
+		
 		String expectedMessage = getText(factory.accountPage().messageAddressAddedSuccess);
 		String actualMessage = "Address Added Successfully";
 		Assert.assertEquals(expectedMessage, actualMessage);

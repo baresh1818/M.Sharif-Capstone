@@ -28,7 +28,7 @@ public class CommonUtility extends BaseSetup {
 	
 	public WebDriverWait getWait()
 	{
-		return new WebDriverWait (getDriver(), Duration.ofSeconds(20));
+		return new WebDriverWait (getDriver(), Duration.ofSeconds(30));
 	}
 	
 	public WebElement waitTillClickable(WebElement element)
