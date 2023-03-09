@@ -123,8 +123,7 @@ public class RetailAccountPage extends BaseSetup {
 	//@FindBy(xpath="//div[contains(text(),'Address Added Successfully')]")
 	//public WebElement messageAddressAddedSuccess;
 	
-	@FindBy(css="div[role='alert'] div:nth-child(2)")
-	public WebElement messageAddressAddedSuccess;
+	
 	
 	@FindBy(xpath="//div[@class='account__address-grid']//div[2]//div[2]//button[1]")
 	public WebElement editAddressBtn;
@@ -139,7 +138,8 @@ public class RetailAccountPage extends BaseSetup {
 	public WebElement removeAddressBtn;
 	
 
-	
+	@FindBy(xpath="//div[contains(text(),'Address Added Successfully')]")
+	public WebElement messageAddressAddedSuccess;
 	
 	
 	
