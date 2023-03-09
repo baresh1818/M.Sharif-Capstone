@@ -130,7 +130,7 @@ public class HomeSteps extends CommonUtility {
 	@Then("the cart icon quantity should change to {string}")
 	public void theCartIconQuantityShouldChangeTo(String number) throws InterruptedException 
 	{
-		Thread.sleep(3000);
+		//Thread.sleep(3000);
 		String str = getElementText(factory.homePage().cartQuantity);
 		if(str.equals(number))
 		{
@@ -189,7 +189,7 @@ public class HomeSteps extends CommonUtility {
 		doubleClick(factory.homePage().zipCodeInput);
 		ctrlA(factory.homePage().zipCodeInput);
 		sendText(factory.homePage().zipCodeInput,data.get(0).get("zipCode"));
-		Thread.sleep(3000);
+		//Thread.sleep(3000);
 		logger.info("user fill new address form with below informations");
 	}
 	

@@ -193,7 +193,7 @@ public class AccountSteps extends CommonUtility {
 	@Then("payment details should be removed")
 	public void paymentdetailsShouldBeRemoved() throws InterruptedException
 	{
-		Thread.sleep(3000);
+		//Thread.sleep(3000);
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().paymentSelectedAccount));
 		logger.info("payment details should be removed");
 	}
