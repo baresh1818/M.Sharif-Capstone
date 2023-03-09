@@ -208,7 +208,8 @@ public class HomeSteps extends CommonUtility {
 	{
 		//Thread.sleep(3000);
 		waitTillPresence(factory.homePage().placeOrderBtn);
-		click(factory.homePage().placeOrderBtn);
+		clickElementWithJS(factory.homePage().placeOrderBtn);
+		//click(factory.homePage().placeOrderBtn);
 		logger.info("user click on place your order");
 	}
 	
