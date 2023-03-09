@@ -256,7 +256,7 @@ public class AccountSteps extends CommonUtility {
 	@Then("a message should be displayed ‘Address Added Successfully’")
 	public void messageShouldBeDisplayedAddressAddedSuccessfully() throws InterruptedException
 	{
-		Thread.sleep(3000);
+		//Thread.sleep(3000);
 		waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().messageAddressAddedSuccess));
 		logger.info("");
@@ -287,7 +287,7 @@ public class AccountSteps extends CommonUtility {
 	@Then("a message should be displayed ‘Address Updated Successfully’")
 	public void messageShouldBeDisplayedAddUpdatedSuccessfully() throws InterruptedException
 	{
-		Thread.sleep(3000);
+		//Thread.sleep(3000);
 		waitTillPresence(factory.accountPage().addressUpdatedSuccessfully);
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().addressUpdatedSuccessfully));
 		logger.info("message displyed address updated successfully");

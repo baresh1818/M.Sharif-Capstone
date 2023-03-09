@@ -206,7 +206,8 @@ public class HomeSteps extends CommonUtility {
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() throws InterruptedException 
 	{
-		Thread.sleep(3000);		click(factory.homePage().placeOrderBtn);
+		//Thread.sleep(3000);		
+		click(factory.homePage().placeOrderBtn);
 		logger.info("user click on place your order");
 	}
 	
