@@ -4777,3 +4777,29 @@
 2023-03-08 19:41:58,463 - logger_File -INFO - User fill new addres form with above information
 2023-03-08 19:41:58,574 - logger_File -INFO - User click update your Address button
 2023-03-08 19:42:00,636 - logger_File -INFO - message displyed address updated successfully
+2023-03-08 20:27:17,563 - logger_File -INFO - User Signed In
+2023-03-08 20:27:18,204 - logger_File -INFO - User enter email and Password
+2023-03-08 20:27:18,338 - logger_File -INFO - User log In into Accoutn
+2023-03-08 20:27:18,812 - logger_File -INFO - User confimed on account page
+2023-03-08 20:27:19,047 - logger_File -INFO - User click on account options
+2023-03-08 20:27:19,248 - logger_File -INFO - 
+2023-03-08 20:27:21,227 - logger_File -INFO - User fill new addres form with above information
+2023-03-08 20:27:21,393 - logger_File -INFO - 
+2023-03-08 20:27:22,183 - logger_File -INFO - message should be displayed Address Added Successfully
+2023-03-08 20:28:15,671 - logger_File -INFO - User Signed In
+2023-03-08 20:28:16,130 - logger_File -INFO - User enter email and Password
+2023-03-08 20:28:16,279 - logger_File -INFO - User log In into Accoutn
+2023-03-08 20:28:16,759 - logger_File -INFO - User confimed on account page
+2023-03-08 20:28:17,012 - logger_File -INFO - User click on account options
+2023-03-08 20:28:17,280 - logger_File -INFO - 
+2023-03-08 20:28:19,224 - logger_File -INFO - User fill new addres form with above information
+2023-03-08 20:28:19,386 - logger_File -INFO - 
+2023-03-08 20:28:56,223 - logger_File -INFO - User Signed In
+2023-03-08 20:28:56,688 - logger_File -INFO - User enter email and Password
+2023-03-08 20:28:56,835 - logger_File -INFO - User log In into Accoutn
+2023-03-08 20:28:57,397 - logger_File -INFO - User confimed on account page
+2023-03-08 20:28:57,656 - logger_File -INFO - User click on account options
+2023-03-08 20:28:57,878 - logger_File -INFO - 
+2023-03-08 20:28:59,840 - logger_File -INFO - User fill new addres form with above information
+2023-03-08 20:28:59,999 - logger_File -INFO - 
+2023-03-08 20:29:00,807 - logger_File -INFO - message should be displayed Address Added Successfully

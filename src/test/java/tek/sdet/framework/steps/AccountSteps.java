@@ -170,7 +170,7 @@ public class AccountSteps extends CommonUtility {
 	public void messageDisplayedPaymentUpdatedSuccessfully()
 	{
 		waitTillPresence(factory.accountPage().paymentUpdatedSuccessfully);
-		//Assert.assertTrue(isElementDisplayed(factory.accountPage().paymentUpdatedSuccessfully));
+		Assert.assertTrue(isElementDisplayed(factory.accountPage().paymentUpdatedSuccessfully));
 		logger.info("Message displayed PaymentMethod Updated Successfully");
 		
 		
@@ -254,12 +254,16 @@ public class AccountSteps extends CommonUtility {
 	}
 	
 	@Then("a message should be displayed 'Address Added Successfully'")
-	public void messageShouldBeDisplayedAddressAddedSuccessfully() throws InterruptedException
+	public void messageShouldBeDisplayedAddressAddedSuccessfully()
 	{
-		Thread.sleep(2000);
-		//waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
+		
+		
 		waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
-		//Assert.assertTrue(isElementDisplayed(factory.accountPage().messageAddressAddedSuccess));
+		String expectedMessage = getText(factory.accountPage().messageAddressAddedSuccess);
+		String actualMessage = "Address Added Successfully";
+		Assert.assertEquals(expectedMessage, actualMessage);
+		
+	
 		logger.info("message should be displayed Address Added Successfully");
 	}
 	
@@ -286,12 +290,15 @@ public class AccountSteps extends CommonUtility {
 	}
 	
 	@Then("a message should be displayed 'Address Updated Successfully'")
-	public void messageShouldBeDisplayedAddUpdatedSuccessfully() throws InterruptedException
+	public void messageShouldBeDisplayedAddUpdatedSuccessfully()
 	{
-		Thread.sleep(2000);
-		//waitTillPresence(factory.accountPage().addressUpdatedSuccessfully);
 		waitTillPresence(factory.accountPage().addressUpdatedSuccessfully);
-		//Assert.assertTrue(isElementDisplayed(factory.accountPage().addressUpdatedSuccessfully));
+		String expectedMessage = getText(factory.accountPage().addressUpdatedSuccessfully);
+		String actualMessage = "Address Updated Successfully";
+		Assert.assertEquals(expectedMessage, actualMessage);
+		
+		
+		
 		logger.info("message displyed address updated successfully");
 	}
 	
