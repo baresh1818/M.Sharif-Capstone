@@ -4873,3 +4873,21 @@
 2023-03-08 21:11:49,267 [main] INFO logger_File - User fill new addres form with above information
 2023-03-08 21:11:49,372 [main] INFO logger_File - 
 2023-03-08 21:11:51,415 [main] INFO logger_File - message should be displayed Address Added Successfully
+2023-03-08 21:49:08,255 [main] INFO logger_File - User Signed In
+2023-03-08 21:49:08,666 [main] INFO logger_File - User enter email and Password
+2023-03-08 21:49:08,761 [main] INFO logger_File - User log In into Accoutn
+2023-03-08 21:49:09,159 [main] INFO logger_File - User confimed on account page
+2023-03-08 21:49:09,393 [main] INFO logger_File - User click on account options
+2023-03-08 21:49:09,706 [main] INFO logger_File - 
+2023-03-08 21:49:11,653 [main] INFO logger_File - User fill new addres form with above information
+2023-03-08 21:49:11,777 [main] INFO logger_File - 
+2023-03-08 21:49:12,610 [main] INFO logger_File - message should be displayed Address Added Successfully
+2023-03-08 21:54:35,373 [main] INFO logger_File - User Signed In
+2023-03-08 21:54:35,664 [main] INFO logger_File - User enter email and Password
+2023-03-08 21:54:35,965 [main] INFO logger_File - User log In into Accoutn
+2023-03-08 21:54:36,331 [main] INFO logger_File - User confimed on account page
+2023-03-08 21:54:36,703 [main] INFO logger_File - User click on account options
+2023-03-08 21:54:37,000 [main] INFO logger_File - 
+2023-03-08 21:54:38,950 [main] INFO logger_File - User fill new addres form with above information
+2023-03-08 21:54:39,325 [main] INFO logger_File - 
+2023-03-08 21:54:39,955 [main] INFO logger_File - message should be displayed Address Added Successfully
