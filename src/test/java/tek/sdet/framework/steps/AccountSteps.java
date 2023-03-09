@@ -259,7 +259,7 @@ public class AccountSteps extends CommonUtility {
 		
 		
 		//waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
-		Thread.sleep(2000);
+		Thread.sleep(5000);
 		String expectedMessage = getText(factory.accountPage().messageAddressAddedSuccess);
 		String actualMessage = "Address Added Successfully";
 		Assert.assertEquals(expectedMessage, actualMessage);
