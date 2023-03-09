@@ -10,7 +10,7 @@ Feature: Retail Account Page
   @accountPageScenario1 @RegrationAccountPage @RegrationCapston
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'Ljkkrrye' and Phone '7069738521'
+    And User update Name 'Ljzxcxzrye' and Phone '7069738521'
     And User click on Update button
     Then User profile information should be updated
 
@@ -29,7 +29,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard  | expirationMonth | expirationYear | securityCode |
-      | 3364123066197408 | AlexJohnson |              10 |           2028 |          899 |
+      | 3360123066195408 | AlexJohnson |              10 |           2028 |          899 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -57,7 +57,7 @@ Feature: Retail Account Page
       | country       | fullName    | phoneNumber | streetAddress | apt | city       | state      | zipCode |
       | United States | Jye Bidn |  8767894765 | 5455 ArdenWay |  14 | Sacramento | California |   57465 |
     And User click Add Your Address button
-    Then a message should be displayed ‘Address Added Successfully’
+    Then a message should be displayed 'Address Added Successfully'
 
   @regeration @accountPageScenario7 @RegrationAccountPage @RegrationCapston
   Scenario: Verify User can edit an Address added on account
@@ -67,7 +67,7 @@ Feature: Retail Account Page
       | country       | fullName   | phoneNumber | streetAddress | apt | city    | state | zipCode |
       | United States | Samad Dardar |  8314448318 | 2222 Elcamino | G   | Houston | Texas |   79975 |
     And User click update Your Address button
-    Then a message should be displayed ‘Address Updated Successfully’
+    Then a message should be displayed 'Address Updated Successfully'
 
   @regeration @accountPageScenario8 @RegrationAccountPage @RegrationCapston
   Scenario: Verify User can remove Address from Account

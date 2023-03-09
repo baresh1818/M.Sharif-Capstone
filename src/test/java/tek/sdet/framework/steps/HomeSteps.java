@@ -204,14 +204,15 @@ public class HomeSteps extends CommonUtility {
 	}
 	
 	@Then("User click on Place Your Order")
-	public void userClickOnPlaceYourOrder() throws InterruptedException 
+	public void userClickOnPlaceYourOrder() 
 	{
-		//Thread.sleep(3000);		
+		//Thread.sleep(3000);
+		waitTillPresence(factory.homePage().placeOrderBtn);
 		click(factory.homePage().placeOrderBtn);
 		logger.info("user click on place your order");
 	}
 	
-	@Then("a message should be displayed ‘Order Placed, Thanks’")
+	@Then("a message should be displayed 'Order Placed, Thanks'")
 	public void aMessageShouldBeDisplayedOrderPlacedThanks() 
 	{
 		waitTillPresence(factory.homePage().messageOrderPlacedSuccessfully);									// we use explicit Wait

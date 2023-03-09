@@ -253,13 +253,14 @@ public class AccountSteps extends CommonUtility {
 		logger.info("");
 	}
 	
-	@Then("a message should be displayed ‘Address Added Successfully’")
-	public void messageShouldBeDisplayedAddressAddedSuccessfully() throws InterruptedException
+	@Then("a message should be displayed 'Address Added Successfully'")
+	public void messageShouldBeDisplayedAddressAddedSuccessfully()
 	{
 		//Thread.sleep(3000);
 		waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
+		waitTillPresence(factory.accountPage().messageAddressAddedSuccess);
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().messageAddressAddedSuccess));
-		logger.info("");
+		logger.info("message should be displayed Address Added Successfully");
 	}
 	
 	
@@ -284,10 +285,11 @@ public class AccountSteps extends CommonUtility {
 		logger.info("User click update your Address button");
 	}
 	
-	@Then("a message should be displayed ‘Address Updated Successfully’")
-	public void messageShouldBeDisplayedAddUpdatedSuccessfully() throws InterruptedException
+	@Then("a message should be displayed 'Address Updated Successfully'")
+	public void messageShouldBeDisplayedAddUpdatedSuccessfully()
 	{
 		//Thread.sleep(3000);
+		waitTillPresence(factory.accountPage().addressUpdatedSuccessfully);
 		waitTillPresence(factory.accountPage().addressUpdatedSuccessfully);
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().addressUpdatedSuccessfully));
 		logger.info("message displyed address updated successfully");
