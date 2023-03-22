@@ -34,7 +34,7 @@ public class BaseSetup
 			environmentVariables = ReadYamlFiles.getInstance(filePath);
 		} catch (FileNotFoundException e) 
 		{
-			System.out.println("FAiled for load environment context. check  possible file path errors");
+			System.out.println("Failed for load environment context. check  possible file path errors");
 			throw new RuntimeException("Failed for environment context with message"+ e.getMessage());
 		}
 		logger = logger.getLogger("logger_File");               // org.apache.log4j.Logger;

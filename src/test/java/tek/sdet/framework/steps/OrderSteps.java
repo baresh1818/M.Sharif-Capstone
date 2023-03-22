@@ -70,7 +70,7 @@ public class OrderSteps extends CommonUtility {
 	@And("User click on Return Items button")
 	public void userClickOnReturnItemButton() throws InterruptedException
 	{
-		Thread.sleep(2000);
+		//Thread.sleep(2000);
 		click(factory.orderPage().returnItemBtn);
 		logger.info("user click on Retrun Item button");
 	}

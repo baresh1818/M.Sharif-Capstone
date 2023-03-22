@@ -62,10 +62,10 @@ Feature: Retail Home Page
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 2461616711080598 | Quqqtus Jkan |               9 |           2026 |          728 |
+      | 8121616701060998 | Quqqtus Jkan |               9 |           2026 |          728 |
     And User click on Add your card button
     And User click on Place Your Order
-    Then a message should be displayed 'Order Placed, Thanks'
+    Then a message should be displayed 'Order Placed Successfully'
 
   @homePageScenario5 @RegrationHomePage @RegrationCapston
   Scenario: Verify User can place an order with Shipping address and payment Method on file
@@ -84,4 +84,4 @@ Feature: Retail Home Page
     And User click on Cart option
     And User click on Proceed to Checkout button
     And User click on Place Your Order
-    Then a message should be displayed ‘Order Placed, Thanks’
+    Then a message should be displayed 'Order Placed Successfully'

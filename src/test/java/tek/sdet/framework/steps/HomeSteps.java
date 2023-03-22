@@ -213,12 +213,13 @@ public class HomeSteps extends CommonUtility {
 		logger.info("user click on place your order");
 	}
 	
-	@Then("a message should be displayed 'Order Placed, Thanks'")
-	public void aMessageShouldBeDisplayedOrderPlacedThanks() 
+	@Then("a message should be displayed 'Order Placed Successfully'")
+	public void aMessageShouldBeDisplayedOrderPlaced() throws InterruptedException 
 	{
+		Thread.sleep(4000);		
 		waitTillPresence(factory.homePage().messageOrderPlacedSuccessfully);									// we use explicit Wait
 		Assert.assertTrue(isElementDisplayed(factory.homePage().messageOrderPlacedSuccessfully));
-		logger.info("message should displayed order placed thanks");
+		logger.info("message should displayed order placed Successfully");
 	}
 	
 	
