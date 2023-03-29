@@ -204,7 +204,7 @@ public class AccountSteps extends CommonUtility {
 	
 	
 	
-	
+
 	@And("User click on Add address option")
 	public void userClickOnAddAddressOption()
 	{
@@ -217,30 +217,42 @@ public class AccountSteps extends CommonUtility {
 	{
 		List<Map<String, String>> data2	= dataTable.asMaps(String.class, String.class);
 		selectByValue(factory.accountPage().countryDropdown,data2.get(0).get("country"));
-		doubleClick(factory.accountPage().fullNameInput);
-		ctrlA(factory.accountPage().fullNameInput);
+		//doubleClick(factory.accountPage().fullNameInput);
+		//ctrlA(factory.accountPage().fullNameInput);
+		//cleartext(factory.accountPage().fullNameInput);
+		clearTextUsingSendKeys(factory.accountPage().fullNameInput);
 		sendText(factory.accountPage().fullNameInput,data2.get(0).get("fullName"));
 	
-		doubleClick(factory.accountPage().phoneNumberInput);	// I create a method  'doubleClick' on common utitlity
-		ctrlA(factory.accountPage().phoneNumberInput);
+		//doubleClick(factory.accountPage().phoneNumberInput);	// I create a method  'doubleClick' on common utitlity
+		//ctrlA(factory.accountPage().phoneNumberInput);
+		//cleartext(factory.accountPage().phoneNumberInput);
+		clearTextUsingSendKeys(factory.accountPage().phoneNumberInput);
 		sendText(factory.accountPage().phoneNumberInput,data2.get(0).get("phoneNumber"));
 		
-		doubleClick(factory.accountPage().streetAddressInput);
-		ctrlA(factory.accountPage().streetAddressInput);
+		//doubleClick(factory.accountPage().streetAddressInput);
+		//ctrlA(factory.accountPage().streetAddressInput);
+		//cleartext(factory.accountPage().streetAddressInput);
+		clearTextUsingSendKeys(factory.accountPage().streetAddressInput);
 		sendText(factory.accountPage().streetAddressInput,data2.get(0).get("streetAddress"));
 		
-		doubleClick(factory.accountPage().apartmentInput);
-		ctrlA(factory.accountPage().apartmentInput);
+		//doubleClick(factory.accountPage().apartmentInput);
+		//ctrlA(factory.accountPage().apartmentInput);
+		//cleartext(factory.accountPage().apartmentInput);
+		clearTextUsingSendKeys(factory.accountPage().apartmentInput);
 		sendText(factory.accountPage().apartmentInput,data2.get(0).get("apt"));
 		
-		doubleClick(factory.accountPage().cityInput);
-		ctrlA(factory.accountPage().cityInput);
+		//doubleClick(factory.accountPage().cityInput);
+		//ctrlA(factory.accountPage().cityInput);
+		//cleartext(factory.accountPage().cityInput);
+		clearTextUsingSendKeys(factory.accountPage().cityInput);
 		sendText(factory.accountPage().cityInput,data2.get(0).get("city"));
 		
 		selectByValue(factory.accountPage().stateOptions,data2.get(0).get("state"));
 		
-		doubleClick(factory.accountPage().zipcodeInput);
-		ctrlA(factory.accountPage().fullNameInput);
+		//doubleClick(factory.accountPage().zipcodeInput);
+		//ctrlA(factory.accountPage().fullNameInput);
+		//cleartext(factory.accountPage().zipcodeInput);
+		clearTextUsingSendKeys(factory.accountPage().zipcodeInput);
 		sendText(factory.accountPage().zipcodeInput,data2.get(0).get("zipCode"));
 		
 		logger.info("User fill new addres form with above information");
